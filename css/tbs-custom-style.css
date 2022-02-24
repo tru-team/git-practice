@@ -1,0 +1,2261 @@
+.page-ordering-online .ecommhub-intro-content-inner .intro-subtile {
+    font-weight: bold;
+}
+
+.page-ordering-online .ecommhub-intro-content-inner .intro-subtile {
+    font-size: 14px;
+    font-family: "Gotham-Book";
+    color: #4a4f55;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    max-width: 1090px;
+}
+
+.page-ordering-online .ecommhub-intro-content {
+    width: 100%;
+    display: block;
+    text-align: center;
+    padding: 60px 0;
+    box-shadow: 0px 15px 10px -13px #eeecec;
+    border-bottom: 1px solid #d6d6d6;
+}
+
+.page-ordering-online .ecommhub-service-centre {
+    display: block;
+    width: 100%;
+    padding: 50px 0;
+    text-align: center;
+}
+
+.page-ordering-online .ecommhub-service-centre .content_style {
+    text-align: left;
+    padding: 20px;
+    float: left;
+    width: 100%;
+    border: 1px solid #d6d6d6;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top: 0;
+    background-color: white;
+}
+
+.page-ordering-online .ecommhub-intro-content-inner h2 {
+    margin-top: 0;
+    padding-bottom: 20px;
+    font-size: 30px;
+    font-family: "Leviathan-HTF-Black";
+    margin-bottom: 0;
+}
+
+.page-ordering-online .ecommhub-service-centre .service-color-head {
+    font-size: 13px;
+    color: #000;
+    font-family: "Gotham-Medium";
+    margin: 0;
+    padding-bottom: 5px;
+}
+
+.page-ordering-online .ecommhub-service-centre .service-centre-box {
+    margin-bottom: 30px;
+    display: block;
+    overflow: hidden;
+}
+
+.page-ordering-online .ecommhub-service-centre h2 {
+    margin-top: 0;
+    padding-bottom: 30px;
+    font-size: 30px;
+    font-family: "Leviathan-HTF-Black";
+}
+
+.page-ordering-online .ecommhub-service-centre .centre-subtitle-inner p {
+    font-family: "Gotham-Book";
+    color: #000;
+    font-size: 14px;
+}
+
+.page-ordering-online .ecommhub-service-centre .service-color-head {
+    font-size: 13px;
+    color: #000;
+    font-family: "Gotham-Medium";
+    margin: 0;
+    padding-bottom: 10px;
+}
+
+.page-ordering-online .ecommhub-service-centre .service-centre-box .centre-icon-title {
+    float: left;
+    width: 100%;
+    border-radius: 6px;
+    overflow: hidden;
+    background-color: black;
+}
+
+.page-ordering-online .ecommhub-service-centre .centre-icon-title-inner {
+    display: table;
+    background: #000;
+    width: 100%;
+    height: 320px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.page-ordering-online .ecommhub-service-centre .sec_center {
+    display: table-cell;
+    vertical-align: middle;
+    padding: 30px;
+}
+
+.page-ordering-online .ecommhub-service-centre .sec_center img.centre-icon {
+    width: 110px;
+    height: 110px;
+}
+
+.page-ordering-online .ecommhub-service-centre .centre-title {
+    font-size: 30px;
+    padding-top: 20px;
+    color: #fff;
+    font-family: "Leviathan-HTF-Black";
+    display: block;
+    overflow: hidden;
+}
+
+.page-ordering-online span.centre-lmore.btn_bg {
+    font-size: 12px;
+    float: right;
+}
+
+.ecomm-hub-common .page-online-ordering-banner,
+.page-ordering-online .page-online-ordering-banner {
+    position: relative;
+    overflow: hidden;
+    display: block;
+}
+
+.online-ordering-mid {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    text-align: center;
+    background-color: rgb(0 0 0 / 30%);
+}
+
+.ecomm-hub-common .online-ordering-faq,
+.page-ordering-online .online-ordering-faq {
+    height: 100%;
+    display: table;
+    vertical-align: middle;
+    width: 100%;
+}
+
+.ecomm-hub-common .online-ordering-faq .middle_content,
+.page-ordering-online .online-ordering-faq .middle_content {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.ecomm-hub-common .online-ordering-faq .container,
+.page-ordering-online .online-ordering-faq .container {
+    text-align: center;
+    max-width: unset;
+    color: white;
+}
+
+.ecomm-hub-common .delivery_available_box {
+    display: block;
+    overflow: hidden;
+    margin-bottom: 30px;
+}
+
+.ecomm-hub-common .delivery_available .content-border {
+    background-color: white;
+    border: 1px solid #d6d6d6;
+    padding: 16px 25px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    display: table;
+    width: 100%;
+    vertical-align: middle;
+}
+
+.ecomm-hub-common .delivery_available_box h3 {
+    font-family: 'Gotham-Bold';
+    color: black;
+    font-size: 20px;
+    margin-top: 0;
+    display: block;
+    overflow: hidden;
+    word-break: break-word;
+    vertical-align: middle;
+    display: table-cell;
+}
+
+.ecomm-hub-common .cost-section {
+    margin-bottom: 50px;
+    /* box-shadow: 0px -15px 10px -13px #eeecec; */
+    border-top: 1px solid #d6d6d6;
+    padding-top: 60px;
+    margin-top: 0;
+}
+
+.ecomm-hub-common .page-online-ordering-banner .online-ordering-faq .container h2,
+.page-ordering-online .page-online-ordering-banner .online-ordering-faq .container h2 {
+    font-family: 'Leviathan-HTF-Black';
+    font-size: 54px;
+    line-height: 64px;
+    margin-bottom: 25px;
+}
+
+.ecomm-hub-common .online-ordering-faq p,
+.page-ordering-online .online-ordering-faq p {
+    color: white;
+    font-size: 16px;
+    font-family: 'Gotham-Medium';
+}
+
+.ecomm-hub-common .how_does_work {
+    background-color: #f4f4f4;
+}
+
+.ecomm-hub-common .how_does_work .container {
+    max-width: 1220px;
+}
+
+.ecomm-hub-common .how_does_work .row {
+    counter-reset: list-number;
+}
+
+.ecomm-hub-common .how_does_work_content p a {
+    color: #ad5507;
+}
+
+.ecomm-hub-common .how_does_work .how_does_work_content {
+    max-width: 700px;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 70px;
+    margin-top: 65px;
+}
+
+.ecomm-hub-common .how_does_work h2 {
+    margin-top: 25px;
+    font-family: 'Leviathan-HTF-Black';
+    margin-bottom: 20px;
+}
+
+.ecomm-hub-common .how_does_work .row {
+    counter-reset: list-number;
+}
+
+.ecomm-hub-common .bg-line {
+    position: relative;
+}
+
+.ecomm-hub-common .bg-line:before {
+    content: "";
+    background: url(/wp-content/uploads/2020/10/dot-line-center.png);
+    background-repeat: no-repeat;
+    width: 75%;
+    position: absolute;
+    top: 40%;
+    height: 55px;
+    background-size: 100% auto;
+    background-position: center;
+    float: none;
+    left: 33%;
+    right: 0;
+}
+
+.ecomm-hub-common .line-spacing .bg-line:before {
+    top: 30%;
+}
+
+.ecomm-hub-common .how_does_work .row .col-sm-4:before {
+    counter-increment: list-number;
+    content: counter(list-number);
+    font-size: 16px;
+    background-color: #000;
+    border-radius: 50%;
+    color: #fff;
+    padding: 5px 0px;
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    position: absolute;
+    top: 13px;
+    left: 30%;
+}
+
+.ecomm-hub-common .how_does_work .work_step {
+    margin-bottom: 75px;
+}
+
+.ecomm-hub-common .how_does_work .details-area {
+    text-align: center;
+}
+
+.ecomm-hub-common .curbside-steps .row .col-sm-4:before {
+    left: 25%;
+}
+
+.ecomm-hub-common .curbside_locations_sec .ordering_faq_heading h2 {
+    margin-bottom: 0px;
+}
+
+.ecomm-hub-common .how_does_work .img-block img {
+    max-height: 64px;
+}
+
+.ecomm-hub-common .work_step h2 {
+    font-size: 18px;
+    margin-top: 15px;
+    font-family: 'Leviathan-HTF-Black';
+    line-height: 23px;
+    margin-bottom: 0px;
+}
+
+.ecomm-hub-common .work_step p {
+    margin-top: 15px;
+}
+
+.ecomm-hub-common .curbside-steps .col-sm-4:first-child p {
+    padding: 0 36px;
+}
+
+.ecomm-hub-common .delivery_available {
+    background: #fff;
+    padding: 60px 0;
+}
+
+.delivery_available .slick-arrow.slick-prev {
+    background: url(../images/prev-dark.svg);
+    background-repeat: no-repeat;
+    background-size: 42px;
+    background-position: left center;
+    left: -34px;
+}
+
+.delivery_available .rows {
+    margin: 0 -40px;
+}
+
+.delivery_available .slick-arrow.slick-next {
+    background: url(../images/next-dark.svg);
+    background-repeat: no-repeat;
+    background-size: 42px;
+    right: -34px;
+    background-position: center right;
+}
+
+.delivery-slider {
+    padding: 0 15px;
+}
+
+.ecomm-hub-common .cost-section .search-filter .dataTables_filter {
+    display: block;
+}
+
+.ecomm-hub-common .cost-section .search-filter .dataTables_filter label {
+    border: 1px solid #d6d6d6;
+    overflow: hidden;
+    border-radius: 30px;
+    background: #f4b233;
+    color: #000;
+    text-transform: uppercase;
+    padding: 0px 15px 0px 0;
+    position: relative;
+    direction: rtl;
+}
+
+.ecomm-hub-common .cost-section .search-filter .dataTables_filter input[type="search"] {
+    border: 0;
+    outline: 0;
+    font-weight: 400;
+    padding: 10px 2px 10px 50px;
+    width: 220px;
+    margin: 0 10px 0 0;
+    text-align: left;
+    direction: ltr;
+    font-family: "Gotham-Book";
+}
+
+.ecomm-hub-common .cost-section .search-filter .dataTables_filter span.serach-icon {
+    position: absolute;
+    left: 20px;
+    top: 7px;
+    font-size: 1.8rem;
+}
+
+.ecomm-hub-common .delivery_available_heading h2,
+.ecomm-hub-common .cost_heading h2 {
+    font-family: 'Leviathan-HTF-Black';
+    margin-bottom: 25px;
+    margin-top: 0;
+}
+
+.ecomm-hub-common .btn-style1 {
+    background-color: #f3b233;
+    margin: 0 auto;
+    text-align: center;
+    display: block;
+    overflow: hidden;
+    max-width: 275px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.ecomm-hub-common .delivery_available_heading,
+.ecomm-hub-common .cost_heading {
+    text-align: center;
+    margin-bottom: 60px;
+    margin-top: 0px;
+}
+
+.ecomm-hub-common .cost_heading p,
+.delivery_available_heading p {
+    max-width: 735px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.ecomm-hub-common .cost-section table {
+    background-color: transparent;
+    text-align: center;
+    border: 1px solid #ddd;
+    overflow-x: scroll;
+    margin-bottom: 0px;
+}
+
+.ecomm-hub-common .cost-section .table tbody tr td {
+    height: 60px;
+    vertical-align: middle;
+    position: relative;
+    padding: 0 10px;
+    text-align: center;
+}
+
+.ecomm-hub-common .btn-style1 img {
+    padding: 0px 13px 5px 35px;
+}
+
+.ecomm-hub-common .btn-top-border .btn-style1 a {
+    padding: 18px 0 13px;
+}
+
+.ecomm-hub-common .dataTables_paginate a.next.disabled,
+.ecomm-hub-common .dataTables_paginate a.previous.disabled {
+    display: none;
+}
+
+.dataTables_paginate span a.current:last-child {
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+}
+
+.dataTables_paginate span a.current:first-child {
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+}
+
+.ecomm-hub-common .ecom_table_responsive {
+    padding-bottom: 50px;
+}
+
+.ecom_table_responsive.table-align-left td {
+    text-align: left !important;
+}
+
+.ecomm-hub-common .dataTables_paginate {
+    position: absolute;
+    bottom: 13px;
+}
+
+.ecomm-hub-common .cost-section .table>thead>tr th {
+    vertical-align: middle;
+    border: 1px solid #000;
+    background-color: #000;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    height: 60px;
+    min-width: 230px;
+    font-size: 14px;
+    font-family: "Gotham-Book";
+    text-transform: uppercase;
+    pointer-events: none;
+    border: 0 !important;
+}
+
+.ecomm-hub-common .cost-section th.text-size12 {
+    font-size: 12px;
+}
+
+.ecomm-hub-common .curbside-pickup p {
+    margin-top: 25px;
+}
+
+.pick-up-message {
+    padding: 10px;
+    border: 1px solid #ca6435;
+    border-radius: 5px;
+    background: #fefbf4;
+    margin-bottom: 75px;
+}
+
+.ecomm-hub-common .online-order-list-group {
+    columns: 1;
+    break-inside: avoid;
+    padding: 0px;
+}
+
+.ecomm-hub-common .curb_store_details {
+    overflow: hidden;
+    -webkit-column-break-inside: avoid;
+    page-break-inside: avoid;
+    break-inside: avoid;
+    break-inside: avoid;
+    border: 1px solid #dedede;
+    padding: 5px 15px;
+    border-radius: 5px;
+    margin-bottom: 30px;
+    padding-left: 40px;
+}
+
+.ecomm-hub-common .ordering_faq_heading h2 {
+    font-family: 'Leviathan-HTF-Black';
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 0;
+    line-height: 42px;
+}
+
+.ecomm-hub-common .curb_store_details::before {
+    content: "";
+    background-image: url(../images/pin-icon.svg);
+    background-repeat: no-repeat;
+    width: 31px;
+    position: absolute;
+    margin-top: 20px;
+    height: 30px;
+    background-position: center;
+    left: 33px;
+}
+
+.ecomm-hub-common .online-order-list-group h3 {
+    font-size: 14px;
+    font-family: 'Gotham-Medium';
+    padding-left: 15px;
+}
+
+.ecomm-hub-common .online-order-list-group ul {
+    padding-left: 15px;
+}
+
+.ecomm-hub-common .online-order-list-group li,
+.ecomm-hub-common .ordering_faq .online-order-list-group li {
+    display: block;
+    font-family: "Gotham-Book";
+    font-size: 14px;
+    color: #4a4f55;
+    line-height: 20px;
+    padding-left: 25px;
+    position: relative;
+}
+
+.ecomm-hub-common .cost-section .tableCollapseEle {
+    font-size: 16px;
+    font-family: 'Gotham-Medium';
+    color: black;
+    padding: 20px 0;
+    position: relative;
+    padding-right: 30px;
+    margin: 0px;
+    display: block;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #d6d6d6;
+    cursor: pointer;
+}
+
+.ecomm-hub-common section.ordering_faq .tab-content {
+    min-height: 400px;
+}
+
+.ecomm-hub-common .ordering_faq {
+    display: block;
+    overflow: hidden;
+}
+
+.ecomm-hub-common .ordering_faq .fade.in {
+    opacity: 1;
+    margin-bottom: 60px;
+    height: 100%;
+    transition: all 0.25s ease-in;
+}
+
+.ordering_faq_heading p {
+    max-width: 735px;
+    margin: 0 auto;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.ordering_faq_heading {
+    display: block;
+    overflow: hidden;
+    margin-bottom: 40px;
+}
+
+.ecomm-hub-common .ordering_faq ul.nav.nav-tabs {
+    background-color: #000;
+    text-align: center;
+    border: 1px solid #d6d6d6;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.ecomm-hub-common .ordering_faq li {
+    float: none;
+    display: inline-block;
+    font-size: 18px;
+    font-family: 'Gotham-Medium';
+    text-transform: capitalize;
+    padding: 0 44px;
+}
+
+.ecomm-hub-common .ordering_faq ul.nav li.active>a {
+    border: none;
+    border-bottom: 2px solid #f4b233;
+}
+
+.ecomm-hub-common .ordering_faq .nav li a {
+    padding: 26px 0px;
+    color: #fff;
+    border-bottom: 2px solid transparent;
+    border: none;
+    text-transform: capitalize;
+}
+
+.ecomm-hub-common .ordering_faq .card {
+    border-bottom: 1px solid #d6d6d6;
+    display: block;
+    overflow: hidden;
+}
+
+.ecomm-hub-common .ordering_faq .card-header {
+    display: block;
+    overflow: hidden;
+}
+
+.ecomm-hub-common .ordering_faq .card:first-child a {
+    margin-top: 30px;
+}
+
+.ecomm-hub-common a.plus-icon {
+    display: block;
+    overflow: hidden;
+}
+
+.ecomm-hub-common .ordering_faq .tab-pane .ordering_tab_title {
+    font-size: 16px;
+    font-family: 'Gotham-Medium';
+    color: black;
+    padding: 19px 0;
+    position: relative;
+    padding-right: 30px;
+    transition: all 0.25s ease-in;
+    margin: 0px;
+    display: block;
+}
+
+.ecomm-hub-common .ordering_faq .card-header .collapsed .ordering_tab_title:after,
+.ecomm-hub-common .ordering_faq .card-header .plus-icon .ordering_tab_title:after {
+    content: '\002B';
+    color: #000;
+    font-weight: 700;
+    margin-left: 5px;
+    font-size: 32px;
+    position: absolute;
+    right: 0;
+    top: 8px;
+    font-family: auto;
+}
+
+.ecomm-hub-common .ordering_faq .plus-icon.open_tag_ac .ordering_tab_title::after {
+    content: "\2212";
+}
+
+.ecomm-hub-common .ordering_faq .card-body {
+    display: block;
+    overflow: hidden;
+    height: auto;
+    padding-bottom: 30px;
+}
+
+.ecomm-hub-common .ordering_faq .collapse.in {
+    display: block;
+    overflow: hidden;
+}
+
+.ecomm-hub-common .ordering_faq .collapse.in p {
+    padding-bottom: 0;
+}
+
+.ecomm-hub-common .tbs-faq_img,
+.page-ordering-online .tbs-faq_img {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+    text-align: center;
+    background-color: #000;
+}
+
+.page-ordering-online .tbs-faq_img img,
+.ecomm-hub-common .tbs-faq_img img {
+    width: 100%;
+}
+
+.ecomm-hub-common .curbside-steps .bg-line:before {
+    top: 36%;
+}
+
+.ecomm-hub-common .dataTables_paginate a:before,
+.ecomm-hub-common .dataTables_paginate .ellipsis:before {
+    content: "";
+    height: 100%;
+    width: 1px;
+    background-color: #ddd;
+    position: absolute;
+    top: -1px;
+    right: 0;
+    z-index: 99;
+    height: 34px;
+}
+
+.dataTables_paginate span a.current:last-child:before,
+.ecomm-hub-common .dataTables_paginate a.next:before {
+    content: none;
+}
+
+.ecomm-hub-common .dataTables_paginate a,
+.ecomm-hub-common .dataTables_paginate .ellipsis {
+    display: inline-block;
+    padding: 6px 14px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 0;
+    color: #000;
+    border-right: 0px;
+    cursor: pointer;
+    height: 34px;
+    border-left: 0;
+    position: relative;
+}
+
+.ecomm-hub-common .dataTables_info,
+.ecomm-hub-common .dataTables_length,
+.ecomm-hub-common .dataTables_filter {
+    display: none;
+}
+
+.ecomm-hub-common .dataTables_paginate a.paginate_button.current {
+    background-color: #f3b233;
+    border-color: #f3b233;
+}
+
+.ecomm-hub-common .dataTables_paginate a.previous {
+    border-left: 1px solid #ddd;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    float: left;
+}
+
+.ecomm-hub-common .dataTables_paginate a.next {
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    float: right;
+    border-right: 1px solid #ddd;
+}
+
+.ecomm-hub-common .dataTables_paginate a.previous,
+.ecomm-hub-common .dataTables_paginate a.next {
+    color: #f4b233;
+    font-size: 21px;
+    padding: 0 11px;
+    height: 34px;
+    display: inline-block;
+    width: 40px;
+    vertical-align: middle;
+    align-items: center;
+    text-align: center;
+}
+
+.cost-section .table tbody tr td.store-address {
+    color: #ad5507;
+}
+
+.ecomm-hub-common .cost-section .dataTables_wrapper {
+    overflow-x: auto;
+    margin-bottom: 20px;
+}
+
+.ecomm-hub-common .btn-top-border {
+    border-top: 1px solid #ddd;
+    margin-top: 10px;
+}
+
+section.curbside_locations_sec {
+    padding: 0 0 30px;
+}
+
+.ecomm-hub-common .delivery-area .img-block {
+    display: block;
+    overflow: hidden;
+    border: 1px solid #ddd;
+    border-bottom: 0;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.ecomm-hub-common .how_does_work .row .col-sm-4:after {
+    content: "";
+    background: url(/wp-content/uploads/2020/10/dot-line.png);
+    width: 68%;
+    height: 20px;
+    position: absolute;
+    left: 65%;
+    top: 18px;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-position: right;
+}
+
+.how_does_work .row .col-sm-4:nth-child(3n+3):after {
+    content: none;
+}
+.see_whats_news .whats_new{
+    padding: 0 80px;
+    }
+    .whats_new .slick-arrow {
+        top: calc(50% - 75px);
+        width: 45px;
+        height: 45px;
+        background-size: 100% !important;
+    }
+
+    .whats_new .slick-arrow.slick-prev{
+    background: url(../images/prev-dark.svg);
+    background-repeat: no-repeat;
+    }
+    .whats_new .slick-arrow.slick-next{
+    background: url(../images/next-dark.svg);
+    background-repeat: no-repeat;
+    }
+
+/*------------------- start css SEE Whats New Section on Home Page------------*/
+.whats_img {
+    display: block;
+    position: relative;
+    border-radius: 6px;
+}
+.whats_img a {
+    color: #000;
+}
+.whats-content {
+    padding: 10px 0px;
+}
+.whats_img .beer_image {
+    width: 100%;
+    height: 200px;
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 6px;
+}
+
+.whats_img span.tag {
+    background-color: #b02e2f;
+    color: white;
+    padding: 5px 22px;
+    font-family: 'Gotham-Bold';
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    display: inline-block;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    position: absolute;
+    right: -12px;
+    top: 20px;
+}
+.whats_img img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+    border: 1px solid #d6d6d6;
+}
+.whats_img span.sub-title {
+    font-size: 13px;
+    font-family: 'Gotham-Book';
+    padding: 0;
+    display: block;
+    overflow: hidden;
+}
+
+.whats_img .whats-content-title span {
+    font-size: 14px;
+    font-family: 'Gotham-Bold';
+    margin: 10px 0;
+    display: inline-block;
+}
+
+.see_whats_news .slick-slide {
+    margin-right: 30px;
+}
+
+.see_whats_news .slick-dots {
+    margin-top: 45px;
+}
+
+.see_whats_news .more_btn_dv {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.see_whats_news.common_section {
+    padding: 70px 0 70px;
+    border-bottom: 1px solid #ddd;
+}
+
+.see_whats_news .more_btn_dv a {
+    padding: 12px 41px;
+    font-size: 18px;
+}
+
+.see_whats_news .slick-dots li button {
+    width: 18px;
+    height: 18px;
+    background: #000;
+}
+/*------------------- End css SEE Whats New Section on Home Page------------*/
+/** customer survey **/
+
+.breadcrumbWrap,
+.single_beer_wrap .breadcrumb {
+    border-bottom: 1px solid #d6d6d6;
+}
+
+.customer-surveys .page-top-header .top-banner-text p {
+    width: 50%;
+    padding-top: 25px;
+    margin: 0 auto;
+}
+
+.survey {
+    max-width: 730px;
+    margin: 0 auto;
+    padding: 60px 10px;
+}
+
+.survey .survey-text {
+    font-size: 20px;
+    color: #000;
+    font-family: 'Gotham-Medium';
+    text-align: center;
+}
+
+.survey_questions-container {
+    max-width: 590px;
+    width: 100%;
+    margin: 0 auto;
+    overflow: hidden;
+    display: block;
+}
+
+.questions {
+    display: block;
+    overflow: hidden;
+}
+
+.survey_questions-container fieldset .questions:nth-child(3) .options .radio_group:first-child {
+    padding: 0;
+}
+.statement_mess {
+    width: calc(100% - 33px);
+    display: inline-block;
+    color: #000;
+    font-size: 18px;
+    font-family: "Gotham-Medium";
+    margin-top: 26px;
+    line-height: 25px;
+}
+.survey_questions-container .questions h2 {
+    width: calc(100% - 33px);
+    float: left;
+    display: inline-block;
+    color: #000;
+    font-size: 18px;
+    font-family: "Gotham-Medium";
+    margin-top: 26px;
+    margin-bottom: 15px;
+    line-height: 25px;
+}
+
+.question-numbers {
+    width: 22px;
+    float: left;
+    display: inline-block;
+    color: #000;
+    font-size: 18px;
+    font-family: "Gotham-Medium";
+    margin-top: 26px;
+    margin-bottom: 15px;
+    line-height: 25px;
+    text-align: left;
+}
+
+.questions .options {
+    padding: 15px 40px;
+}
+
+.questions .rating {
+    padding: 40px 40px;
+    margin-top: 4px;
+}
+
+.questions .options,
+.questions .rating {
+    background: #f4f4f4;
+    text-align: center;
+    list-style: none;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: stretch;
+    -ms-flex-align: stretch;
+    align-items: stretch;
+    -ms-flex-pack: distribute;
+    justify-content: space-around;
+}
+
+.questions .rating li {
+    font-size: 12px;
+    font-family: "Gotham-Bold";
+}
+
+.questions .rating li .fa-star {
+    font-size: 34px;
+    color: #dddddd;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.questions .rating li.selected .fa-star,
+.questions .rating li .fa-star:hover {
+    color: #f4b133;
+}
+
+.radio_buttons input[type=radio] {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+
+.radio_buttons .radio_group .radio_cont .label_text {
+    width: 99%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    font-size: 14px;
+    font-family: "Gotham-Book";
+    margin-top: 30px;
+    max-width: 102px;
+}
+
+.radio_buttons .radio_group {
+    margin-top: 17px;
+    -webkit-box-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    padding: 0 16px;
+}
+
+.agree_disagree {
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 30px;
+    display: block;
+    overflow: hidden;
+}
+
+.radio_style {
+    display: block;
+    position: relative;
+}
+
+.radio_group .radio_cont {
+    /* display: block; */
+    position: relative;
+    margin-bottom: 12px;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.radio_buttons .radio_group .radio_cont input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+}
+
+.radio_buttons .input_value {
+    font-size: 16px;
+    line-height: 16px;
+    padding: 15px 13px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-family: "Gotham-Book";
+    color: #4a4f55;
+}
+
+.radio_buttons .radio_group .radio_cont .checkmark {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    height: 20px;
+    width: 20px;
+    background-color: #fff;
+    border-radius: 50%;
+    border: 2px solid #ddd;
+}
+
+.radio_buttons .radio_group .radio_cont .checkmark:after {
+    content: "";
+    position: absolute;
+    display: none;
+}
+
+.radio_buttons .radio_group .radio_cont input:checked~.checkmark:after {
+    display: block;
+}
+
+.radio_buttons .radio_group .radio_cont .checkmark::after {
+    top: 2px;
+    left: 2px;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: #f4b233;
+}
+
+.write_area textarea {
+    width: 100%;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 15px;
+    margin-top: 5px;
+    max-width: 590px;
+	resize:none;
+}
+.write_area textarea::placeholder{
+    color: #4A4F55;
+    }
+    .write_area textarea::-webkit-input-placeholder {
+    color: #4A4F55;
+    }
+    .write_area textarea::-moz-placeholder {
+    color: #4A4F55;
+    }
+    .write_area textarea:-ms-input-placeholder {
+    color: #4A4F55;
+    }
+    .write_area textarea:-moz-placeholder {
+    color: #4A4F55;
+    }
+.write_area {
+    display: block;
+    overflow: hidden;
+    width: 100%;
+    position: relative;
+    top: -15px;
+    display: block;
+    margin-top: 10px;
+}
+
+.write_area span {
+    font-size: 11px;
+    color: #404040;
+    font-style: italic;
+}
+.back-to-survey-page{
+    width: 100%;
+    text-align: center;
+    margin-top: 35px;
+    }
+    .message_survey_display.survey{
+    padding: 35px 10px;
+    }
+.customer-survey-btn {
+    float: left;
+    padding: 0 !important;
+    font-size: 14px;
+    margin-bottom: 30px;
+}
+.back-to-survey-page .survey_back{
+    padding: 12px;
+    }
+.customer-survey-btn .customer-survey-submit {
+    background-color: transparent;
+    border: none;
+    padding: 12px 30px;
+    font-size: 14px;
+}
+
+.section_title {
+    display: inline-block;
+    border-bottom: 1px solid #000;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Gotham-Medium';
+}
+
+.all_commen {
+    margin-top: 30px;
+}
+.questions span.error_mess label.error, .rating-stars .error_mess_start{
+    color: #dc3232 !important;
+    font-size: 14px !important;
+    font-weight: normal !important;
+    margin-bottom: 13px !important;
+}
+.rating-stars .error_mess_start{
+	 display:block;
+}
+.loading-message{
+	float:right;
+}
+.loading-message .survey_loading{
+    text-align: center;
+    border: 2px solid #f4b233;
+    display: table-cell;
+    width: 115px;
+    padding: 10px;
+    text-transform: capitalize;
+    font-family: 'Gotham-Book';
+    font-weight: bold;
+    border-radius: 5px;
+    font-size: 14px;
+}
+/** Customer survey **/
+.featured_beer {
+    border-top: 1px solid #ddd;
+}
+
+.featured_main .featured_img img {
+    width: 100%;
+    height: auto;
+    border: 1px solid #d6d6d6;
+    border-radius: 5px;
+}
+
+.featured_main .featured_img {
+    position: relative;
+    border-radius: 6px;
+    width: 14.6%;
+    float: left;
+    padding-left: 36px;
+}
+
+.featured_main .featured_img span.tag {
+    background-color: #406325;
+    color: white;
+    padding: 5px 13px;
+    font-family: 'Gotham-Bold';
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: normal;
+    display: inline-block;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    position: absolute;
+    right: -10px;
+    top: 20px;
+}
+
+.featured_main .weekly_feature a {
+    background: #000000;
+    color: #f4b233;
+    border: 2px solid #000000;
+    padding: 6px 20px;
+    border-radius: 4px;
+    display: inline-block;
+    font-family: "Gotham-Bold";
+    text-transform: uppercase;
+}
+
+.featured_main .featured_img .featured-content .sub-title {
+    font-size: 12px;
+    font-family: 'Gotham-Book';
+    padding: 10px 0 0;
+    display: block;
+    overflow: hidden;
+}
+
+.featured_main .featured_img a {
+    color: #000;
+}
+
+.featured_main .featured_img .featured-content .whats-content-title span {
+    font-size: 14px;
+    font-family: 'Gotham-Bold';
+    line-height: normal;
+    margin: 10px 0;
+    display: inline-block;
+}
+
+.featured_beer .weekly_feature img {
+    max-width: 100%;
+    -moz-box-shadow: 0px 2px 4px 0px hsl(0deg 0% 80% / 45%);
+    -webkit-box-shadow: 0px 2px 4px 0px hsl(0deg 0% 80% / 45%);
+    box-shadow: 0px 2px 4px 0px hsl(0deg 0% 80% / 45%);
+    border-radius: 4px;
+}
+
+.featured_main {
+    display: inline-block;
+    width: 100%;
+}
+
+.featured_main .weekly_feature {
+    float: left;
+    position: relative;
+    display: table;
+}
+
+.featured_main .weekly_feature h3 {
+    color: #000;
+    font-size: 34px;
+    font-family: "Leviathan-HTF-Black";
+    letter-spacing: 0.2px;
+    line-height: normal;
+    text-align: left;
+    text-transform: uppercase;
+}
+
+.featured_main .weekly_feature .weekly_feature_content {
+    position: absolute;
+    top: 0;
+    left: 32%;
+    right: 0;
+    margin: auto;
+    max-width: 228px;
+    width: 100%;
+    bottom: 0;
+    display: table;
+    vertical-align: bottom;
+}
+.store_location_class{
+    background-color: rgba(0, 0, 0, 0.65);
+}
+.store_loc_image img{
+    height:50px;
+}
+.store_location_class .modal-header{
+    border:0;
+    padding: 7px 11px;
+}
+.store_location_class .modal-content{
+    text-align: center;
+}
+.store_location_class .location-title{
+    color: #000000;
+    font-family: 'Gotham-Bold';
+    padding-top: 10px;
+    display: inline-block;
+    font-size: 17px;
+}
+.store_location_class .modal-body{
+    padding:0 15px;
+}
+.location_popup_content p{
+    font-size: 14px;
+    line-height: 22px;
+    font-family: 'Gotham-Book';
+}
+.location_popup_content strong{
+    text-transform: uppercase;
+    color: #000;
+}
+.store_location_class .modal-footer{
+    text-align: center;
+    border: none;
+    padding-bottom: 30px;
+}
+.store_location_class .modal-dialog{
+    max-width:396px;
+    width:99%;
+}
+.store_loc_image{
+    margin-top: 15px;
+}
+	/*----------- Page Featured Beer ------------*/
+    .page-featured-beer-banner {
+        display: block;
+        overflow: hidden;
+        padding: 0 15px;
+        text-align: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+    .page-featured-beer-banner-image {
+        display: flex;
+        overflow: hidden;
+        position: relative;
+        height: 370px;
+        vertical-align: middle;
+        align-items: center;
+        justify-content: center;
+    }
+    .page-featured-beer-banner-heading {
+        position: absolute;
+        left: 0;
+        right: 0;
+        width: 100%;
+        height: auto;
+        font-family: Vitesse-Black;
+        max-width: 290px;
+        font-size: 51px;
+        color: #fff;
+        margin: 0 auto;
+        top: 28%;
+        text-transform: uppercase;
+        overflow: hidden;
+        text-shadow: 0px 5px 5px rgb(0 0 0 / 25%);
+    }
+    .page-featured-beer-heading {
+        display: block;
+        overflow: hidden;
+        max-width: 700px;
+        margin: 0 auto;
+        text-align: center;
+        margin-top: 50px;
+        float: none;
+    }
+    .page-featured-beer-heading .page-featured-beer-main-title {
+        margin-top: 25px;
+        font-family: 'Leviathan-HTF-Black';
+        margin-bottom: 20px;
+    }
+    .page-featured-beer-heading p {
+        margin-bottom: 0;
+    }
+    .page-featured-beer-banner-heading .our-weekly {
+        width: 100%;
+        display: block;
+        overflow: hidden;
+        font-size: 40px;
+    }
+    .page-featured-beer-banner-heading .lineup {
+        font-size: 70px;
+        line-height: 66px;
+    }
+    .page-featured-beer-image {
+        display: block;
+        overflow: hidden;
+        border: 1px solid #d6d6d6;
+        text-align: center;
+        padding: 30px 0;
+        margin-bottom: 20px;
+        border-radius: 5px;
+    }
+    .page-featured-beer-image img {
+        width: auto;
+        height: auto;
+        max-height: 238px;
+    }
+    .page-featured-beer-content .page-featured-beer-title {
+        font-family: 'Gotham-Bold';
+        font-size: 20px;
+        margin: 7px 0 25px;
+    }
+    .page-featured-beer-column {
+        display: block;
+        overflow: hidden;
+        margin-bottom: 60px;
+    }
+    .page-featured-beer-row {
+        overflow: hidden;
+        display: block;
+        padding: 80px 0 30px;
+        width: 100%;
+    }
+    .page-featured-beer-content a {
+        padding: 15px 27px;
+        margin-bottom: 0;
+    }
+    /*----------- Page Featured Beer End------------*/
+    article-table-list .cost-section .table tbody tr td {
+    width: 50%;
+    }
+
+    .cost-section .table tbody tr td:before {
+    height: auto;
+    bottom: 12px;
+    }
+    table.margin-top-bottom-20 {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+@media screen and (min-width: 1900px) {
+    .whats_img .beer_image {
+        height: 240px;
+    }
+}
+
+@media screen and (max-width: 1600px) {
+    .page-ordering-online .ecommhub-intro-content-inner .intro-subtile p {
+        width: 90%;
+    }
+    .page-ordering-online .ecommhub-service-centre .centre-icon-title-inner {
+        height: 250px;
+    }
+    .page-ordering-online .ecommhub-service-centre .centre-title {
+        font-size: 26px;
+    }
+    .page-ordering-online .ecommhub-service-centre .sec_center img.centre-icon {
+        width: 90px;
+        height: 90px;
+    }
+    .featured_main .featured_img {
+        width: 13.6%;
+    }
+    .ecomm-hub-common .page-online-ordering-banner .online-ordering-faq .container h2,
+    .page-ordering-online .page-online-ordering-banner .online-ordering-faq .container h2 {
+        font-size: 40px;
+        line-height: 40px;
+        margin-bottom: 20px;
+        margin-top: 0;
+    }
+}
+
+@media screen and (max-width: 1400px) {
+    .ecomm-hub-common .how_does_work .row .col-sm-4:after {
+        left: 65%;
+    }
+    .see_whats_news .slick-dots li button {
+        width: 14px;
+        height: 14px;
+    }
+    .featured_main .featured_img {
+        width: 13%;
+    }
+    .featured_main .featured_img span.tag {
+        font-size: 11px;
+        padding: 3px 6px;
+    }
+    .featured_main .featured_img .featured-content .sub-title {
+        font-size: 11px;
+    }
+    .featured_main .featured_img .featured-content .whats-content-title span {
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 1299px) {
+    .ecomm-hub-common .ordering_faq li {
+        padding: 0 30px;
+    }
+    .ecomm-hub-common .delivery_available .content-border {
+        padding: 15px 30px;
+    }
+    .page-ordering-online-common .ecomm-hub-common .delivery_available .content-border {
+        padding: 15px 20px;
+    }
+    .page-ordering-online-common .ecomm-hub-common .delivery_available_box h3 {
+        font-size: 17px;
+    }
+    .featured_main .featured_img {
+        padding-left: 20px;
+        width: 12%;
+    }
+}
+@media (max-width: 1199px) {
+    .featured_main .featured_img {
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 33.3%;
+        margin-bottom: 30px;
+    }
+    .featured_main .featured_img span.tag {
+        right: 0;
+    }
+    .featured_main .weekly_feature.desktop {
+        display: none;
+    }
+    .featured_main .weekly_feature.mobile {
+        display: block !important;
+        width: 33.3%;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .featured_main .weekly_feature h3 {
+        font-size: 25px;
+    }
+    .featured_beer .weekly_feature img {
+        width: 100%;
+    }
+    .featured_main .featured_img .featured-content .whats-content-title span {
+        margin-bottom: 0;
+    }
+    .featured_main .weekly_feature .weekly_feature_content {
+        left: 0;
+        max-width: 190px;
+    }
+    .featured_main .featured_img .featured-content .whats-content-title span {
+        font-size: 13px;
+    }
+}
+@media screen and (min-width: 1200px) and (max-width: 1299px) {
+    .ecomm-hub-common .ecom_table_responsive {
+        padding-bottom: 50px;
+        margin-bottom: 30px;
+    }
+    .ecomm-hub-common .dataTables_paginate {
+        position: absolute;
+        bottom: 30px;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    .ecomm-hub-common section.curbside_locations_sec .curbloc_content_block {
+        max-width: 1650px;
+        margin: auto;
+    }
+}
+
+@media screen and (min-width: 1025px) and (max-width: 1199px) {
+    .ecomm-hub-common .bg-line:before {
+        top: 45%;
+    }
+    .ecomm-hub-common img.desk-img {
+        display: block;
+    }
+    .ecomm-hub-common .work_step p br {
+        display: none;
+    }
+    .ecomm-hub-common .how_does_work .row .col-sm-4:before {
+        left: 26%;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .page-featured-beer-image img {
+        max-height: 175px;
+    }
+    .see_whats_news .slick-slide {
+        margin-right: 20px;
+    }
+    .whats_img span.tag {
+        right: -10px;
+    }
+    /* .ecomm-hub-common .how_does_work .row {
+        padding: 0 30px;
+    } */
+    .ecomm-hub-common .curbside-steps .bg-line:before {
+        top: 38%;
+    }
+    .ecomm-hub-common .curbside-steps .row .col-sm-4:before {
+        left: 10%;
+    }
+    .ecomm-hub-common .curbside-steps .row .col-sm-4:after {
+        left: 75%;
+        width: 47%;
+    }
+    .ecomm-hub-common .curb_store_details::before {
+        left: 30px;
+    }
+    .ecomm-hub-common .curbside-steps .col-sm-4:first-child p {
+        padding: 0px;
+    }
+    .ecomm-hub-common .work_step p br {
+        display: none;
+    }
+    .customer-surveys .page-top-header .top-banner-text p {
+        width: 85%;
+        padding-top: 25px;
+        margin: 0 auto;
+    }
+}
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+    .ecomm-hub-common .ordering_faq li {
+        padding: 0 18px;
+    }
+    .page-ordering-online-common .ecomm-hub-common .how_does_work .row .col-sm-4:before {
+        left: 26%;
+    }
+    .ecomm-hub-common .how_does_work .row .col-sm-4:after {
+        left: 66%;
+        width: 68%;
+    }
+    .ecomm-hub-common .how_does_work .img-block img {
+        max-height: 54px;
+    }
+}
+
+@media screen and (max-width: 991px) {
+    .page-ordering-online-common .ecomm-hub-common .cost_heading,
+    .page-ordering-online-common .ecomm-hub-common .delivery_available_heading {
+        margin-top: 0;
+    }
+    .ecomm-hub-common.ecomm-hub-common .ordering_faq li {
+        padding: 0 0 0 22px;
+        font-size: 14px;
+    }
+    .ecomm-hub-common .container h2 {
+        font-size: 38px;
+        line-height: 34px;
+    }
+    .how_does_work .row .col-sm-4:before {
+        left: 19%;
+    }
+    .ecomm-hub-common .how_does_work.work-delivery .row .col-sm-4:before {
+        left: 19%;
+    }
+    .ecomm-hub-common .how_does_work .row .col-sm-4:after {
+        width: 60%;
+        background-size: contain;
+    }
+    .ecomm-hub-common .how_does_work .row .col-sm-4:after {
+        left: 69%;
+    }
+    .ecomm-hub-common .how_does_work .work_step h2 {
+        font-size: 13px;
+        margin-bottom: 5px;
+        line-height: 23px;
+    }
+    .ecomm-hub-common .work_step p {
+        margin-top: 7px;
+    }
+    .ecomm-hub-common .how_does_work h2,
+    .ecomm-hub-common .ordering_faq_heading h2,
+    .ecomm-hub-common .delivery_available_heading h2,
+    .ecomm-hub-common .cost_heading h2 {
+        font-size: 25px;
+    }
+    .ecomm-hub-common .ordering_faq_heading h2,
+    .ecomm-hub-common .delivery_available_heading,
+    .ecomm-hub-common .cost_heading {
+        margin-top: 50px;
+    }
+    .ecomm-hub-common .delivery_available .content-border {
+        padding: 13px 30px;
+    }
+    .ecomm-hub-common .how_does_work .img-block img {
+        max-height: 54px;
+    }
+    .featured_main .featured_img {
+        width: 33.3%;
+    }
+    .featured_main .weekly_feature .weekly_feature_content {
+        max-width: 170px;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+    .ecomm-hub-common .cost-section table {
+        margin-bottom: 10px;
+    }
+    .ecomm-hub-common .bg-line:before {
+        top: 42%;
+    }
+    .ecom_table_responsive {
+        padding-bottom: 60px;
+    }
+    .ecomm-hub-common img.desk-img {
+        display: block;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1200px) {
+    .page-online-ordering-banner img.desk-img {
+        display: block;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .page-featured-beer-content .page-featured-beer-title {
+        font-family: 'Gotham-Bold';
+        font-size: 16px;
+        margin: 7px 0 25px;
+    }
+    .page-featured-beer-image {
+        padding: 20px 0;
+    }
+    .page-featured-beer-image img {
+        max-height: 150px;
+    }
+    .page-featured-beer-banner-heading .our-weekly {
+        font-size: 24px;
+        letter-spacing: 1px;
+    }
+    .page-featured-beer-column {
+        margin-bottom: 40px;
+    }
+    .page-featured-beer-banner-image {
+        height: 250px;
+    }
+    .page-featured-beer-banner-image img {
+        width: auto;
+        max-width: none;
+        height: 250px;
+    }
+    .page-featured-beer-banner-heading {
+        font-size: 34px;
+    }
+    .page-featured-beer-banner-heading .lineup {
+        font-size: 45px;
+        line-height: 45px;
+    }
+    .delivery_available .rows {
+        margin: 0;
+    }
+    .store_location_class .modal-dialog{
+        max-width:396px;
+        width:95%;
+        }
+        .section_title{
+        margin-bottom:10px;
+        }
+    .delivery_available .slick-arrow.slick-next {
+        background-size: 32px;
+        right: -24px;
+    }
+    .delivery_available .slick-arrow.slick-prev {
+        background-size: 32px;
+        left: -24px;
+    }
+    .customer-surveys .page-top-header .top-banner-text p {
+        padding: 0;
+    }
+    .see_whats_news .slick-dots {
+        margin-top: 20px;
+    }
+    .ecomm-hub-common .work_step .img-block {
+        display: table-cell;
+        width: 60px;
+    }
+    .ecomm-hub-common .ordering_faq .collapse.in p span {
+        display: inline-block;
+    }
+    .customer-surveys .page-top-header .top-banner-text p {
+        width: 100%;
+    }
+    .agree_disagree {
+        margin-bottom: 25px;
+    }
+    .page-ordering-online-common .ecomm-hub-common .bg-line:before {
+        content: none;
+    }
+    .ecomm-hub-common .dataTables_paginate a.previous,
+    .ecomm-hub-common .dataTables_paginate a.next {
+        line-height: 30px;
+    }
+    .pick-up-message {
+        margin-bottom: 25px;
+        margin-top: 40px;
+    }
+    .page-ordering-online-common .ecomm-hub-common .how_does_work {
+        padding-bottom: 50px;
+    }
+    .ecomm-hub-common .page-online-ordering-banner .online-ordering-faq .container h2,
+    .page-ordering-online .page-online-ordering-banner .online-ordering-faq .container h2 {
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .ecomm-hub-common .ordering_faq .nav li a.dropdown-toggle {
+        color: #000;
+        padding: 10px 0 15px;
+        margin-bottom: 17px;
+    }
+    .ecomm-hub-common .ordering_faq .nav li.dropdown .dropdown-item {
+        color: #000;
+        padding: 0 0 20px;
+    }
+    .ecomm-hub-common .delivery_available_box h3 {
+        padding: 15px 0;
+    }
+    .ecomm-hub-common .cost-section .table-mobile tr:first-child td {
+        border-top: 0px solid #ddd;
+        padding-top: 10px;
+    }
+    .row.mobile-only,
+    .ecomm-hub-common .how_does_work,
+    .ecomm-hub-common .ordering_faq,
+    .breadcrumb_tbs {
+        padding: 0 10px;
+    }
+    .ecomm-hub-common .work_step p {
+        margin-bottom: 0;
+        margin-top: 0 !important;
+        text-align: left;
+    }
+    .ecomm-hub-common .how_does_work .work_step h2 {
+        margin-bottom: 0;
+        text-align: left;
+        height: auto !important;
+        word-break: break-word;
+    }
+    .ecomm-hub-common .how_does_work .details-area {
+        text-align: left;
+        padding-left: 0;
+    }
+    .ecomm-hub-common .cost-section table {
+        width: 100%;
+        text-align: left;
+    }
+    .ecomm-hub-common .cost-section .pager li>a,
+    .ecomm-hub-common .cost-section .pager li>span {
+        display: inline-block;
+        padding: 5px 14px;
+        background-color: #fff;
+        border-right: 1px solid #ddd;
+        border-radius: 0;
+        color: #000;
+    }
+    .ecomm-hub-common .cost-section .pagination>.active>a {
+        background-color: #f3b233;
+        border-color: #f3b233;
+    }
+    .ecomm-hub-common .cost-section .pager li:nth-child(2).active a {
+        border-top-left-radius: 5px;
+        border-bottom-left-radius: 5px;
+    }
+    .ecomm-hub-common .cost-section .pager li:nth-last-child(2).active a {
+        border-top-right-radius: 5px;
+        border-bottom-right-radius: 5px;
+    }
+    .ecomm-hub-common .how_does_work .row .col-sm-4:before {
+        left: 20px;
+        top: 25px;
+    }
+    .ecomm-hub-common .how_does_work.work-delivery .row .col-sm-4:before {
+        left: 20px;
+        top: 15px;
+    }
+    .ecomm-hub-common .how_does_work .img-block img {
+        max-height: none;
+        max-width: 60px;
+    }
+    .ecomm-hub-common .curbside-steps .img-block img {
+        max-height: 50px;
+        margin-top: 17px;
+    }
+    .ecomm-hub-common .how_does_work .work_step {
+        margin-bottom: 20px;
+    }
+    .ecomm-hub-common .how_does_work .details-area {
+        text-align: left;
+        display: table;
+        padding-left: 50px;
+    }
+    .ecomm-hub-common .delivery_available .content-border {
+        padding: 0px 30px;
+    }
+    .ecomm-hub-common .delivery_available .content-border {
+        padding: 15px 20px;
+    }
+    .ecomm-hub-common .delivery_available .img-block img {
+        width: 100%;
+    }
+    .ecomm-hub-common .desktop-only {
+        display: block;
+    }
+    .ecomm-hub-common .tbs-faq_img img {
+        opacity: 1;
+        margin: 0;
+        width: 100%;
+    }
+    .ecomm-hub-common .slick-initialized .slick-slide>div>div {
+        display: inline-block !important;
+    }
+    .ecomm-hub-common .how_does_work .row .col-sm-4:after {
+        content: none;
+    }
+    .featured_main .featured_img span.tag {
+        font-size: 10px;
+        right: 5px;
+    }
+    .whats_img .beer_image {
+        height: 160px;
+    }
+    .featured_main .weekly_feature h3 {
+        font-size: 18px;
+    }
+    .featured_main .weekly_feature a {
+        font-size: 12px;
+        padding: 6px 15px;
+    }
+    .see_whats_news .whats_new{
+        padding:0;
+        }
+}
+
+@media screen and (max-width:640px) {
+    .questions .options {
+        display: block;
+        padding: 30px 40px;
+    }
+    .question-numbers {
+        text-align: center;
+    }
+    .radio_buttons input[type=radio] {
+        display: inline-block;
+        margin-right: 10px;
+    }
+    .radio_buttons .radio_cont {
+        float: none;
+        padding: 1px 0px;
+        width: 100%
+    }
+    .radio_buttons .radio_group .radio_cont .label_text {
+        margin-top: 0;
+        max-width: 100%;
+        margin-left: 15px;
+    }
+    .radio_buttons .radio_group .radio_cont .label_text {
+        /* width: 100%; */
+        text-align: left;
+        float: left;
+        margin-left: 15px;
+    }
+    .radio_style {
+        float: left;
+    }
+    .radio_buttons .radio_group {
+        margin-top: 0;
+        padding: 0;
+    }
+    .questions .options {
+        display: block;
+        padding: 30px 40px 20px 40px;
+    }
+    .radio_buttons .radio_group .radio_cont .checkmark {
+        left: -24px;
+    }
+    .whats_new .slick-arrow {
+        width: 30px;
+        height: 30px;
+        background-size: 30px !important;
+    }
+}
+@media screen and (max-width: 480px) {
+    .whats_new .slick-arrow.slick-next {
+        right: 12px;
+        }
+        .whats_new .slick-arrow {
+        top: calc(50% - 70px);
+        }
+    .featured_main .weekly_feature.mobile {
+        width: 100%;
+    }
+    .featured_main .featured_img {
+        width: 100%;
+    }
+    .featured_main .weekly_feature {
+        margin: 0 0 40px;
+    }
+    .featured_main .featured_img {
+        margin-bottom: 20px;
+    }
+    .featured_beer .weekly_feature img {
+        max-width: 100%;
+    }
+    .featured_main .weekly_feature h3 {
+        font-size: 14px;
+        max-width: 100px;
+    }
+    .featured_main .weekly_feature h3 {
+        font-size: 24px;
+        max-width: 160px;
+        top: 60px;
+    }
+    .featured_main .featured_img .featured-content .whats-content-title span {
+        height: auto !important;
+    }
+    .featured_main .featured_img span.tag {
+        font-size: 12px;
+        padding: 5px 12px;
+    }
+    .survey_questions-container .questions h2,
+    .question-numbers {
+        font-size: 15px;
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+    .whats_img .beer_image {
+        background-size: contain;
+        height: 150px;
+    }
+    .whats_img span.tag {
+        right: -7px;
+    }
+    .ecomm-hub-common .page-online-ordering-banner .online-ordering-faq .container h2,
+    .page-ordering-online .page-online-ordering-banner .online-ordering-faq .container h2 {
+        font-size: 20px;
+        line-height: 26px;
+        margin-bottom: 16px;
+    }
+    .article-table-list .cost-section .table tbody tr td {
+    width: 100%;
+    display: block;
+    padding: 12px 8px;
+    height: auto;
+    }
+
+    .article-table-list .cost-section .table tbody tr td:before {
+    display: none;
+    }
+
+    .article-table-list .cost-section .table tbody tr td:first-child {
+    background: #f4f4f4;
+    }
+}
+@media screen and (max-width: 455px) {
+    .ecomm-hub-common .ordering_faq .nav li a.dropdown-toggle {
+        margin-right: 22px;
+        margin-top: 20px;
+    }
+    .ordering_faq .nav-tabs .dropdown-menu {
+        right: 0;
+        left: -40px;
+    }
+    .see_whats_news .slick-slide {
+        margin-right: 0px;
+    }
+    .see_whats_news .more_btn_dv a {
+        font-size: 15px;
+    }
+    .questions .rating {
+        display: block;
+        padding: 40px 0px;
+    }
+    .questions .rating li {
+        display: inline-block;
+        padding: 15px;
+    }
+    .survey .survey-text {
+        font-size: 14px;
+        margin-bottom: 12px;
+    }
+    .rating-stars h2 {
+        padding-left: 10px;
+    }
+}
+@media screen and (max-width: 413px) {
+    .page-featured-beer-banner-image {
+        height: 185px;
+    }
+    .page-featured-beer-banner-heading {
+        font-size: 27px;
+    }
+    .page-featured-beer-banner-heading .our-weekly {
+        font-size: 19px;
+    }
+    .page-featured-beer-banner-heading .lineup {
+        font-size: 36px;
+        line-height: 34px;
+    }
+    .page-featured-beer-column {
+        margin-bottom: 30px;
+    }
+    .page-featured-beer-row {
+        padding: 40px 0 10px;
+    }
+    .page-featured-beer-banner-image img {
+        max-width: 290px;
+        height: auto;
+    }
+}
+@media screen and (max-width: 380px) {
+     .store_location_class:before{
+        height: 30% !important;
+        }
+    .ecomm-hub-common .page-online-ordering-banner .online-ordering-faq .container h2,
+    .page-ordering-online .page-online-ordering-banner .online-ordering-faq .container h2 {
+        font-size: 17px;
+        line-height: 22px;
+        margin-bottom: 10px;
+    }
+    .ecomm-hub-common .ordering_faq .nav li a {
+        font-size: 12px;
+    }
+    .ecomm-hub-common .how_does_work .work_step_content h2 {
+        font-size: 12px;
+        margin-bottom: 10px;
+        line-height: 16px;
+    }
+    .ecomm-hub-common .work_step_content p {
+        margin-bottom: 0;
+        font-size: 12px;
+    }
+    .ecomm-hub-common .dataTables_paginate a,
+    .ecomm-hub-common .dataTables_paginate .ellipsis {
+        padding: 6px 11px;
+    }
+    .ecomm-hub-common .dataTables_paginate a.previous,
+    .ecomm-hub-common .dataTables_paginate a.next {
+        padding: 3px 9px 1px;
+        width: 34px;
+    }
+    .ecomm-hub-common.ecomm-hub-common .ordering_faq li {
+        padding: 0 5px;
+    }
+    .ecomm-hub-common.ecomm-hub-common .ordering_faq .online-order-list-group li {
+        padding: 0 0 0 20px;
+    }
+    .ecomm-hub-common .dataTables_paginate a.previous,
+    .ecomm-hub-common .dataTables_paginate a.next {
+        line-height: 23px;
+    }
+    .questions .rating li {
+        padding: 12px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .questions .rating li {
+        padding: 10px;
+    }
+    .whats_img .beer_image {
+        height: 124px;
+    }
+}
+.curb_store_details .image_gif img {
+    height: 12px;
+    margin-top: -4px;
+    display: inline-block;
+    top: 10px;
+    max-width: 100%;
+}
+.curb_store_details ul li {
+    color: #ad5507 !important;
+    text-decoration: underline;
+    text-underline-offset: 0.1em;
+    cursor: pointer;
+}
+.paragraph_after_heading
+{
+    text-align: center;
+    margin-bottom: 35px;
+}

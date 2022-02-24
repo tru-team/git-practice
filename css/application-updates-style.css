@@ -1,0 +1,405 @@
+.application-update-main {
+    max-width: 1920px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.application-update-main .breadcrumb-sec .breadcrumb {
+    border-bottom: 0px solid;
+}
+
+.application-updates-wrapper {
+    border-top: 1px solid #d6d6d6;
+    position: relative;
+}
+
+.application-updates-wrapper:before {
+    content: '';
+    position: absolute;
+    background: #f4f4f4;
+    width: 100%;
+    min-height: 545px;
+    z-index: -1;
+}
+
+.application-updates-inner {
+    max-width: 1090px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 70px 0px;
+}
+
+.application-updates-title h2 {
+    margin-top: 0px;
+    margin-bottom: 45px;
+    font-family: "Leviathan-HTF-Black";
+    font-size: 36px;
+    line-height: 48px;
+}
+
+.application-udates-banner {
+    margin-bottom: 40px;
+}
+
+.application-udates-banner img {
+    width: 100%;
+}
+
+.application-updates-description {
+    font-family: "Gotham-Book";
+    font-size: 18px;
+    color: #4a4f55;
+}
+
+.application-updates-callsection {
+    padding: 40px 0px;
+    position: relative;
+    width: 100%;
+    float: left;
+}
+
+.pa-0 {
+    padding: 0px;
+}
+
+.callsection-inner .callsection-left {
+    background: #000;
+    border-radius: 5px 0px 0px 5px;
+    padding: 0px 40px;
+    display: table;
+}
+
+.callsection-left-inner {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.callsection-inner .callsection-left .callsection-left-title {
+    font-family: "Gotham-Bold";
+    font-size: 24px;
+    line-height: 36px;
+    color: #fff;
+    margin-bottom: 30px;
+}
+
+.callsection-inner .callsection-left .callsection-left-desc {
+    font-family: "Gotham-Book";
+    font-size: 16px;
+    line-height: 20px;
+    color: #fff;
+}
+
+.callsection-right {
+    overflow: hidden;
+}
+
+.callsection-inner .callsection-left .callsection-left-desc p {
+    color: #fff;
+}
+
+.callsection-banner img {
+    width: 100%;
+}
+
+.application-updates-form {
+    clear: both;
+}
+
+.application-updates-form .application-form-title {
+    font-family: "Gotham-Bold";
+    font-size: 24px;
+    margin-bottom: 30px;
+}
+
+.application-updates-form-inner {}
+
+.application-updates-form-inner .form-block {
+    margin-bottom: 30px;
+    font-family: "Gotham-Book";
+    color: #4a4f55;
+    font-weight: normal;
+    font-size: 14px;
+}
+
+.application-updates-form-inner .storeform-tag {
+    border-radius: 5px;
+    border: 1px solid #d6d6d6;
+    height: 45px;
+    padding-left: 10px;
+    margin-top: 20px;
+    width: 100%;
+    -webkit-appearance: none;
+    appearance: none;
+    font-family: "Gotham-Book";
+    color: #4a4f55;
+    font-weight: normal;
+    font-size: 14px;
+    font-style: normal;
+}
+
+.application-updates-form-inner .wpcf7-textarea {
+    height: 190px;
+    padding: 20px;
+    font-family: "Gotham-Book";
+    color: #4a4f55;
+    font-weight: normal;
+    font-size: 14px;
+    font-style: normal;
+}
+
+.application-updates-form-inner .wpcf7-select {
+    background-image: url(https://um7fe3ygq0p983n53knrihbg-wpengine.netdna-ssl.com/wp-content/uploads/2019/11/application-arrow.png);
+    background-repeat: no-repeat;
+    background-position-x: calc( 100% - 20px);
+    background-position-y: 20px;
+}
+.application-updates-form-inner select::-ms-expand {
+    display: none;
+}
+.application-updates-form-inner .site_default_btn{
+    width: 180px;
+    padding: 15px 0px;
+}
+.application-updates-form-inner .submit-btn {
+   
+    background:none;
+    border: 0px;
+    padding:0;
+    font-family: "Gotham-Bold";
+    font-size: 18px;
+    border-radius: 5px;
+    text-transform: uppercase;
+}
+
+.application-order {
+    padding: 40px 0px;
+    clear: both;
+    float: left;
+    border-bottom: 1px solid #d6d6d6;
+}
+
+.application-order-inner {}
+
+.application-order-inner .application-order-left {
+    background: #000;
+    color: #fff;
+    border-radius: 5px 0px 0px 5px;
+    border: 1px solid #d6d6d6;
+    padding: 20px 40px;
+    border-right: 0px;
+    display: table;
+    width: 100%;
+}
+
+.application-order-left-inner {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.application-order-inner .application-order-left .application-order-title h2 {
+    font-family: "Gotham-Bold";
+    font-size: 24px;
+    line-height: 36px;
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+
+.application-order-description p {
+    font-family: "Gotham-Book";
+    font-size: 16px;
+    color: #fff;
+}
+
+.application-order-description ol {
+    padding-left: 15px;
+    list-style-type: decimal;
+}
+
+.application-order-description ol li {
+    font-size: 16px;
+    font-family: "Gotham-Book";
+}
+
+.application-order-button {
+    margin-top: 20px;
+}
+
+.application-order-button .order-btn {
+    background: #f3b233;
+    color: #000;
+    text-transform: uppercase;
+    max-width: 475px;
+    display: block;
+    padding: 20px 0px;
+    text-align: center;
+    font-family: "Gotham-Bold";
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+.application-order-right img {
+    width: 100%;
+    height: 100%;
+}
+
+.application-footer-wrapper {
+    padding-top: 40px;
+    clear: both;
+}
+
+.application-footer-block {}
+
+.application-footer-block p {
+    font-family: "Gotham-Book";
+    font-size: 18px;
+    color: #4a4f55;
+}
+
+::-webkit-input-placeholder {
+    /* Edge */
+    font-style: normal;
+}
+
+ :-ms-input-placeholder {
+    /* Internet Explorer */
+    font-style: normal;
+}
+
+ ::placeholder {
+    font-style: normal;
+}
+
+@media screen and (max-width: 1199px) and (min-width: 992px) {
+    .application-updates-inner {
+        padding: 40px 0px;
+    }
+    .application-updates-title h2 {
+        margin-bottom: 40px;
+    }
+    .application-updates-wrapper:before {
+        min-height: 465px;
+    }
+    .application-order-inner .application-order-left .application-order-title h2 {
+        margin-bottom: 10px;
+    }
+    .application-order-inner .application-order-left {
+        padding: 10px 20px;
+    }
+    .application-footer-wrapper {
+        padding-top: 30px;
+    }
+    .application-updates-form-inner .text-center {
+        clear: both;
+    }
+}
+
+@media screen and (max-width: 991px) and (min-width: 768px) {
+    .application-updates-inner {
+        padding: 40px 0px;
+    }
+    .application-updates-wrapper:before {
+        min-height: 385px;
+    }
+    .application-updates-form-inner .form-block {
+        font-size: 13px;
+    }
+    .callsection-inner .callsection-left {
+        border-radius: 0px 5px 5px 0px;
+    }
+    .callsection-inner .callsection-left .callsection-left-title {
+        margin-top: 20px;
+    }
+    .callsection-inner .callsection-left {
+        padding-bottom: 20px;
+    }
+    .application-order-inner .application-order-left {
+        border-radius: 0px 5px 5px 0px;
+        padding-bottom: 30px;
+    }
+    .application-updates-form-inner .text-center {
+        clear: both;
+    }
+    .application-order-right img {
+        height: auto;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .application-updates-form-inner .row {
+        margin: 0px;
+    }
+    .application-updates-inner {
+        padding: 40px 15px;
+    }
+    .application-updates-title h2 {
+        margin-bottom: 30px;
+        font-size: 22px;
+        line-height: 28px;
+    }
+    .application-updates-wrapper:before {
+        min-height: 230px;
+    }
+    .callsection-inner .callsection-left .callsection-left-title {
+        font-size: 16px;
+        line-height: 24px;
+        margin-bottom: 10px;
+    }
+    .callsection-inner .callsection-left {
+        padding: 15px;
+        border-radius: 0px;
+    }
+    .callsection-inner .callsection-left .callsection-left-desc {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .application-updates-form .application-form-title {
+        font-size: 20px;
+        margin-bottom: 20px;
+        padding-left: 15px;
+    }
+    .application-updates-form-inner .form-block {
+        margin-bottom: 15px;
+    }
+    .application-updates-form-inner .storeform-tag {
+        margin-top: 8px;
+    }
+    .application-order-inner .application-order-left {
+        padding: 20px;
+        border-radius: 0px;
+    }
+    .application-order-button .order-btn {
+        padding: 14px 0px;
+        font-size: 12px;
+    }
+    .application-order-inner .application-order-left .application-order-title h2 {
+        font-size: 16px;
+        line-height: 24px;
+        margin-bottom: 10px;
+    }
+    .application-order-description p {
+        font-size: 14px;
+    }
+    .application-order-description ol li {
+        font-size: 14px;
+    }
+    .application-updates-description {
+        font-size: 14px;
+    }
+    .application-updates-form-inner .text-center {
+        clear: both;
+    }
+    .application-footer-wrapper {
+        padding-top: 30px;
+    }
+    .application-footer-block p {
+        font-size: 14px;
+    }
+    .application-updates-form-inner .submit-btn {
+        font-size: 14px;
+        width: 160px;
+       /* padding: 15px 0px;*/
+    }
+    .application-order-right img {
+        height: auto;
+    }
+}

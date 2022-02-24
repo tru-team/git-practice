@@ -1,0 +1,74 @@
+/* recipe collection css */
+
+.page-recipe-collection-wrap .right-section {
+    position: relative;
+    padding-left: 25px;
+    padding-right: 0;
+    margin-bottom: 45px;
+}
+
+.page-recipe-collection-wrap .right-section:before {
+    margin-left: -30px;
+}
+
+.recipe-collection-title .collection-title {
+    font-size: 30px;
+    color: #000;
+    margin: 0;
+    font-family: "Leviathan-HTF-Black";
+    letter-spacing: 0.38px;
+    margin-bottom: 25px;
+}
+
+.recipe-collection-image {
+    margin-bottom: 30px;
+}
+
+.recipe-collection-image img {
+    width: 100%;
+}
+
+.recipe-collection-description {
+    margin-bottom: 35px;
+}
+
+.recipe-collection-description p {
+    font-size: 18px;
+    color: #000;
+    margin-bottom: 0px;
+}
+
+.page-recipe-collection-wrap .beer_pagination.bottom {
+    margin-top: 30px;
+    margin-bottom: 0px;
+}
+.parent-item.no_submenu:before,
+.parent-item.no_submenu:after {
+    display: none;
+}
+
+@media screen and (min-width:1600px) {
+    .collection-block {
+        display: block;
+    }
+}
+
+@media screen and (min-width:768px) and (max-width:1199px) {
+    .page-recipe-collection-wrap .right-section:before {
+        margin-left: -20px;
+    }
+}
+
+@media screen and (max-width:767px) {
+    .page-recipe-collection-wrap .right-section {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .page-recipe-collection-wrap .beer_pagination.bottom {
+        margin-top: 0;
+        margin-bottom: 0px;
+    }
+    .page-recipe-collection-wrap .right-section:before {
+        display: none;
+    }
+}

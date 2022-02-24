@@ -1,0 +1,229 @@
+@font-face {
+  font-family: "Gotham-Bold";
+ 
+   src: url('../fonts/Gotham-Bold.woff2') format('woff2'),
+       url('../fonts/Gotham-Bold.woff') format('woff'),
+       url('../fonts/Gotham-Bold.ttf') format('truetype'),
+	   url('../fonts/Gotham-Bold.eot') format('eot');
+}
+
+@font-face {
+  font-family: "Gotham-Book";
+  src: 
+   url('../fonts/Gotham-Book.woff') format('woff'),
+   url('../fonts/Gotham-Book.woff2') format('woff2'),
+       url('../fonts/Gotham-Book.ttf') format('truetype'),
+	   url('.../fonts/Gotham-Book.eot') format('eot');
+}
+@font-face {
+  font-family: "Gotham-Meduim";
+  src: 
+   url('../fonts/Gotham-Meduim.woff') format('woff'),
+   url('../fonts/Gotham-Meduim.woff2') format('woff2'),
+       url('../fonts/Gotham-Meduim.ttf') format('truetype'),
+	   url('.../fonts/Gotham-Meduim.eot') format('eot');
+}
+
+body{font-family: "Gotham-Book" !important;}
+._2RRqPirgep2tYaL6m8DGla{
+	padding:0px !important; 
+    }
+._1wLYeCxyDHedeY_UdTWOrk	{
+	background-color:#d06f1a !important; 
+	margin-bottom: 18px !important;
+}
+._2PNmBYJWnPgDm4yfoR5_Ab{
+	color:#fff;
+	padding:10px 49px;
+	font-size:18px !important;
+	font-family: "Gotham-Bold";
+	/*background-color:transparent;*/
+	margin-top: 9px;
+	background:url('../images/btn_cartNew.svg') no-repeat left 10px center;
+	
+}
+._2PNmBYJWnPgDm4yfoR5_Ab:before{
+	
+	height:20px;
+	width:20px;
+	
+}
+._12d9feXMqIlx3nUD0M_7XW{font-family: "Gotham-Bold" !important;
+font-size:16px !important;
+color:#000;
+font-weight: 700!important;
+
+}
+
+.KvAxnGAGHunY99MTbEiT4{
+	font-size:16px !important;
+	color:#4a4f55 !important;
+	font-family:"Gotham-Book" !important;
+	font-weight: 400 !important;
+}
+._1nRHxqlYZ1wLLPke-QEAib{
+	padding:10px;
+}
+._1s_PBzI1RfLhaFruxCqFxM ..KvAxnGAGHunY99MTbEiT4{
+	font-size:18px !important;
+}
+._2UQd0rtiQ2kfL9uECQy2_w{
+	border-top:1px solid #d6d6d6;background:transparent !important;
+}
+._2Hlyt-TJgRU9PCnTXmuPLf a{color:#D06F1A;}
+._3VHS2rHzGem9uGiK-Mg43j input[type='radio']:after {
+        width: 15px;
+        height: 15px;
+        border-radius: 15px;
+        top: 2px;
+        left: 2px;
+        position: relative;
+        background-color: #d1d3d1;
+        content: '';
+        display: inline-block;
+        visibility: visible;
+        border: 2px solid white;
+    }
+
+   ._3VHS2rHzGem9uGiK-Mg43j input[type='radio']:checked:after {
+        width: 15px;
+        height: 15px;
+        border-radius: 15px;
+            top: 2px;
+          left: 1px;
+        position: relative;
+        background-color: #f5b740;
+        content: '';
+        display: inline-block;
+        visibility: visible;
+        border: 2px solid white;
+    }
+._2RRqPirgep2tYaL6m8DGla ._12d9feXMqIlx3nUD0M_7XW{
+	font-weight:normal !important;
+	font-family: "Gotham-Book" !important;
+	}	
+._1cbk2We6wMWBcBAhONYJj7{
+	background:transparent !important;
+}	
+._2BldeeiFDmgUg8oPogV6Sw{
+	    position: relative;
+    top: -13px;
+    right: 20px;
+    color: #dedede;
+}
+._2CBfrM6a7MfNov5drhSVmU{
+	font-size:18px !important;
+	color:#000 !important;
+	font-family: "Gotham-Book" !important;
+}
+._3VHS2rHzGem9uGiK-Mg43j{
+	font-size:16px !important;
+	color:#4a4f55 !important;
+	font-family: "Gotham-Book" !important;
+	font-weight: 400 !important;
+	
+}
+._12zrT9QStheFoXM522Ys8r{
+	font-family: "Gotham-Bold" !important;
+	color:#000000;
+}
+._2jIBrurd0sP1tsvuj1Xj-v{
+	text-align:left !important;
+}
+.MFkshXJrNlS_splpfK9P0, ._2DSHSbaWzhO9S0VjzgVVpc{
+	/* border:1px solid #d6d6d6; */
+	border-radius:5px !important;
+	-webkit-border-radius:5px !important;
+	-moz-border-radius:5px !important;
+	box-shadow:none !important;
+	padding: 0px;
+}
+.QJnaxv4iVxhyvuNpnTaIV{
+	font-family: "Gotham-Bold" !important;
+	font-size:16px !important;
+	
+}
+.react-datetime-picker__wrapper{
+	border-radius:5px !important;
+	-webkit-border-radius:5px !important;
+	-moz-border-radius:5px !important;
+	border:1px solid #d6d6d6!important;
+}
+ .react-datetime-picker__inputGroup__amPm{
+	 position: absolute;
+    left: 1%;
+    right: 0;
+    width: 50px;
+    top: -1px;
+    height: 20px !important;
+ }	
+ .react-datetime-picker__inputGroup{
+	 padding:11px 2px !important; 
+ }
+ ._2BldeeiFDmgUg8oPogV6Sw{
+	 
+	 background:url('../images/cross.png') no-repeat right 10px center; 
+	 font-size:0px !important;
+	 height: 17px;
+    width: 24px;
+ }
+/*..optimizedCheckout-header {
+    display: none;
+}
+
+.checkout-view-header {
+    background: #f5f5f5;
+    padding-left: 30px;
+}
+
+.optimizedCheckout-headingPrimary,
+.optimizedCheckout-headingSecondary {
+    color: #404040;
+    font-size: 18px;
+}
+
+stepHeader-counter {
+    height: 28px!important;
+    width: 28px!important;
+}
+
+.stepHeader-counter:before {
+color:transparent!important;
+}
+
+.checkout-step--customer .optimizedCheckout-step {
+    background-image: url(https://beercorpd.wpengine.com/wp-content/uploads/2020/01/sign-in.png);
+    background-color: transparent!important;
+    background-repeat: no-repeat;
+    border-radius: 0px!important;
+}
+.checkout-view-content {
+    padding-top: 50px;
+}
+
+.checkout-step {
+    padding: 0px!important;
+}
+
+#checkout-customer-login {
+    color: #d06f1a!important;
+}
+
+.optimizedCheckout-buttonPrimary {
+    background-color: #f4b233!important;
+    border-color: #f4b233!important;
+    color: #000!important;
+    font-size: 14px!important;
+    font-weight: bold!important;
+}
+.cart-header {
+    background: #d06f1a;
+       width: calc(100% + 1px)!important;
+    border-radius: 4px 4px 0px 0px;
+}
+.cart-header .cart-title{color:#fff;font-size:14px;}
+.cart-header .cart-header-link{color:#fff;}
+.redeemable-label,.redeemable-label:hover,.redeemable-label:focus{color:#d06f1a;}
+.cart-priceItem--total .cart-priceItem-value {
+    font-size: 14px!important;}
+    #cart-edit-link { display:none }*/

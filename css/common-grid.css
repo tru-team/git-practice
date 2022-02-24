@@ -1,0 +1,57 @@
+/* common grid css */
+
+.common-grid-block {
+    width: 100%;
+    float: left;
+}
+
+.common-grid-block .grid-block-wrap .grid-content {
+    padding: 21px;
+}
+
+.common-grid-block .grid-box {
+    position: relative;
+}
+
+.common-grid-block .grid-tag {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background: #fff;
+    text-transform: uppercase;
+    padding: 5px 8px;
+    font-family: "Gotham-Bold";
+    font-size: 10px;
+    border-radius: 5px;
+}
+
+.common-grid-block .grid-block-wrap .grid-content .grid-title {
+    margin-bottom: 15px;
+}
+
+.common-grid-block .grid-block-wrap .grid-title h2 {
+    font-size: 18px;
+}
+
+.common-grid-block .grid-block-wrap .grid-des {
+    margin-bottom: 20px;
+}
+
+.common-grid-block .grid-block-wrap .grid-des p {
+    color: #000;
+    margin-bottom: 0px;
+}
+
+.common-grid-block .grid-block-wrap .grid-btn {
+    text-align: left;
+    margin-top: 0px;
+}
+
+@media screen and (max-width:767px) {
+    .common-grid-block .grid-block-wrap {
+        margin-bottom: 0px;
+    }
+    .common-grid-block .grid-block-wrap .grid-content {
+        margin-bottom: 0px;
+    }
+}

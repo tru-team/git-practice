@@ -1,0 +1,2396 @@
+
+::placeholder {
+  color: #4a4f55;
+  font-style: normal;
+  opacity: 1;
+}
+.full_page_account {
+  margin-top: 30px;
+}
+.full_page_account .page_container {
+  width: 100%;
+  margin: 0 auto;
+  max-width: 1430px;
+}
+.full_page_account .page_container .nav-tabs {
+  background: rgb(245, 245, 245);
+  border-width: 1px;
+  border-color: rgb(214, 214, 214);
+  border-style: solid;
+  text-align: center;
+  border-radius: 5px 5px 0 0;
+  /* height: 78px; */
+}
+
+.full_page_account .page_container .nav-tabs .nav.current {
+  color: rgba(74, 79, 85);
+}
+.full_page_account .page_container .nav-tabs .nav:hover {
+  color: rgba(74, 79, 85);
+}
+.full_page_account .page_container .nav-tabs .nav.current span {
+  opacity: 0.7;
+}
+.full_page_account .page_container .nav-tabs .nav:hover span {
+  opacity: 0.7;
+}
+.full_page_account .page_container .nav-tabs .nav {
+  padding: 28px 10px;
+  margin: 0px 40px;
+  display: inline-block;
+  font-size: 18px;
+  font-family: "Gotham-Medium";
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+  position: relative;
+}
+.full_page_account .page_container .nav-tabs .nav span img {
+  vertical-align: middle;
+  margin-right: 15px;
+}
+.full_page_account .page_container .nav-tabs .nav.current::after {
+      background: rgb(244, 178, 51);
+    position: absolute;
+    content: '';
+    height: 3px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    bottom: -1px;
+    width: 100%;
+}
+.full_page_account .page_container .nav-tabs .nav:hover::after {
+  background: rgb(244, 178, 51);
+    position: absolute;
+    content: '';
+    height: 3px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    bottom: -1px;
+    width: 100%;
+}
+.full_page_account .page_container .tab-content .info {
+  display: none;
+}
+.full_page_account .page_container .tab-content .info.active {
+  display: block;
+}
+.full_page_account .page_container .tab-content::before {
+  margin-top: 70px;
+  content: '';
+  display: table;
+}
+.full_page_account .page_container .tab-content {
+  width: 100%;
+  max-width: 1256px;
+  margin: 0 auto;
+  display: block;
+  background: #fff;
+}
+.full_page_account .page_container .tab-content .info .personal_info {
+  padding-bottom: 80px;
+}
+.full_page_account .page_container .tab-content .info .first_section.personal_info h3 {
+  font-size: 24px;
+  font-family: "Gotham-Bold";
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  line-height: 1;
+  margin: 0;
+}
+.full_page_account .page_container .tab-content .info .first_section.personal_info .information_section {
+  width: 100%;
+  padding-top: 30px;
+  padding-bottom: 70px;
+  border-bottom: 1px solid rgb(214, 214, 214);
+}
+.full_page_account .page_container .tab-content .info .first_section.personal_info .information_section form {
+  margin-left: -30px;
+  margin-right: -30px;
+}
+.full_page_account .page_container .tab-content .info .first_section.personal_info .information_section::after {
+  content: '';
+  display: table;
+  clear: both;
+}
+.full_page_account .page_container .tab-content .info .first_section.personal_info .information_section form .info_left_div {
+  width: 50%;
+  float: left;
+  padding: 0 30px;
+}
+/*
+.full_page_account .page_container .tab-content .info .first_section.personal_info .information_section form .info_left_div .info_left_inner {
+  padding-right: 35px;
+  width: 100%;
+  max-width: 590px;
+}
+*/
+.full_page_account .page_container .tab-content .info .first_section.personal_info .information_section form .info_right_div {
+  width: 50%;
+  float: left;
+  padding: 4px 30px 45px;
+}
+/*
+.full_page_account .page_container .tab-content .info .first_section.personal_info .information_section form .info_right_div .info_right_inner {
+  padding-left: 35px;
+}
+*/
+.full_page_account .page_container .tab-content .info .first_section.personal_info .information_section form .info_left_div .account-upload-btn-wrapper {
+  position: relative;
+  overflow: hidden;
+  display: inline-block;
+}
+.full_page_account .page_container .tab-content .info .first_section.personal_info .information_section form .info_left_div .account-upload-btn-wrapper p {
+  display: inline;
+  margin-left: 20px;
+  font-size: 14px;
+  font-family: "Gotham-Book";
+  color: rgb(74, 79, 85);
+  border-bottom: 1px solid #4a4f55;
+  line-height: 1.429;
+  text-align: left;
+  cursor: pointer;
+  position: inherit;
+  bottom: -39px;
+}
+.full_page_account .page_container .tab-content .info .first_section.personal_info .information_section form .info_left_div .account-upload-btn-wrapper input[type=file] {
+  font-size: 100px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  opacity: 0;
+}
+.full_page_account .page_container .tab-content .info .first_section.personal_info .information_section form .info_left_div .info_left_inner .form_field {
+  padding-top: 28px;
+}
+.full_page_account .page_container .tab-content .info .first_section.personal_info .information_section form .info_left_div .form_field label {
+  display: block;
+  font-size: 14px;
+  font-family: "Gotham-Book";
+  color: rgb(74, 79, 85);
+  line-height: 1.429;
+  font-weight: normal;
+}
+
+/**03-03-2020**/
+.full_page_account .page_container .tab-content .info .first_section.personal_info .information_section form .info_left_div .form_field input {
+  width: 100%;
+  /*  max-width: 590px;*/
+  border-radius: 5px;
+  border: 1px solid #e8e8e8;
+  padding: 15px;
+  margin-top:10px;
+  font-family: "Gotham-Book";
+  color: #4a4f55;
+}
+/**03-03-2020 end**/
+.full_page_account .page_container .tab-content .info .first_section.personal_info .information_section form .info_right_div .form_field label {
+  display: block;
+  font-size: 14px;
+  font-family: "Gotham-Book";
+  color: rgb(74, 79, 85);
+  line-height: 1.429;
+  font-weight: normal;
+}
+.full_page_account .page_container .tab-content .info .first_section.personal_info .information_section form .info_right_div .form_field input {
+  width: 100%;
+  /*  max-width: 558px;*/
+  border-radius: 5px;
+  border: 1px solid #e8e8e8;
+  padding: 15px;
+  margin-top: 20px;
+  margin-bottom: 32px;
+  font-family: "Gotham-Book";
+  color: #4a4f55;
+}
+/*
+.full_page_account .page_container .tab-content .info .first_section.personal_info .information_section form .info_right_div .form_field input#check_box {
+  width: 20px;
+  margin-top: 4px;
+  margin-bottom: 0px;
+    margin-right: 16px;
+  margin-left: -5px;
+  float: left;
+}
+*/
+
+/* checkbox */
+
+
+.full_page_account .page_container .tab-content .info .first_section.personal_info .information_section form .info_right_div .checkboxtick {
+  display: block;
+  position: relative;
+  padding-left: 25px;
+  margin-bottom: 12px;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.full_page_account .page_container .tab-content .info .first_section.personal_info .information_section form .info_right_div .checkboxtick input[type="checkbox"] {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 20px;
+  width: 20px;
+  left: 0;
+  top: -11px;
+  z-index: 1;
+}
+.full_page_account .page_container .tab-content .info .first_section.personal_info .information_section form .info_right_div .checkboxtick .checkmark {
+  position: absolute;
+  top: 4px;
+  left: 0;
+  height: 20px;
+  width: 20px;
+  background-color: transparent;
+  border-radius: 5px;
+  border: 1px solid #d6d6d6;
+}
+
+/*
+.full_page_account .page_container .tab-content .info .first_section.personal_info .information_section form .info_right_div .checkboxtick:hover input ~ .checkmark {
+  background: #ccc;
+}
+*/
+.full_page_account .page_container .tab-content .info .first_section.personal_info .information_section form .info_right_div .checkboxtick input:checked ~ .checkmark {
+  background: #f4b233;
+}
+.full_page_account .page_container .tab-content .info .first_section.personal_info .information_section form .info_right_div .checkboxtick .checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+.full_page_account .page_container .tab-content .info .first_section.personal_info .information_section form .info_right_div .checkboxtick input:checked ~ .checkmark::after {
+  display: block;
+}
+.full_page_account .page_container .tab-content .info .first_section.personal_info .information_section form .info_right_div .checkboxtick .checkmark:after {
+  left: 9px;
+  top: 5px;
+  width: 5px;
+  height: 10px;
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+.full_page_account .page_container .tab-content .info .first_section.personal_info .information_section form .info_right_div .checkboxtick .checkmark::after {
+  left: 7px;
+  top: 4px;
+  width: 5px;
+  height: 10px;
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+/* checkbox end */
+.full_page_account .page_container .tab-content .info .first_section.personal_info .information_section form .info_right_div .form_field span.checkbox_text {
+  width: calc(100% - 20px);
+  float: left;
+  font-size: 14px;
+  font-family: "Gotham-Book";
+  color: rgb(74, 79, 85);
+  line-height: 1.429;
+  text-align: left;
+  padding-left: 15px;
+}
+.full_page_account .page_container .tab-content .info .first_section.personal_info .information_section form .info_right_div .form_field span.checkbox_text a {
+  color: inherit;
+  border-bottom: 1px solid #4a4f55;
+}
+.full_page_account .page_container .tab-content .info .billing_delivery_address {
+  /*  width: 100%;*/
+  padding-top: 79px;
+  padding-bottom: 89px;
+  margin-left: -30px;
+  margin-right: -30px;
+}
+.full_page_account .page_container .tab-content .info .billing_delivery_address::after {
+  content: '';
+  display: table;
+  clear: both;
+}
+.full_page_account .page_container .tab-content .info .billing_delivery_address .billing_left_div {
+  width: 50%;
+  float: left;
+  padding: 0 30px;
+}
+.full_page_account .page_container .tab-content .info .billing_delivery_address .billing_left_div h3 {
+  font-size: 24px;
+  font-family: "Gotham-Bold";
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  line-height: 1;
+}
+.full_page_account .page_container .tab-content .info .billing_delivery_address .billing_left_div .billing_inner {
+  padding-top: 55px;
+}
+.full_page_account .page_container .tab-content .info .billing_delivery_address .billing_left_div .billing_inner .form .billing_form_wrapper .form_field label {
+  display: block;
+  font-size: 16px;
+  font-family: "Gotham-Book";
+  color: rgb(74, 79, 85);
+  line-height: 1.5;
+  margin-bottom: 12px;
+  font-weight: normal;
+}
+.full_page_account .page_container .tab-content .info .billing_delivery_address .billing_left_div .billing_inner .form {
+  margin-left: -10px;
+  margin-right: -10px;
+}
+.full_page_account .page_container .tab-content .info .billing_delivery_address .billing_left_div .billing_inner .form .billing_form_wrapper .col_2 {
+  width: 50%;
+  float: left;
+  padding: 0 10px;
+}
+.full_page_account .page_container .tab-content .info .billing_delivery_address .billing_left_div .billing_inner .form .billing_form_wrapper .col_1 {
+  padding: 0 10px;
+}
+.full_page_account .page_container .tab-content .info .billing_delivery_address .billing_left_div .billing_inner .form .billing_form_wrapper .col_3 {
+  width: 33.333%;
+  float: left;
+  padding: 0 10px;
+}
+.full_page_account .page_container .tab-content .info .billing_delivery_address .billing_left_div .billing_inner .form .billing_form_wrapper .form_field input {
+  width: 100%;
+  border-radius: 5px;
+  border: 1px solid #e8e8e8;
+  padding: 15px;
+  margin-bottom: 30px;
+  font-family: "Gotham-Book";
+}
+.full_page_account .page_container .tab-content .info .billing_delivery_address .billing_left_div .billing_inner .form .billing_form_wrapper .col_3 select {
+  width: 100%;
+  padding: 15px;
+  border-radius: 5px;
+  border: 1px solid #e8e8e8;
+ -webkit-appearance: none;
+    background: transparent;
+    background-image: url(../images/arrow-down-shape.svg);
+    background-repeat: no-repeat;
+    background-position-x: 94%;
+    background-position-y: 23px;
+}
+.full_page_account .page_container .tab-content .info .billing_delivery_address .delivery_right_div {
+  width: 50%;
+  float: left;
+  padding: 0 30px;
+
+
+  border-left: 1px solid #e8e8e8;
+}
+.full_page_account .page_container .tab-content .info .billing_delivery_address .delivery_right_div h3 {
+  font-size: 24px;
+  font-family: "Gotham-Bold";
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  line-height: 1;
+}
+.full_page_account .page_container .tab-content .info .billing_delivery_address .delivery_right_div .diliver_inner .form {
+  margin-left: -10px;
+  margin-right: -10px;
+}
+/* checkbox */
+/*
+.full_page_account .page_container .tab-content .info .billing_delivery_address .delivery_right_div .diliver_inner .form .diliver_form_wrapper .form_field input#check_box {
+  width: 20px;
+  margin-top: 4px;
+  margin-bottom: 0px;
+  margin-left: -5px;
+  float: left;
+}
+*/
+
+.full_page_account .page_container .tab-content .info .billing_delivery_address .delivery_right_div .diliver_inner .form .diliver_form_wrapper .checkboxtick {
+  display: block;
+  position: relative;
+  padding-left: 25px;
+  margin-bottom: 12px;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.full_page_account .page_container .tab-content .info .billing_delivery_address .delivery_right_div .diliver_inner .form .diliver_form_wrapper .checkboxtick input[type="checkbox"] {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 20px;
+  width: 20px;
+  left: 0;
+  top: 0;
+  z-index: 1;
+}
+.full_page_account .page_container .tab-content .info .billing_delivery_address .delivery_right_div .diliver_inner .form .diliver_form_wrapper .checkboxtick .checkmark {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  height: 20px;
+  width: 20px;
+  background-color: transparent;
+  border-radius: 5px;
+  border: 1px solid #d6d6d6;
+}
+
+/*
+.full_page_account .page_container .tab-content .info .billing_delivery_address .delivery_right_div .diliver_inner .form .diliver_form_wrapper .checkboxtick:hover input ~ .checkmark {
+  background: #ccc;
+}
+*/
+.full_page_account .page_container .tab-content .info .billing_delivery_address .delivery_right_div .diliver_inner .form .diliver_form_wrapper .checkboxtick input:checked ~ .checkmark {
+  background: #f4b233;
+}
+.full_page_account .page_container .tab-content .info .billing_delivery_address .delivery_right_div .diliver_inner .form .diliver_form_wrapper .checkboxtick .checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+.full_page_account .page_container .tab-content .info .billing_delivery_address .delivery_right_div .diliver_inner .form .diliver_form_wrapper .checkboxtick input:checked ~ .checkmark::after {
+  display: block;
+}
+.full_page_account .page_container .tab-content .info .billing_delivery_address .delivery_right_div .diliver_inner .form .diliver_form_wrapper .checkboxtick .checkmark:after {
+  left: 9px;
+  top: 5px;
+  width: 5px;
+  height: 10px;
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+.full_page_account .page_container .tab-content .info .billing_delivery_address .delivery_right_div .diliver_inner .form .diliver_form_wrapper .checkboxtick .checkmark::after {
+  left: 7px;
+  top: 3px;
+  width: 5px;
+  height: 10px;
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+/*checkbox end*/
+
+
+.full_page_account .page_container .tab-content .info .billing_delivery_address .delivery_right_div .diliver_inner .form .diliver_form_wrapper .form_field .checkbox_text {
+  width: calc(100% - 20px);
+  float: left;
+  font-size: 14px;
+  font-family: "Gotham-Book";
+  color: rgb(74, 79, 85);
+  line-height: 1.429;
+  text-align: left;
+  margin-left: 27px;
+  padding-bottom: 35px;
+}
+.full_page_account .page_container .tab-content .info .billing_delivery_address .delivery_right_div .diliver_inner {
+  padding-top: 40px;
+}
+/*
+.full_page_account .page_container .tab-content .info .billing_delivery_address .delivery_right_div .diliver_inner .form  .diliver_form_wrapper {
+    margin-left: -30px;
+    margin-right: -30px;
+}
+*/
+.full_page_account .page_container .tab-content .info .billing_delivery_address .delivery_right_div .diliver_inner .form .diliver_form_wrapper .form_field label {
+  display: block;
+  font-size: 16px;
+  font-family: "Gotham-Book";
+  color: rgb(74, 79, 85);
+  line-height: 1.5;
+  margin-bottom: 12px;
+  font-weight: normal;
+}
+.full_page_account .page_container .tab-content .info .billing_delivery_address .delivery_right_div .diliver_inner .form .diliver_form_wrapper .form_field input {
+  width: 100%;
+  border-radius: 5px;
+  border: 1px solid #e8e8e8;
+  padding: 15px;
+  margin-bottom: 30px;
+  font-family: "Gotham-Book";
+  color: #4a4f55;
+}
+.full_page_account .page_container .tab-content .info .billing_delivery_address .delivery_right_div .diliver_inner .form .diliver_form_wrapper .col_2 {
+  width: 50%;
+  float: left;
+  padding: 0 10px;
+}
+.full_page_account .page_container .tab-content .info .billing_delivery_address .delivery_right_div .diliver_inner .form .diliver_form_wrapper .col_1 {
+  padding: 0 10px;
+}
+.full_page_account .page_container .tab-content .info .billing_delivery_address .delivery_right_div .diliver_inner .form .diliver_form_wrapper .col_3 {
+  width: 33.333%;
+  float: left;
+  padding: 0 10px;
+}
+.full_page_account .page_container .tab-content .info .billing_delivery_address .delivery_right_div .diliver_inner .form .diliver_form_wrapper .col_3 select {
+  width: 100%;
+  padding: 15px;
+  border-radius: 5px;
+  border: 1px solid #e8e8e8;
+  font-family: "Gotham-Book";
+  -webkit-appearance: none;
+    background: transparent;
+    background-image: url(../images/arrow-down-shape.svg);
+    background-repeat: no-repeat;
+    background-position-x: 94%;
+    background-position-y: 23px;
+}
+.full_page_account .page_container .tab-content .info .billing_delivery_address .delivery_right_div .diliver_inner .form .diliver_form_wrapper .col_3:last-child input {
+  margin: 0;
+  padding: 14px;
+}
+.full_page_account .page_container .tab-content .info .save_button {
+  width: 100%;
+  max-width: 590px;
+  margin: 0 auto;
+}
+.full_page_account .page_container .tab-content .info .save_button .savechanges_btn {
+  text-align: center;
+}
+.full_page_account .page_container .tab-content .info .save_button .savechanges_btn button {
+  width: 100%;
+  background: rgb(244, 178, 51);
+  border: 1px solid;
+  height: 50px;
+  font-size: 14px;
+  font-family: "Gotham-Bold";
+  color: rgb(0, 0, 0);
+  text-transform: uppercase;
+  line-height: 24px;
+  border-radius: 5px;
+  border-color: rgb(244, 178, 51);
+}
+/* second tab*/
+.full_page_account .page_container .tab-content .info .password_change {
+  background: url(/wp-content/themes/Beer-Store/images/bg_lock.png);
+  background-repeat: no-repeat;
+  background-position: right bottom;
+}
+.full_page_account .page_container .tab-content .info .second_section.change_password {
+  width: 100%;
+  max-width: 590px;
+  margin: 0 auto;
+  padding-bottom: 95px;
+}
+.full_page_account .page_container .tab-content .info .second_section h3 {
+  font-size: 24px;
+  font-family: "Gotham-Bold";
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  line-height: 1;
+  margin: 0;
+  margin-bottom: 30px;
+}
+.full_page_account .page_container .tab-content .info .second_section .change_password_inner .form .changepass_form_wrapper .form_field label {
+  display: block;
+  font-size: 14px;
+  font-family: "Gotham-Book";
+  color: rgb(74, 79, 85);
+  line-height: 1.429;
+  margin-bottom: 20px;
+  font-weight: normal;
+}
+.full_page_account .page_container .tab-content .info .second_section .change_password_inner .form .changepass_form_wrapper .form_field input {
+  width: 100%;
+  border-radius: 5px;
+  border: 1px solid #e8e8e8;
+  padding: 15px;
+  margin-bottom: 30px;
+  font-family: "Gotham-Book";
+  color: #4a4f55;
+}
+.full_page_account .page_container .tab-content .info .second_section .change_password_inner .form .changepass_form_wrapper .form_field input:last-child {
+  margin-bottom: 40px;
+}
+/*third section*/
+.full_page_account .page_container .tab-content .info .section_third {
+  padding-bottom: 70px;
+}
+.full_page_account .page_container .tab-content .info .third_section {
+  width: 100%;
+  max-width: 1150px;
+  margin: 0 auto;
+  border: 1px solid rgb(214, 214, 214);
+  border-radius: 5px;
+}
+.full_page_account .page_container .tab-content .info .third_section .accordion {
+  position: relative;
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+  transition: 0.4s;
+  border-top: 1px solid rgb(214, 214, 214);
+}
+.full_page_account .page_container .tab-content .info .third_section .accordion:before {
+  content: ' \002B';
+  position: absolute;
+  width: 100px;
+  color: #0A0A0A;
+  top: 0px;
+  right: 0;
+  padding: 19px 19px;
+  font-family: "Gotham-Regular";
+  text-align: center;
+  font-size: 36px;
+}
+.full_page_account .page_container .tab-content .info .third_section .active {
+  background-color: #000000;
+}
+.full_page_account .page_container .tab-content .info .third_section .active:before {
+  content: ' \002D';
+  position: absolute;
+  width: 100px;
+  color: #fff;
+  top: 0px;
+  right: 0;
+  padding: 19px 19px;
+  font-family: "Gotham-Regular";
+  text-align: center;
+  font-size: 36px;
+  margin-top: -4px;
+}
+.full_page_account .page_container .tab-content .info .third_section .panel {
+  /*  padding: 0 20px;*/
+  display: none;
+  background-color: white;
+  overflow: hidden;
+  margin-bottom: 30px;
+  box-shadow: none;
+  border: none;
+}
+.full_page_account .page_container .tab-content .info .third_section .order_headings {
+  display: block;
+}
+.full_page_account .page_container .tab-content .info .third_section .order_headings div {
+  display: inline-block;
+  padding: 30px 20px;
+  font-family: "Gotham-Bold";
+  font-size: 16px;
+  line-height: 24px;
+  text-transform: uppercase;
+}
+.full_page_account .page_container .tab-content .info .third_section .order_headings .col_1 {
+  width: 12%;
+  /*  color: #f4b233;*/
+}
+.full_page_account .page_container .tab-content .info .third_section .order_headings .col_2 {
+  width: 15%;
+}
+.full_page_account .page_container .tab-content .info .third_section .order_headings .col_3 {
+  width: 25%;
+}
+.full_page_account .page_container .tab-content .info .third_section .order_headings .col_4 {
+  width: 46%;
+}
+.full_page_account .page_container .tab-content .info .third_section .accordion .panel_headings {
+  display: block;
+}
+.full_page_account .page_container .tab-content .info .third_section .accordion .panel_headings div {
+  display: inline-block;
+  padding: 30px 20px;
+  font-family: "Gotham-Book";
+  font-size: 16px;
+  line-height: 24px
+}
+.full_page_account .page_container .tab-content .info .third_section .panel_headings .col_1 {
+  width: 12%;
+  color: #f4b233;
+}
+.full_page_account .page_container .tab-content .info .third_section .panel_headings .col_2 {
+  width: 15%;
+}
+.full_page_account .page_container .tab-content .info .third_section .panel_headings .col_3 {
+  width: 25%;
+  font-size: 12px;
+  font-family: "Gotham-Book";
+  text-transform: uppercase;
+  line-height: 2;
+}
+.full_page_account .page_container .tab-content .info .third_section .panel_headings div.status_pend p {
+  margin: 0;
+  border-radius: 5px;
+  background-color: rgb(74, 79, 85);
+  color: rgb(255, 255, 255);
+  width: 90px;
+  line-height: 24px;
+  text-align: center;
+  font-size: 12px;
+}
+.full_page_account .page_container .tab-content .info .third_section .panel_headings div.status_comp p {
+  margin: 0;
+  border-radius: 5px;
+  background-color: #08c12f;
+  color: rgb(255, 255, 255);
+  width: 90px;
+  line-height: 24px;
+  text-align: center;
+  font-size: 12px;
+}
+.full_page_account .page_container .tab-content .info .third_section .panel_headings div.status_cancel p {
+  margin: 0;
+  border-radius: 5px;
+  background-color: #eb4242;
+  color: rgb(255, 255, 255);
+  width: 90px;
+  line-height: 24px;
+  text-align: center;
+  font-size: 12px;
+}
+.full_page_account .page_container .tab-content .info .third_section .panel_headings .col_4 {
+  width: 46%;
+}
+.full_page_account .page_container .tab-content .info .third_section .active .panel_headings div {
+  color: #e6e3e3;
+}
+.full_page_account .page_container .tab-content .info .third_section .active .panel_headings div:first-child {
+  color: #f4b233;
+}
+.full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_number {
+  padding: 30px 20px 10px 20px;
+}
+.full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_number .order_heading {
+  font-size: 18px;
+  font-family: "Gotham-Medium";
+  color: rgb(0, 0, 0);
+  line-height: 1.333;
+  padding-bottom: 20px;
+  margin: 0;
+}
+.full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_number .order_text {
+  font-size: 16px;
+  font-family: "Gotham-Medium";
+  color: rgb(64, 64, 64);
+  line-height: 1.5;
+  margin: 0;
+}
+.full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_description {
+  overflow: auto;
+  padding: 20px 20px;
+}
+.full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_second {
+  border-top: 1px solid rgb(214, 214, 214);
+  border-bottom: 1px solid rgb(214, 214, 214);
+}
+.full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_description .col_1 .beername_logo {
+  width: 65px;
+  display: inline-block;
+  vertical-align: middle;
+}
+.full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_description .col_1 span .can_or_bottle {
+  padding-right: 10px;
+}
+.full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_description .col_1 .discription_vintage {
+  display: inline-block;
+  width: calc(100% - 70px);
+  vertical-align: middle;
+  padding-left: 15px;
+}
+.full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_description .col_1 {
+  width: 55%;
+  float: left;
+  min-height: 1px;
+}
+.full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_description .col_2 {
+  width: 21%;
+  float: left;
+  min-height: 1px;
+}
+.full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_description .col_3 {
+  width: 15%;
+  float: left;
+}
+.full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_description .col_4 {
+  width: 9%;
+  float: left;
+}
+.full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_description .discription_vintage p {
+  margin: 0;
+  font-family: "Gotham-Book";
+}
+.full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_description .discription_vintage p:first-child {
+  font-family: "Gotham-Medium";
+}
+.full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_description .discription_vintage .bottle_can {
+  padding-top: 2px;
+}
+.full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_description .description_heading {
+  font-size: 18px;
+  font-family: "Gotham-Medium";
+  color: rgb(0, 0, 0);
+  line-height: 24px;
+}
+.full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .subtotal_total {
+  padding: 20px 20px 0px 20px !important;
+}
+.full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_description .order_buttons {
+  text-align: right;
+  padding-top: 150px;
+}
+.full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_description .order_buttons .all_btns span a {
+  width: 100%;
+  max-width: 150px;
+  padding: 10px 15px;
+  margin-left: 15px;
+}
+.full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_description .order_buttons .all_btns span .cancel_btn {
+  background: #fff;
+  border: 1px solid rgb(214, 214, 214);
+  max-width: 156px;
+}
+/* mobile */
+.full_page_account .page_container .tab-content .info .third_section .accordion .order_headings_mobile {
+  display: none;
+}
+/*register page css*/
+.create_account.container {
+  padding-bottom: 80px;
+  background-image: url(../images/bg_register.png);
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-size: 190px;
+  margin-top: 30px;
+}
+.create_account.container .inner_create_account {
+  width: 100%;
+  max-width: 870px;
+  margin: 0 auto;
+}
+.create_account.container .inner_create_account h3 {
+  font-size: 24px;
+  font-family: "Gotham-Bold";
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  line-height: 1;
+  margin: 0;
+  margin-bottom: 30px;
+}
+/*
+.create_account.container .inner_create_account .form .form_column {
+  margin-left: -15px;
+  margin-right: -15px;
+}
+*/
+.create_account.container .inner_create_account .form .form_column .col_2 {
+  width: 50%;
+  float: left;
+}
+.create_account.container .inner_create_account .form .form_column .left_side {
+  padding-right: 15px;
+}
+.create_account.container .inner_create_account .form .form_column .right_side {
+  padding-left: 15px;
+}
+.create_account.container .inner_create_account .form .form_column .col_1 {
+  width: 100%;
+  float: left;
+}
+.create_account.container .inner_create_account .form .form_column .registerform_wrapper {
+  margin-bottom: 30px;
+}
+.create_account.container .inner_create_account .form .form_column .registerform_wrapper label {
+  display: block;
+  margin-bottom: 20px;
+  font-family: "Gotham-Book";
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: normal;
+  color: #4a4f55;
+}
+.create_account.container .inner_create_account .form .form_column .registerform_wrapper #phone_label {
+  font-weight: 600;
+}
+.create_account.container .inner_create_account .form .form_column .registerform_wrapper input {
+  width: 100%;
+  border-radius: 5px;
+  border: 1px solid #e8e8e8;
+  padding: 15px;
+  /*  max-width: 418px;*/
+  font-family: "Gotham-Book";
+  color: #4a4f55;
+}
+
+/* checkbox */
+
+
+.create_account.container .inner_create_account .form .form_column .checkboxtick {
+  display: block;
+  position: relative;
+  padding-left: 25px;
+  margin-bottom: 12px;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.create_account.container .inner_create_account .form .form_column .checkboxtick input[type="checkbox"] {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 20px;
+  width: 20px;
+  left: 0;
+  top: 0;
+  z-index: 1;
+}
+.create_account.container .inner_create_account .form .form_column .checkboxtick .checkmark {
+  display: block;
+  position: absolute;
+  top: 4px;
+  left: 0;
+  height: 20px;
+  width: 20px;
+  background-color: transparent;
+  border-radius: 5px;
+  border: 1px solid #d6d6d6;
+}
+
+/*
+.create_account.container .inner_create_account .form .form_column .checkboxtick:hover input ~ .checkmark {
+  background: #ccc;
+}
+*/
+.create_account.container .inner_create_account .form .form_column .checkboxtick input:checked ~ .checkmark {
+  background: #f4b233;
+}
+.create_account.container .inner_create_account .form .form_column .checkboxtick .checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+.create_account.container .inner_create_account .form .form_column .checkboxtick input:checked ~ .checkmark::after {
+  display: block;
+}
+.create_account.container .inner_create_account .form .form_column .checkboxtick .checkmark:after {
+  left: 9px;
+  top: 5px;
+  width: 5px;
+  height: 10px;
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+.create_account.container .inner_create_account .form .form_column .checkboxtick .checkmark::after {
+  left: 7px;
+  top: 4px;
+  width: 5px;
+  height: 10px;
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+/* Register checkbox end*/
+.create_account.container .inner_create_account .form .form_column .registerform_wrapper .checkbox_text {
+  width: calc(100% - 20px);
+  float: left;
+  font-size: 14px;
+  font-family: "Gotham-Book";
+  color: rgb(74, 79, 85);
+  line-height: 1.429;
+  text-align: left;
+  margin-left: 35px;
+}
+/*
+.create_account.container .inner_create_account .form .form_column .registerform_wrapper .privacy_policy {
+  padding-left: 30px;
+  margin-top: 20px
+}
+*/
+.create_account.container .inner_create_account .form .form_column .col_1 .privacy_policy {
+  padding-left: 35px;
+  margin-top: 80px;
+}
+.create_account.container .inner_create_account .form .form_column .registerform_wrapper .checkbox_text a {
+  color: inherit;
+  border-bottom: 1px solid #4a4f55;
+}
+.create_account.container .inner_create_account .form .form_column .col_1 .privacy_policy a {
+  color: inherit;
+  border-bottom: 1px solid #4a4f55;
+}
+.create_account.container .inner_create_account .create_accountbtn {
+  clear: both;
+}
+.create_account.container .inner_create_account .create_accountbtn .account_registerbtn button {
+  width: 100%;
+  background: rgb(244, 178, 51);
+  border: 1px solid;
+  height: 50px;
+  font-size: 14px;
+  font-family: "Gotham-Bold";
+  color: rgb(0, 0, 0);
+  text-transform: uppercase;
+  line-height: 24px;
+  border-radius: 5px;
+  border-color: rgb(244, 178, 51);
+  margin-top: 40px;
+}
+.billing_popup {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    background: rgba(0, 0, 0, 0.5);
+    left: 0;
+    z-index: 999;
+}
+.billing_popup .billing_pop_div {
+    position: absolute;
+    max-width: 800px;
+    width: 100%;
+    height: max-content;
+    margin: auto;
+    background: #ffffff;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    border-radius: 5px;
+    padding: 70px 120px;
+}
+span.closeNewAddress {
+    color: #000000;
+    font-size: 30px;
+    position: absolute;
+    right: 20px;
+    top: 5px;
+    text-align: center;
+    cursor: pointer;
+}
+.billing_popup .billing_pop_div h3{
+
+ font-size: 24px;
+    font-family: "Gotham-Bold";
+    color: #000;
+    font-weight: bold;
+    line-height: 1;
+    text-align:center;
+    margin: 0;
+}
+
+.billing_popup .billing_pop_div .billing_inner{
+    padding-top: 50px;
+}
+.billing_popup .billing_pop_div .billing_inner .form .billing_form_wrapper .col_2{
+    width: 50%;
+    float: left;
+    padding: 0 10px;
+
+}.billing_popup .billing_pop_div .billing_inner .form .billing_form_wrapper .form_field label{
+display: block;
+    font-size: 16px;
+    font-family: "Gotham-Book";
+    color: rgb(74, 79, 85);
+    line-height: 1.5;
+    margin-bottom: 12px;
+    font-weight: normal;
+}
+.billing_popup .billing_pop_div .billing_inner .form .billing_form_wrapper .form_field input{
+    width: 100%;
+    border-radius: 5px;
+    border: 1px solid #e8e8e8;
+    padding: 15px;
+    margin-bottom: 30px;
+    font-family: "Gotham-Book";
+}
+.billing_popup .billing_pop_div .billing_inner .form .billing_form_wrapper .col_3{
+    width: 33.333%;
+    float: left;
+    padding: 0 10px;
+}
+
+.billing_popup .billing_pop_div .billing_inner .form .billing_form_wrapper .form_field label{
+display: block;
+    font-size: 16px;
+    font-family: "Gotham-Book";
+    color: rgb(74, 79, 85);
+    line-height: 1.5;
+    margin-bottom: 12px;
+    font-weight: normal;
+}
+.billing_popup .billing_pop_div .billing_inner .form .billing_form_wrapper .col_3 select{
+    width: 100%;
+    padding: 15px;
+    border-radius: 5px;
+    border: 1px solid #e8e8e8;
+    -webkit-appearance: none;
+    background: transparent;
+    background-image: url(../images/arrow-down-shape.svg);
+    background-repeat: no-repeat;
+    background-position-x: 94%;
+    background-position-y: 23px;
+}
+.billing_pop_div .save_button{
+    width: 100%;
+    max-width: 590px;
+    margin: 0 auto;
+
+}
+.billing_pop_div .save_button .savechanges_btn{
+    text-align: center;
+        padding: 0px 10px;
+}
+
+.billing_pop_div .save_button .savechanges_btn button{
+    width: 100%;
+    background: rgb(244, 178, 51);
+    border: 1px solid;
+    height: 50px;
+    font-size: 14px;
+    font-family: "Gotham-Bold";
+    color: rgb(0, 0, 0);
+    text-transform: uppercase;
+    line-height: 24px;
+    border-radius: 5px;
+    border-color: rgb(244, 178, 51);
+
+}
+.billing_popup .billing_pop_div .billing_inner .form .billing_form_wrapper .pop-full{
+padding: 0 10px;
+}
+/*============= shruti css starts here  10th Feb 2020 =======*/
+.register_form_wrap .breadcrumb {
+    padding: 30px 0;
+    border-bottom: 1px solid #dddddd;
+    width: 100%;
+}
+.register_form_wrap ul#breadcrumbs li {
+    font-size: 18px;
+}
+.register_form_wrap .dd.banner-title {
+    max-width: 870px;
+    margin: 0 auto;
+}
+.register_form_wrap .dd.banner-title h2 {
+    font-size: 24px;
+	font-family: "Gotham-Bold";
+    padding-top: 15px;
+}
+.register_form_wrap .privacy_policy a {
+    border-bottom: 1px solid #000 !important;
+    font-weight: 900;
+    color: #000 !important;
+	font-family: "Gotham-Bold" !important;
+}
+
+/*============= shruti css ends here  10th Feb 2020 =======*/
+
+@media(max-width:1600px) {
+  .full_page_account .page_container {
+    width: 100%;
+    margin: 0 auto;
+    max-width: 1340px;
+  }
+    .full_page_account .page_container .tab-content .info .first_section.personal_info .information_section form .info_right_div {
+    padding: 24px 30px;
+}
+  .full_page_account .page_container .nav-tabs .nav {
+    padding: 20px 10px;
+    font-size: 16px;
+  }
+  /*  order histiry*/
+  .full_page_account .page_container .tab-content .info .third_section .order_headings div {
+    font-size: 14px;
+    line-height: 20px;
+    padding: 20px 20px;
+  }
+  .full_page_account .page_container .tab-content .info .third_section .accordion .panel_headings div {
+    font-size: 14px;
+    line-height: 20px;
+    padding: 20px 20px;
+  }
+  .full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_number .order_heading {
+    font-size: 16px;
+    line-height: 1;
+    padding-bottom: 15px;
+  }
+  .full_page_account .page_container .tab-content .info .third_section .accordion::before {
+    top: -13px;
+  }
+  .full_page_account .page_container .tab-content .info .third_section .active::before {
+    top: -15px;
+  }
+  .full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_number .order_text {
+    font-size: 14px;
+    line-height: 1;
+  }
+  .full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_number {
+    padding: 20px 15px 10px 15px;
+  }
+  .full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_description {
+    overflow: auto;
+    padding: 15px 15px;
+  }
+  .full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_description .description_heading {
+    font-size: 16px;
+    line-height: 20px;
+  }
+  .full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_description .order_buttons .all_btns span a {
+    font-size: 12px;
+  }
+  .full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .subtotal_total {
+    padding: 15px 15px 0px 15px !important;
+  }
+  .full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_description .order_buttons {
+    padding-top: 100px;
+  }
+  /*  change password*/
+  .full_page_account .page_container .tab-content .info .second_section h3 {
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+/**03-03-2020**/
+/*  .full_page_account .page_container .tab-content .info .second_section .change_password_inner .form .changepass_form_wrapper .form_field label {
+    font-size: 10px;
+    margin-bottom: 10px;
+  }*/
+  /**03-03-2020 end**/
+  .full_page_account .page_container .tab-content .info .second_section .change_password_inner .form .changepass_form_wrapper .form_field input {
+    padding: 15px;
+    margin-bottom: 20px;
+    font-size: 14px;
+  }
+  .full_page_account .page_container .tab-content .info .second_section .change_password_inner .form .changepass_form_wrapper .form_field input:last-child {
+    margin-bottom: 30px;
+  }
+  /*  profile */
+  .full_page_account .page_container .tab-content .info .first_section.personal_info h3 {
+    font-size: 20px;
+  }
+  .full_page_account .page_container .tab-content .info .first_section.personal_info .information_section form .info_left_div .info_left_inner .form_field {
+    padding-top: 25px;
+  }
+
+  .full_page_account .page_container .tab-content .info .first_section.personal_info .information_section form .info_left_div .form_field input {
+    margin-top: 15px;
+  }
+  /**03-03-2020**/
+/*  .full_page_account .page_container .tab-content .info .first_section.personal_info .information_section form .info_left_div .form_field label {
+    font-size: 12px;
+    line-height: 1;
+  }*/
+/*  .full_page_account .page_container .tab-content .info .first_section.personal_info .information_section form .info_right_div .form_field label {
+    font-size: 12px;
+    line-height: 1;
+  }*/
+ 
+  .full_page_account .page_container .tab-content .info .first_section.personal_info .information_section form .info_right_div .form_field input {
+    margin-top: 10px;
+    margin-bottom: 22px;
+  }
+    /**03-03-2020 end**/
+  .full_page_account .page_container .tab-content .info .first_section.personal_info .information_section form .info_right_div .form_field span.checkbox_text {
+    font-size: 12px;
+  }
+  .full_page_account .page_container .tab-content .info .billing_delivery_address {
+    padding-top: 70px;
+    padding-bottom: 80px;
+  }
+  .full_page_account .page_container .tab-content .info .billing_delivery_address .billing_left_div h3 {
+    font-size: 20px;
+  }
+  .full_page_account .page_container .tab-content .info .billing_delivery_address .billing_left_div .billing_inner {
+    padding-top: 45px;
+  }
+  .full_page_account .page_container .tab-content .info .billing_delivery_address .billing_left_div .billing_inner .form .billing_form_wrapper .form_field label {
+    font-size: 14px;
+    line-height: 20px;
+    margin-bottom: 10px;
+    font-weight: normal;
+  }
+  .full_page_account .page_container .tab-content .info .billing_delivery_address .billing_left_div .billing_inner .form .billing_form_wrapper .form_field input {
+    margin-bottom: 20px;
+  }
+  /*  deliver*/
+  .full_page_account .page_container .tab-content .info .billing_delivery_address .delivery_right_div h3 {
+    font-size: 20px;
+  }
+  .full_page_account .page_container .tab-content .info .billing_delivery_address .delivery_right_div .diliver_inner {
+    padding-top: 30px;
+  }
+  .full_page_account .page_container .tab-content .info .billing_delivery_address .delivery_right_div .diliver_inner .form .diliver_form_wrapper .form_field .checkbox_text {
+    font-size: 12px;
+    line-height: 1.3;
+    padding-bottom: 25px;
+  }
+  .full_page_account .page_container .tab-content .info .billing_delivery_address .delivery_right_div .diliver_inner .form .diliver_form_wrapper .form_field label {
+    font-size: 14px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+    font-weight: normal;
+  }
+  .full_page_account .page_container .tab-content .info .billing_delivery_address .delivery_right_div .diliver_inner .form .diliver_form_wrapper .form_field input {
+    margin-bottom: 20px;
+  }
+    
+    /* Popup */
+    
+    .billing_popup .billing_pop_div .billing_inner .form .billing_form_wrapper .form_field input {
+    margin-bottom: 20px;
+        padding: 10px;
+}
+    .billing_popup .billing_pop_div {
+    padding: 40px 60px;
+        max-width: 730px;    
+}
+    .billing_popup .billing_pop_div .billing_inner {
+    padding-top: 45px;
+}
+}
+
+/*============= shruti css starts here  10th Feb 2020 =======*/
+
+@media only screen and (max-width:1450px)
+{
+	.register_form_wrap .create_account.container {
+		background-size: 160px;
+	}
+}
+/*============= shruti css Ends here  10th Feb 2020 =======*/
+
+@media(max-width:1366px) {
+  .full_page_account .page_container {
+    width: 100%;
+    margin: 0 auto;
+    max-width: 1140px;
+  }
+  .full_page_account .page_container .tab-content .info {
+    width: 100%;
+    max-width: 1050px;
+    margin: 0 auto;
+  }
+}
+@media(max-width:1200px) {
+  .full_page_account .page_container .nav-tabs .nav {
+  padding: 20px 10px;
+  font-size: 18px;
+  line-height: normal;
+}
+/*  profile */
+  .full_page_account .page_container .tab-content .info .first_section.personal_info .information_section form .info_left_div {
+  padding: 0 10px 0 30px;
+}
+  .full_page_account .page_container .tab-content .info .first_section.personal_info h3 {
+  font-size: 24px;
+}
+  .full_page_account .page_container .tab-content .info .first_section.personal_info .information_section form .info_left_div .form_field label {
+  font-size: 14px;
+  line-height: normal;
+}
+  .full_page_account .page_container .tab-content .info .first_section.personal_info .information_section form .info_left_div .form_field input {
+  margin-top: 15px;
+  font-size: 14px;
+  line-height: normal;
+}
+  .full_page_account .page_container .tab-content .info .first_section.personal_info .information_section form .info_right_div {
+  padding: 16px 30px 40px 10px;
+}
+  .full_page_account .page_container .tab-content .info .first_section.personal_info .information_section form .info_right_div .form_field label {
+  font-size: 14px;
+  line-height: normal;
+}
+  .full_page_account .page_container .tab-content .info .first_section.personal_info .information_section form .info_right_div .form_field input {
+  margin-top: 15px;
+  margin-bottom: 30px;
+  font-size: 14px;
+  line-height: normal;
+}
+  .full_page_account .page_container .tab-content .info .first_section.personal_info .information_section form .info_right_div .form_field span.checkbox_text {
+  font-size: 14px;
+  line-height: 20px;
+}
+  .full_page_account .page_container .tab-content .info .billing_delivery_address {
+  padding-top: 50px;
+  padding-bottom: 80px;
+}
+  .full_page_account .page_container .tab-content .info .billing_delivery_address .billing_left_div {
+  width: 100%;
+}
+  .full_page_account .page_container .tab-content .info .billing_delivery_address .billing_left_div .billing_inner::after {
+  content: '';
+  display: table;
+  clear: both;
+}
+  
+.full_page_account .page_container .tab-content .info .billing_delivery_address .billing_left_div .billing_inner {
+  padding-top: 45px;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 30px;
+}
+  .full_page_account .page_container .tab-content .info .billing_delivery_address .billing_left_div .billing_inner .form .billing_form_wrapper .form_field label {
+  font-size: 16px;
+  line-height: normal;
+  margin-bottom: 10px;
+  font-weight: normal;
+}
+  .full_page_account .page_container .tab-content .info .billing_delivery_address .billing_left_div .billing_inner .form .billing_form_wrapper .form_field input {
+  margin-bottom: 30px;
+  font-size: 16px;
+  line-height: normal;
+  padding: 16px;
+}
+  .full_page_account .page_container .tab-content .info .billing_delivery_address .billing_left_div .billing_inner .form .billing_form_wrapper .col_3 select {
+  font-size: 16px;
+  line-height: normal;
+}
+  
+  .full_page_account .page_container .tab-content .info .billing_delivery_address .billing_left_div h3 {
+  font-size: 24px;
+}
+  .full_page_account .page_container .tab-content .info .billing_delivery_address .billing_left_div .billing_inner .form .tablet_div {
+  width: 50%;
+  float: left;
+  padding: 0 0;
+}
+  .full_page_account .page_container .tab-content .info .billing_delivery_address .delivery_right_div {
+  width: 100%;
+  border-left: 0 solid #e8e8e8;
+  margin-top: 50px;
+}
+  .full_page_account .page_container .tab-content .info .billing_delivery_address .delivery_right_div .diliver_inner .form .tablet_div {
+  width: 50%;
+  float: left;
+  padding: 0 0;
+}
+  .full_page_account .page_container .tab-content .info .billing_delivery_address .delivery_right_div h3 {
+  font-size: 24px;
+}
+  .full_page_account .page_container .tab-content .info .billing_delivery_address .delivery_right_div .diliver_inner .form .diliver_form_wrapper .form_field .checkbox_text {
+  font-size: 14px;
+  line-height: normal;
+  padding-bottom: 30px;
+}
+  .full_page_account .page_container .tab-content .info .billing_delivery_address .delivery_right_div .diliver_inner .form .diliver_form_wrapper .form_field label {
+  font-size: 16px;
+  line-height: normal;
+  margin-bottom: 10px;
+  font-weight: normal;
+}
+  .full_page_account .page_container .tab-content .info .billing_delivery_address .delivery_right_div .diliver_inner .form .diliver_form_wrapper .form_field input {
+  margin-bottom: 30px;
+  font-size: 16px;
+  line-height: normal;
+}
+  .full_page_account .page_container .tab-content .info .billing_delivery_address .delivery_right_div .diliver_inner .form .diliver_form_wrapper .col_3 select {
+
+  font-size: 16px;
+  line-height: normal;
+}
+  .full_page_account .page_container .tab-content .info .billing_delivery_address .delivery_right_div .diliver_inner .form .diliver_form_wrapper .col_3:last-child input {
+  margin: 0;
+  padding: 16px;
+}
+/*  change password */
+  .full_page_account .page_container .tab-content .info .password_change {
+  background-size: 215px;
+}
+  .full_page_account .page_container .tab-content .info .second_section h3 {
+  font-size: 24px;
+  margin-bottom: 30px;
+  line-height: normal;
+}
+  .full_page_account .page_container .tab-content .info .second_section .change_password_inner .form .changepass_form_wrapper .form_field label {
+  font-size: 14px;
+  margin-bottom: 20px;
+  line-height: normal;
+}
+  .full_page_account .page_container .tab-content .info .second_section .change_password_inner .form .changepass_form_wrapper .form_field input {
+  padding: 15px;
+  margin-bottom: 20px;
+  font-size: 14px;
+  line-height: normal;
+}
+  
+  /*  order history*/
+ 
+ .full_page_account .page_container .tab-content .info .third_section .order_headings div {
+  font-size: 16px;
+  line-height: normal;
+  padding: 20px 15px;
+}
+.full_page_account .page_container .tab-content .info .third_section .accordion .panel_headings div {
+  font-size: 16px;
+  line-height: normal;
+  padding: 20px 15px;
+}
+  .full_page_account .page_container .tab-content .info .third_section .panel_headings div.status_pend p {
+    line-height: 20px;
+    font-size: 10px;
+  }
+  .full_page_account .page_container .tab-content .info .third_section .panel_headings div.status_comp p {
+    line-height: 20px;
+    font-size: 10px;
+  }
+  .full_page_account .page_container .tab-content .info .third_section .panel_headings div.status_cancel p {
+    line-height: 20px;
+    font-size: 10px;
+  }
+  /*  inner order history*/
+ .full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_number .order_heading {
+  font-size: 18px;
+  line-height: normal;
+  padding-bottom: 15px;
+}
+ .full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_number .order_text {
+  font-size: 16px;
+  line-height: normal;
+}
+  .full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_description .col_1 {
+  width: 50%;
+  float: left;
+  min-height: 1px;
+}
+  .full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_description .col_2 {
+  width: 18%;
+  float: left;
+  min-height: 1px;
+}
+  .full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_description .col_4 {
+  width: 17%;
+  float: left;
+}
+  .full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_description .col_1 .beername_logo {
+    width: 56px;
+  }
+  .full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_description .col_1 .beername_logo .american_alexender {
+    width: 50px;
+  }
+  .full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_description .description_heading {
+  font-size: 18px ;
+  line-height: normal;
+}
+  .full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_description .discription_vintage p {
+  margin: 0;
+  font-family: "Gotham-Book";
+  font-size: 14px;
+  line-height: 1.5;
+}
+  .full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_description p {
+    margin: 0;
+    font-family: "Gotham-Book";
+    font-size: 16px;
+  line-height: 24px;
+  }
+.full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_description .order_buttons .all_btns span a {
+  font-size: 12px;
+  line-height: normal;
+}
+/*  register */
+  .create_account.container {
+  background-size: 215px;
+}
+  .create_account.container .inner_create_account {
+  width: 100%;
+  max-width: 700px;
+   margin: 0; 
+}
+  /* Popup */
+.billing_popup .billing_pop_div .billing_inner .form .billing_form_wrapper .form_field input {
+    padding: 10px;
+    margin-bottom: 15px;
+}    
+   .billing_popup .billing_pop_div .billing_inner .form .billing_form_wrapper .form_field label {
+    font-size: 14px;
+        margin-bottom: 8px;   
+    }
+    .billing_popup .billing_pop_div {
+    max-width: 700px;
+    padding: 40px 60px;
+}
+    .billing_popup .billing_pop_div .billing_inner .form .billing_form_wrapper .col_3 select {
+    padding: 10px;
+    background-position-y: 18px;
+}
+    .billing_pop_div .save_button .savechanges_btn button {
+    height: 45px;
+}
+    .billing_popup .billing_pop_div .billing_inner {
+    padding-top: 30px;
+}
+    .information_section .info_left_inner .form_field {
+    width: 48.3%;
+    }
+}
+@media(max-width:991px) {
+.create_account.container {
+  background-size: 193px;
+}
+    .full_page_account .page_container .tab-content::before {
+    margin-top: 50px;
+}
+  .create_account.container .inner_create_account {
+  width: 100%;
+  max-width: 520px;
+  margin: 0;
+}
+    .information_section .info_left_inner .form_field {
+    width: 47%;
+}
+    .full_page_account .page_container .nav-tabs .nav {
+    margin: 0px 30px;
+}
+/**05-12-2019**/
+.full_page_account .page_container .tab-content .info .third_section .order_headings .col_1 {
+  width: 17%;
+}
+.full_page_account .page_container .tab-content .info .third_section .order_headings .col_2 {
+  width: 13%;
+}
+.full_page_account .page_container .tab-content .info .third_section .order_headings .col_3 {
+  width: 25%;
+}
+.full_page_account .page_container .tab-content .info .third_section .order_headings .col_4 {
+  width: 43%;
+}
+.full_page_account .page_container .tab-content .info .third_section .panel_headings .col_1 {
+  width: 17%;
+}
+.full_page_account .page_container .tab-content .info .third_section .panel_headings .col_2 {
+  width: 13%;
+}
+.full_page_account .page_container .tab-content .info .third_section .panel_headings .col_4 {
+  width: 43%;
+}
+    
+    /* Popup */
+    
+    .billing_popup .billing_pop_div .billing_inner .form .billing_form_wrapper .form_field input {
+    padding: 8px 10px;
+}
+   .billing_popup .billing_pop_div h3 {
+    font-size: 21px;
+    }
+    .billing_pop_div .save_button .savechanges_btn button {
+    margin-top: 10px;
+}
+    .billing_pop_div .save_button .savechanges_btn button {
+    height: 40px;
+    }
+}
+@media(max-width:767px) {
+  .full_page_account .page_container {
+    max-width: 430px;
+  }
+  .full_page_account .page_container .nav-tabs::after {
+    content: '';
+    display: table;
+    clear: both;
+  }
+    .information_section .info_left_inner .form_field {
+    width: 100%;
+}
+  .full_page_account .page_container .nav-tabs .nav {
+    font-size: 14px;
+    margin: 0;
+    padding: 15px 0px;
+     float: left;
+    width: 33.334%;
+  }
+  .full_page_account .page_container .tab-content .info .personal_info {
+    padding-bottom: 60px;
+  }
+  .full_page_account .page_container .nav-tabs .nav span {
+    display: block;
+    margin-bottom: 5px;
+  }
+  .full_page_account .page_container .nav-tabs .nav span img {
+    vertical-align: middle;
+    margin-right: 0px;
+  }
+  .full_page_account .page_container .nav-tabs .nav.current::after {
+    left: 0;
+  }
+  .full_page_account .page_container .nav-tabs .nav:hover::after {
+    left: 0;
+  }
+  .full_page_account .page_container .tab-content .info .first_section.personal_info .information_section form .info_left_div {
+    width: 100%;
+    float: left;
+    padding: 0 30px;
+    margin-bottom: 30px;
+  }
+  .full_page_account .page_container .tab-content .info .first_section.personal_info h3 {
+    font-size: 24px;
+    line-height: 24px;
+  }
+  .full_page_account .page_container .tab-content .info .first_section.personal_info .information_section form .info_left_div .form_field label {
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .full_page_account .page_container .tab-content .info .first_section.personal_info .information_section form .info_left_div .form_field input {
+    margin-top: 15px;
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .full_page_account .page_container .tab-content .info .first_section.personal_info .information_section form .info_left_div .account-upload-btn-wrapper p {
+    bottom: -38px;
+  }
+  .full_page_account .page_container .tab-content .info .first_section.personal_info .information_section form .info_right_div {
+    width: 100%;
+    float: left;
+    padding: 0px 30px 40px;
+  }
+  .full_page_account .page_container .tab-content .info .first_section.personal_info .information_section form .info_right_div .form_field label {
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .full_page_account .page_container .tab-content .info .first_section.personal_info .information_section form .info_right_div .form_field input {
+    margin-top: 15px;
+    margin-bottom: 30px;
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .full_page_account .page_container .tab-content .info .first_section.personal_info .information_section form .info_right_div .form_field span.checkbox_text {
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .full_page_account .page_container .tab-content .info .first_section.personal_info .information_section {
+    padding-bottom: 50px;
+  }
+  .full_page_account .page_container .tab-content .info .billing_delivery_address {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .full_page_account .page_container .tab-content .info .billing_delivery_address .billing_left_div {
+    width: 100%;
+    float: left;
+    padding: 0 30px;
+    margin-bottom: 40px;
+  }
+  .full_page_account .page_container .tab-content .info .billing_delivery_address .billing_left_div h3 {
+    font-size: 24px;
+    line-height: 24px;
+  }
+  .full_page_account .page_container .tab-content .info .billing_delivery_address .billing_left_div .billing_inner::after {
+    content: '';
+    display: table;
+    clear: both;
+  }
+  .full_page_account .page_container .tab-content .info .billing_delivery_address .billing_left_div .billing_inner {
+    padding-top: 45px;
+    border-bottom: 1px solid #e8e8e8;
+    padding-bottom: 20px;
+  }
+  .full_page_account .page_container .tab-content .info .billing_delivery_address .billing_left_div .billing_inner .form .billing_form_wrapper .col_2 {
+    width: 100%;
+    float: left;
+    padding: 0 10px;
+  }
+  .full_page_account .page_container .tab-content .info .billing_delivery_address .billing_left_div .billing_inner .form .billing_form_wrapper .col_3 {
+    width: 100%;
+    float: left;
+    padding: 0 10px;
+  }
+  .full_page_account .page_container .tab-content .info .billing_delivery_address .billing_left_div .billing_inner .form .billing_form_wrapper .col_3 select {
+    width: 100%;
+    padding: 15px;
+    border-radius: 5px;
+    border: 1px solid #e8e8e8;
+    -webkit-appearance: none;
+    margin-bottom: 30px;
+  }
+  .full_page_account .page_container .tab-content .info .billing_delivery_address .billing_left_div .billing_inner .form .billing_form_wrapper .form_field input {
+    margin-bottom: 30px;
+    font-size: 16px;
+    line-height: 24px;
+  }
+	.full_page_account .page_container .tab-content .info .billing_delivery_address .billing_left_div .billing_inner .form .tablet_div {
+	width: 100%;
+	float: left;
+	padding: 0 0;
+}
+  .full_page_account .page_container .tab-content .info .billing_delivery_address .delivery_right_div {
+    width: 100%;
+    float: left;
+    padding: 0 30px;
+    border-left: 0px solid #e8e8e8;
+	  margin: 0;
+  }
+  .full_page_account .page_container .tab-content .info .billing_delivery_address .delivery_right_div h3 {
+    font-size: 24px;
+    line-height: 24px;
+  }
+  .full_page_account .page_container .tab-content .info .billing_delivery_address .delivery_right_div .diliver_inner .form .diliver_form_wrapper .form_field .checkbox_text {
+    font-size: 14px;
+
+    line-height: 20px;
+    padding-bottom: 30px;
+  }
+  .full_page_account .page_container .tab-content .info .billing_delivery_address .delivery_right_div .diliver_inner .form .diliver_form_wrapper .col_2 {
+    width: 100%;
+    float: left;
+    padding: 0 10px;
+  }
+	.full_page_account .page_container .tab-content .info .billing_delivery_address .delivery_right_div .diliver_inner .form .tablet_div {
+	width: 100%;
+	float: left;
+	padding: 0 0;
+}
+  .full_page_account .page_container .tab-content .info .billing_delivery_address .delivery_right_div .diliver_inner .form .diliver_form_wrapper .form_field input {
+    margin-bottom: 30px;
+    font-size: 16px;
+    line-height: 20px;
+  }
+  .full_page_account .page_container .tab-content .info .billing_delivery_address .delivery_right_div .diliver_inner .form .diliver_form_wrapper .col_3 {
+    width: 100%;
+    float: left;
+    padding: 0 10px;
+  }
+  .full_page_account .page_container .tab-content .info .billing_delivery_address .delivery_right_div .diliver_inner .form .diliver_form_wrapper .col_3 select {
+    margin-bottom: 30px;
+  }
+  /*  password */
+  .full_page_account .page_container .tab-content .info .password_change {
+    background-position: center bottom;
+  }
+  .full_page_account .page_container .tab-content .info .second_section.change_password {
+    padding-bottom: 294px;
+  }
+  .full_page_account .page_container .tab-content .info .second_section h3 {
+    font-size: 24px;
+    margin-bottom: 30px;
+    line-height: 24px;
+  }
+  .full_page_account .page_container .tab-content .info .second_section .change_password_inner .form .changepass_form_wrapper .form_field label {
+    font-size: 14px;
+    margin-bottom: 20px;
+    line-height: 20px;
+    font-family: 'Gotham-Book';
+  }
+  .full_page_account .page_container .tab-content .info .second_section .change_password_inner .form .changepass_form_wrapper .form_field label:last-child {
+    color: #000000
+  }
+  .full_page_account .page_container .tab-content .info .second_section .change_password_inner .form .changepass_form_wrapper .form_field input {
+    margin-bottom: 30px;
+    font-size: 14px;
+    line-height: 20px;
+  }
+  /*  order history */
+  .full_page_account .page_container .tab-content .info .third_section .order_headings {
+    display: none;
+  }
+  .full_page_account .page_container .tab-content .info .third_section .accordion::after {
+    content: '';
+    display: table;
+    clear: both;
+  }
+  .full_page_account .page_container .tab-content .info .third_section .active::before {
+    top: 0;
+  }
+  .full_page_account .page_container .tab-content .info .third_section .accordion:before {
+    top: 0;
+  }
+  .full_page_account .page_container .tab-content .info .third_section .active {
+    color: #fff;
+  }
+  .full_page_account .page_container .tab-content .info .third_section .accordion {
+    padding: 20px 25px;
+  }
+  .full_page_account .page_container .tab-content .info .third_section .accordion .order_headings_mobile {
+    display: block;
+    width: 32%;
+    float: left;
+  }
+  .full_page_account .page_container .tab-content .info .third_section .accordion .order_headings_mobile div {
+    position: relative;
+    padding: 10px 0;
+    font-size: 13px;
+    line-height: normal;
+    font-family: "Gotham-Book";
+	 text-transform: uppercase; 
+  }
+  .full_page_account .page_container .tab-content .info .third_section .accordion .order_headings_mobile div::after {
+    content: ':';
+    position: absolute;
+    right: 0;
+  }
+  .full_page_account .page_container .tab-content .info .third_section .accordion .panel_headings {
+    display: block;
+    width: 68%;
+    float: left;
+  }
+  .full_page_account .page_container .tab-content .info .third_section .accordion .panel_headings div {
+    font-size: 10px;
+    line-height: 20px;
+    padding: 0;
+  }
+  .full_page_account .page_container .tab-content .info .third_section .accordion .panel_headings div {
+    padding: 8px 0;
+    font-size: 16px;
+    line-height: normal;
+    font-family: 'Gotham-Book';
+    font-weight: normal;
+    padding-left: 30px;
+  }
+  .full_page_account .page_container .tab-content .info .third_section .panel_headings .col_1 {
+    width: 100%;
+    color: #f4b233;
+  }
+  .full_page_account .page_container .tab-content .info .third_section .panel_headings .col_2 {
+    width: 100%;
+  }
+  .full_page_account .page_container .tab-content .info .third_section .panel_headings .col_3 {
+    width: 100%;
+  }
+  .full_page_account .page_container .tab-content .info .third_section .panel_headings .col_4 {
+    width: 100%;
+  }
+  /*  inner part */
+  .full_page_account .page_container .tab-content .info .third_section .panel {
+  /* padding: 0 20px; */
+  display: none;
+  background-color: white;
+  overflow: hidden;
+  margin-bottom: 50px;
+  box-shadow: none;
+  border: none;
+}
+  .full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_number {
+    padding: 40px 25px 10px 25px;
+  }
+  .full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_number .order_heading {
+    font-size: 24px;
+    line-height: 24px;
+    padding-bottom: 15px;
+  }
+  .full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_number .order_text {
+    font-size: 16px;
+    line-height: 16px;
+  }
+  .full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_description {
+    overflow: auto;
+    padding: 0px 25px;
+  }
+  .full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_description .col_1 {
+    width: 100%;
+    float: left;
+    min-height: 1px;
+    border-bottom: 1px dashed #d6d6d6;
+  }
+  .full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_description .col_1:last-child {
+    border-bottom: 0px dashed #d6d6d6;
+  }
+  .full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_description .col_1 .beername_logo {
+    width: 58px;
+  }
+  .full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_description .col_1 .beername_logo .american_alexender {
+    width: 64px;
+  }
+  .full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_description .col_1 .discription_vintage {
+    display: inline-block;
+    width: calc(100% - 90px);
+    vertical-align: top;
+    padding-left: 28px;
+  }
+  .full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_description .discription_vintage p:first-child {
+    font-family: "Gotham-Medium";
+    font-size: 18px;
+    line-height: normal;
+    margin-bottom: 5px;
+  }
+  .full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_description .discription_vintage .cutomer_name {
+    font-size: 14px;
+    line-height: normal;
+  }
+  .full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_description .discription_vintage .bottle_can {
+    padding-top: 5px;
+    font-size: 14px;
+    line-height: normal;
+  }
+  .full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_description .description_heading {
+    font-size: 18px;
+    line-height: normal;
+  }
+  .full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_description p {
+    margin: 0;
+    font-family: "Gotham-Book";
+    font-size: 16px;
+    line-height: normal;
+    margin-bottom: 15px;
+  }
+  .full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_description .padd_mob {
+    padding: 20px 0;
+  }
+  .full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_description .col_2 {
+    width: 23%;
+    float: left;
+    min-height: 1px;
+  }
+  .full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_description .col_3 {
+    width: 44%;
+    float: left;
+  }
+  .full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_description .col_4 {
+    width: 33%;
+    float: left;
+  }
+  .full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_description .order_buttons {
+    padding-top: 100px;
+    display: none;
+  }
+  .full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_description .col_3 p {
+    padding-left: 50px;
+  }
+  .full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_description .col_4 p {
+    padding-left: 27px;
+  }
+  .full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .subtotal_total {
+    background: #f4f4f4;
+    width: 100%;
+    max-width: 380px;
+    margin: 0 auto;
+    border: 1px solid #d6d6d6;
+  }
+  .full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .subtotal_total .col_1 {
+    display: none;
+    float: left;
+    min-height: 1px;
+  }
+  .full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .subtotal_total .col_2 {
+    display: none;
+  }
+  .full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_second {
+    margin-left: 25px;
+    margin-right: 25px;
+    padding: 0;
+  }
+  .full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .subtotal_total .col_3 {
+    width: 50%;
+  }
+  .full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .subtotal_total .col_4 {
+    width: 50%;
+    text-align: right;
+  }
+  .full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .subtotal_total .col_3 p {
+    padding: 0;
+  }
+  .full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .subtotal_total {
+    margin-top: 38px;
+  }
+  
+/* register page  */
+  .create_account.container .inner_create_account {
+  width: 100%;
+  max-width: 435px;
+  margin: 0 auto;
+}
+.create_account.container .inner_create_account .form .form_column .col_2 {
+  width: 100%;
+  float: left;
+        padding: 0 !important;
+}
+.create_account.container {
+  padding-bottom: 274px;
+  background-position: bottom center;
+  background-size: 192px;
+  
+}
+    
+    /* Popup */
+    
+  .billing_popup .billing_pop_div {
+    padding: 20px 20px;
+}
+}
+
+/*============= shruti css starts here  10th Feb 2020 =======*/
+
+@media only screen and (max-width: 600px)
+{
+	.register_form_wrap .container {
+		width: 100% !important;
+}
+	
+	.register_form_wrap .create_account.container {
+		padding-left: 0;
+		padding-right: 0;
+		padding-bottom: 40px;
+		background-image: none;
+	}
+	.register_form_wrap .dd.banner-title h2
+	{
+  	  font-size: 20px;
+	}
+	.full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_description .discription_vintage p:first-child {
+    
+    font-size: 14px;
+	}
+}
+/*============= shruti css Ends here  10th Feb 2020 =======*/
+
+@media(max-width:414px){
+  
+  .full_page_account .page_container .nav-tabs .nav {
+  font-size: 12px;
+  margin-right: 0;
+  line-height: normal;
+  font-family: "Gotham-Medium";
+  float: left;
+  width: 33.334%;
+  padding-right: 0;
+}
+  .full_page_account .page_container .tab-content .info .first_section.personal_info h3 {
+  font-size: 20px;
+  line-height: 20px;
+}
+  .full_page_account .page_container .tab-content .info .first_section.personal_info .information_section {
+  padding-top: 20px;
+  padding-bottom: 50px;
+  
+}
+  .full_page_account .page_container .tab-content .info .first_section.personal_info .information_section form .info_left_div .info_left_inner .form_field {
+  padding-top: 20px;
+}
+  .full_page_account .page_container .tab-content .info .first_section.personal_info .information_section form .info_left_div {
+  margin-bottom: 20px;
+}
+  .full_page_account .page_container .tab-content .info .first_section.personal_info .information_section form .info_left_div .form_field label {
+  font-size: 12px;
+  line-height: 20px;
+}
+.full_page_account .page_container .tab-content .info .first_section.personal_info .information_section form .info_left_div .form_field input {
+  margin-top: 10px;
+  font-size: 12px;
+  line-height: normal;
+}
+  .full_page_account .page_container .tab-content .info .first_section.personal_info .information_section form .info_right_div .form_field label {
+  font-size: 12px;
+  line-height: normal;
+}
+  .full_page_account .page_container .tab-content .info .first_section.personal_info .information_section form .info_right_div .form_field input {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  font-size: 12px;
+  line-height: normal;
+}
+  .full_page_account .page_container .tab-content .info .first_section.personal_info .information_section form .info_right_div .form_field span.checkbox_text {
+  font-size: 12px;
+  line-height: normal;
+}
+  .full_page_account .page_container .tab-content .info .billing_delivery_address .billing_left_div h3 {
+  font-size: 20px;
+  line-height: normal;
+}
+  .full_page_account .page_container .tab-content .info .billing_delivery_address {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+  .full_page_account .page_container .tab-content .info .billing_delivery_address .billing_left_div .billing_inner {
+  padding-top: 35px;
+  border-bottom: 1px solid #e8e8e8;
+  padding-bottom: 20px;
+}
+  .full_page_account .page_container .tab-content .info .billing_delivery_address .billing_left_div .billing_inner .form .billing_form_wrapper .form_field label {
+  font-size: 12px;
+  line-height: normal;
+  margin-bottom: 10px;
+  font-weight: normal;
+}
+  .full_page_account .page_container .tab-content .info .billing_delivery_address .billing_left_div .billing_inner .form .billing_form_wrapper .form_field input {
+  margin-bottom: 20px;
+  font-size: 14px;
+  line-height: normal;
+}
+  .full_page_account .page_container .tab-content .info .billing_delivery_address .billing_left_div .billing_inner .form .billing_form_wrapper .col_3 select {
+  width: 100%;
+  padding: 15px;
+  border-radius: 5px;
+  border: 1px solid #e8e8e8;
+  -webkit-appearance: none;
+  margin-bottom: 20px;
+}
+  .full_page_account .page_container .tab-content .info .billing_delivery_address .delivery_right_div h3 {
+  font-size: 20px;
+  line-height: normal;
+}
+  .full_page_account .page_container .tab-content .info .billing_delivery_address .delivery_right_div .diliver_inner {
+  padding-top: 20px;
+}
+  .full_page_account .page_container .tab-content .info .billing_delivery_address .delivery_right_div .diliver_inner .form .diliver_form_wrapper .form_field .checkbox_text {
+  font-size: 12px;
+  line-height: normal;
+  padding-bottom: 20px;
+}
+  .full_page_account .page_container .tab-content .info .billing_delivery_address .delivery_right_div .diliver_inner .form .diliver_form_wrapper .form_field label {
+  font-size: 12px;
+  line-height: normal;
+  margin-bottom: 10px;
+  font-weight: normal;
+}
+  .full_page_account .page_container .tab-content .info .billing_delivery_address .delivery_right_div .diliver_inner .form .diliver_form_wrapper .form_field input {
+  margin-bottom: 20px;
+  font-size: 14px;
+  line-height: normal;
+}
+  .full_page_account .page_container .tab-content .info .billing_delivery_address .delivery_right_div .diliver_inner .form .diliver_form_wrapper .col_3 select {
+  margin-bottom: 20px;
+}
+  
+/*  change password */
+  .full_page_account .page_container .tab-content .info .second_section h3 {
+  font-size: 20px;
+  margin-bottom: 20px;
+  line-height: normal;
+}
+  .full_page_account .page_container .tab-content .info .second_section .change_password_inner .form .changepass_form_wrapper .form_field label {
+  font-size: 12px;
+  margin-bottom: 15px;
+  line-height: normal;
+  font-family: 'Gotham-Book';
+}
+  .full_page_account .page_container .tab-content .info .second_section .change_password_inner .form .changepass_form_wrapper .form_field input:last-child {
+  margin-bottom: 20px;
+}
+  .full_page_account .page_container .tab-content .info .second_section .change_password_inner .form .changepass_form_wrapper .form_field input {
+  margin-bottom: 30px;
+  font-size: 14px;
+  line-height: normal;
+}
+  .full_page_account .page_container .tab-content .info .password_change {
+  background-size: 60%;
+}
+  .full_page_account .page_container .tab-content .info .second_section.change_password {
+  padding-bottom: 220px;
+}
+/*  order history */
+  
+  .full_page_account .page_container .tab-content .info .third_section .accordion {
+  padding: 10px 15px;
+}
+  .full_page_account .page_container .tab-content .info .third_section .accordion .order_headings_mobile div {
+  position: relative;
+  padding: 8px 0;
+  font-size: 12px;
+  line-height: normal;
+  font-family: "Gotham-Book";
+}
+  .full_page_account .page_container .tab-content .info .third_section .accordion .panel_headings div {
+  padding: 7px 0;
+  font-size: 14px;
+  line-height: normal;
+  font-family: 'Gotham-Book';
+  font-weight: normal;
+  padding-left: 20px;
+}
+  .full_page_account .page_container .tab-content .info .third_section .accordion::before {
+  top: -20px;
+  right: -20px;
+}
+/*  inner part */
+  .full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_number {
+  padding: 30px 15px 5px 15px;
+}
+  .full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_number .order_heading {
+  font-size: 20px;
+  line-height: normal;
+  padding-bottom: 10px;
+}
+  .full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_number .order_text {
+  font-size: 12px;
+  line-height: normal;
+}
+  
+  .full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_description .col_1 .beername_logo {
+  width: 40px;
+}
+  .full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_description .col_1 .beername_logo .american_alexender {
+  width: 50px;
+}
+  .full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_description .col_1 .discription_vintage {
+  padding-left: 25px;
+}
+  .full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_description .discription_vintage p:first-child {
+  font-size: 14px;
+  
+}
+  .full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_description .discription_vintage .cutomer_name {
+  font-size: 12px;
+  line-height: normal;
+}
+  .full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_description .discription_vintage .bottle_can {
+  padding-top: 5px;
+  font-size: 12px;
+  line-height: normal;
+}
+  .full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_description .description_heading {
+  font-size: 14px !important;
+  line-height: normal;
+}
+  .full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_description .col_3 p {
+  padding-left: 10px;
+}
+  .full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_description .col_4 p {
+  padding-left: 10px;
+}
+  .full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .order_description p {
+  margin: 0;
+  font-family: "Gotham-Book";
+  font-size: 12px;
+  line-height: normal;
+  margin-bottom: 10px;
+}
+  .full_page_account .page_container .tab-content .info .third_section .panel .inner_panel .subtotal_total {
+  max-width: 240px;
+  
+}
+    .billing_popup .billing_pop_div .billing_inner .form .billing_form_wrapper .form_field label {
+    display: block;
+    font-size: 12px;
+    }
+    .billing_popup .billing_pop_div {
+    padding: 15px 5px;
+}
+}
+@media print{
+    .order_description .col_1 {
+    width: 55%;
+    float: left;
+    min-height: 1px;
+    margin-bottom: 10px;    
+}
+    .order_description .col_2 {
+    width: 21%;
+    float: left;
+    min-height: 1px;
+         margin-bottom: 10px; 
+}
+    .order_description .col_3 {
+    width: 15%;
+    float: left;
+         margin-bottom: 10px; 
+}
+    .order_description .col_4 {
+    width: 9%;
+    float: left;
+         margin-bottom: 10px; 
+}
+     .order_buttons {
+    display: none;
+}
+    .order_description .order_buttons .all_btns span a {
+    display: none;
+}
+}

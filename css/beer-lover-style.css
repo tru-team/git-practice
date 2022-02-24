@@ -1,0 +1,2101 @@
+    /* beer-lover-style */
+    /* slider css*/
+
+    .grid-block-wrap .grid-btn {
+        margin-top: 0px;
+    }
+
+    .grid-block-wrap .grid-content .grid-title {
+        margin: 0px;
+    }
+
+    .grid-block-wrap .grid-title h2 {
+        margin-top: 0px;
+    }
+
+/**20-02-2020**/
+.beer-lover-main-container {
+    max-width: 1920px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: -6px;
+}
+.beer-lover-bg-gray {
+    background-color: #f4f4f4;
+    top: -6px;
+    position: relative;
+}
+/**20-02-2020 end**/
+    .beer-lover-page {
+        margin-bottom: 50px;
+    }
+
+    .beer-lover-slider .slider_box_wrap.left-title .slider_text .slider_text_tbl .slider_text_cel {
+        padding: 0px;
+        padding-top: 0px;
+        padding-left: 30px;
+        padding-right: 30px;
+        text-align: left;
+    }
+
+    .beer-lover-slider .slider_box_wrap.right-title .slider_text .slider_text_tbl .slider_text_cel {
+        padding: 0px;
+        padding-right: 30px;
+        padding-left: 30px;
+        text-align: right;
+    }
+
+    .beer-lover-call-slider .slider_box_wrap.left-title .slider_text .slider_text_tbl .slider_text_cel {
+        padding: 0px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .beer-lover-call-slider .slider_box_wrap.left-title .slider_text .slider_text_tbl .slider_text_cel .sub-title {
+        padding: 0px;
+    }
+
+   
+.beer-lover-slider .slider_box_wrap .slider_text .slider_text_tbl .slider_text_cel h1,
+.page-ordering-online .page-online-ordering-banner .online-ordering-faq .container  h1.ordering-online-inner-heading,
+ .beer-lover-slider .slider_box_wrap .slider_text .slider_text_tbl .slider_text_cel h2 {
+        font-size: 48px;
+        font-family: "Leviathan-HTF-Black";
+        line-height: 60px;
+    }
+
+    .beer-lover-slider .slider_box_wrap .slider_text .slider_text_tbl .slider_text_cel h1 span,
+     .beer-lover-slider .slider_box_wrap .slider_text .slider_text_tbl .slider_text_cel h2 span {
+        max-width: 550px;
+        display: inline-block;
+    }
+
+    .beer-lover-call-slider .slider_box_wrap.right-title .slider_text .slider_text_tbl .slider_text_cel {
+        text-align: right;
+        padding: 13px 0px 13px 0px;
+    }
+
+    .beer-lover-call-slider .slider_box_wrap.right-title .slider_text .slider_text_tbl .slider_text_cel .sub-title {
+        padding: 0px;
+    }
+
+    .beer-lover-slider .sub-title {
+        padding-top: 35px;
+        padding-bottom: 35px;
+        margin: 0px;
+    }
+
+    .beer-lover-slider .slider_box_wrap .slider_text .slider_text_tbl .slider_text_cel .site_default_btn {
+        font-family: "Gotham-Bold";
+        color: #000;
+        text-transform: uppercase;
+        font-size: 14px;
+        background: #f4b233;
+        border-radius: 5px;
+        -webkit-border-radius: 5px;
+        padding: 14px 30px;
+    }
+    /* .parallax-slider .slider_box_wrap {
+        background-attachment: fixed;
+        background-position: center 248.87px !important;
+    } */
+
+    .slick-dots li button {
+        width: 12px;
+        height: 12px;
+        background: #000;
+        border: none;
+        border-radius: 50%;
+        -webkit-border-radius: 50%;
+        display: block;
+        margin: 30px 2px;
+    }
+
+    .slick-dots li.slick-active button {
+        background: #f4b233;
+    }
+    /*end slider css*/
+    /* breadcrumb css*/
+
+    .beer-lover-bg-gray {
+        background-color: #f4f4f4;
+    }
+
+    .breadcrumb-sec .breadcrumb {
+        padding-top: 25px;
+        padding-bottom: 25px;
+        border-bottom: 1px solid #d6d6d6;
+        display: block;
+    }
+    /* end brecrumb css*/
+    /* beer grid list css*/
+
+    .grid-block-slider {
+        padding: 0px 80px;
+    }
+
+    .beer-grid-list .grid-block-wrap .grid-content {
+        background-color: #fff;
+        border-top-color: transparent;
+        padding: 20px 20px;
+        /* float: left; */
+    }
+
+    .beer-grid-list .slick-arrow.slick-prev,
+    .beer-party-planning-list .slick-arrow.slick-prev {
+        background: url(../images/prev-dark.svg);
+        background-repeat: no-repeat;
+    }
+
+    .beer-grid-list .beer-grid-link {
+        color: #000;
+    }
+
+    .beer-grid-list .beer-grid-link:after {
+        content: '';
+        display: none;
+    }
+    /* .beer-grid-list a:after {
+        content: url(../images/arrow-orange.svg);
+        position: relative;
+        right: -3px;
+        top: 2px;
+    } */
+
+    .beer-party-planning-list .grid-content {
+        border-top-color: transparent;
+    }
+
+    .beer-grid-list .slick-arrow.slick-next,
+    .beer-party-planning-list .slick-arrow.slick-next {
+        background: url(../images/next-dark.svg);
+        background-repeat: no-repeat;
+    }
+
+    .beer-grid-list .grid-block-title h3 {
+        text-align: center;
+        font-family: "Leviathan-HTF-Black";
+        font-size: 30px;
+        line-height: 24px;
+        margin-top: 60px;
+        margin-bottom: 45px;
+    }
+
+    .beer-grid-list .grid-block-wrap .grid-btn {
+        text-align: left;
+    }
+
+    .beer-grid-list .grid-block-wrap .grid-image {
+        position: relative;
+    }
+
+    .beer-grid-list .grid-block-wrap .grid-tag-fav {
+        position: absolute;
+        width: calc(100% - 20px);
+        top: 7px;
+        left: 7px;
+        right: 10px;
+    }
+
+    .beer-grid-list .grid-block-wrap .grid-tag {
+        background: #fff;
+        font-family: "Gotham-Bold";
+        padding: 5px 8px;
+        font-size: 11px;
+        border-radius: 5px;
+        text-transform: uppercase;
+        line-height: 18px;
+    }
+
+    .beer-grid-list .grid-block-wrap .grid-fav {
+        position: absolute;
+        right: 0;
+    }
+
+    .beer-grid-list .grid-block-wrap,
+    .beer-party-planning-list .grid-block-wrap {
+        margin-bottom: 35px;
+    }
+
+    .beer-grid-list .grid-block-wrap .grid-content .grid-title {
+        margin-bottom: 15px;
+    }
+
+    .beer-grid-list .grid-block-wrap .grid-content .grid-des {
+        margin-bottom: 15px;
+    }
+
+    .beer-grid-list .grid-block-wrap .grid-btn {
+        margin-top: 0px;
+    }
+
+    .beer-grid-list .grid-block-wrap .grid-title h2 {
+        font-size: 18px;
+        color: #000;
+        font-family: "Gotham-Bold";
+        letter-spacing: 0;
+        line-height: 1.4;
+        margin: 0;
+    }
+
+    .beer-grid-list .grid-block-wrap {
+        margin-bottom: 30px;
+    }
+
+    .beer-grid-list .grid-block-wrap p {
+        margin: 0px;
+        line-height: 1.4;
+        font-size: 14px;
+        color: #4a4f55;
+    }
+    /*end beer grid list css*/
+    /*beer-food-pairing-list*/
+
+    .beer-food-pairing-list {
+        margin-bottom: 60px;
+    }
+
+    .beer-food-pairing-list .grid-block-title h3 {
+        text-align: center;
+        font-family: "Leviathan-HTF-Black";
+        font-size: 30px;
+        line-height: 24px;
+        margin-top: 60px;
+        margin-bottom: 45px;
+    }
+
+    .beer-food-pairing-list a {
+        color: #000;
+    }
+    /* .grid-block-wrap .grid-btn {
+        margin-top: 10px;
+    } */
+
+    .beer-tip-trick-list,
+    .beer-occasions-list {
+        padding-bottom: 60px;
+    }
+
+    .beer-food-pairing-list .more-btn,
+    .beer-grid-list .more-btn,
+    .beer-tip-trick-list .more-btn,
+    .beer-party-planning-list .more-btn,
+    .beer-occasions-list .more-btn {
+        font-size: 11px;
+        font-family: "Gotham-Bold";
+        color: #000;
+        text-transform: uppercase;
+        border: 0px;
+        background: transparent;
+        padding-left: 0px;
+    }
+
+    .beer-food-pairing-list .more-btn:after,
+    .beer-grid-list .more-btn:after,
+    .beer-tip-trick-list .more-btn:after,
+    .beer-party-planning-list .more-btn:after,
+    .beer-occasions-list .more-btn:after {
+        content: url(../images/arrow-orange.svg);
+        position: relative;
+        right: -3px;
+        top: 2px;
+    }
+
+    .beer-food-pairing-list .grid-content {
+        padding: 20px 20px;
+        border-top-color: #fff;
+    }
+
+    .beer-food-pairing-list .grid-content h2 {
+        font-size: 18px;
+        color: #000;
+        font-family: "Gotham-Bold";
+        letter-spacing: 0;
+        line-height: 1.4;
+        margin: 0;
+    }
+
+    .beer-food-pairing-list .grid-content {
+        margin-bottom: 15px;
+    }
+
+    .beer-food-pairing-list .grid-content p {
+        margin: 0px;
+        line-height: 1.4;
+        font-size: 14px;
+        color: #4a4f55;
+    }
+
+    .beer-food-pairing-list .grid-block-wrap .grid-tag-fav {
+        position: absolute;
+        width: calc(100% - 40px);
+        top: 7px;
+        left: 13px;
+        right: 20px;
+    }
+
+    .beer-food-pairing-list .grid-block-wrap .grid-tag {
+        background: #fff;
+        font-family: "Gotham-Bold";
+        padding: 5px 8px;
+        font-size: 11px;
+        border-radius: 5px;
+        text-transform: uppercase;
+        line-height: 18px;
+    }
+
+    .beer-food-pairing-list .grid-block-wrap .grid-fav {
+        position: absolute;
+        right: 0;
+    }
+
+    .beer-food-pairing-list .grid-see-all {
+        text-align: center;
+    }
+
+    .beer-food-pairing-list .grid-see-all a {
+        font-family: "Gotham-Bold";
+        color: #000;
+        text-transform: uppercase;
+        font-size: 14px;
+        background: #f4b233;
+        border-radius: 5px;
+        -webkit-border-radius: 5px;
+        padding: 14px 30px;
+        margin-top: 30px;
+        display: inline-block;
+        width: auto;
+    }
+
+    .beer-food-pairing-list .grid-block-wrap .grid-btn {
+        text-align: left;
+    }
+
+    .beer-food-pairing-list .grid-block-wrap .grid-content .grid-title {
+        margin-bottom: 15px;
+    }
+
+    .beer-food-pairing-list .grid-block-wrap .grid-content .grid-des p {
+        margin: 0px;
+    }
+
+    .beer-food-pairing-list .grid-block-wrap .grid-content .grid-des {
+        margin-bottom: 15px;
+    }
+    /*end beer-food-pairing-list*/
+    /*beer-lover-call-slider css*/
+
+    .beer-lover-call-slider .slider_box_wrap.right-title .slider_text {
+        width: 50%;
+        left: auto;
+        padding-left: 0px;
+        padding-right: 10px;
+    }
+
+    .beer-lover-call-slider .slider_box_wrap .slider_text .slider_text_tbl .slider_text_cel h2 {
+        margin: 0;
+        color: #ffffff;
+        font-family: "Leviathan-HTF-Black";
+        font-size: 36px;
+    }
+
+    .beer-lover-call-slider .sub-title {
+        color: #ffffff;
+        font-family: 'Gotham-Book';
+        font-size: 18px;
+        line-height: 24px;
+        margin-top: 35px;
+        margin-bottom: 20px;
+        padding: 0px 15%;
+    }
+
+    .beer-lover-call-slider .slider_box_wrap .slider_text .slider_text_tbl .slider_text_cel .site_default_btn {
+        font-family: "Gotham-Bold";
+        color: #000;
+        text-transform: uppercase;
+        font-size: 14px;
+        background: #f4b233;
+        border-radius: 5px;
+        -webkit-border-radius: 5px;
+        padding: 14px 30px;
+        margin-top: 40px;
+        display: inline-block;
+    }
+    /*end beer-lover-call-slider css*/
+    /*beer lover receipe  css*/
+
+    .beer-lover-recipe-list {
+        margin-bottom: 60px;
+    }
+
+/**24-02-2020**/
+    .beer-lover-recipe-list h3 {
+        text-align: center;
+        font-family: "Leviathan-HTF-Black";
+        font-size: 30px;
+        line-height: 24px;
+        margin-top:0px;
+        margin-bottom: 45px;
+    }
+/**24-02-2020 end**/
+    .beer-lover-recipe-list .beer-lover-recipe-list a {
+        color: #000;
+    }
+
+    .beer-lover-recipe-list .recipe-cook img {
+        width: 20px;
+        display: inline-block;
+        margin-right: 14px;
+    }
+
+    .beer-lover-recipe-list .recipe-serves img {
+        width: 29px;
+        display: inline-block;
+        margin-right: 14px;
+    }
+
+    .beer-lover-recipe-list .grid-content {
+        padding: 0px;
+        border-top-color: transparent;
+    }
+
+    .beer-lover-recipe-list .grid-content-inner {
+        padding: 15px 20px;
+        border-bottom: 1px solid #d6d6d6;
+    }
+
+    .beer-lover-recipe-list .grid-title h2 {
+        font-size: 18px;
+        color: #000;
+        font-family: "Gotham-Bold";
+        letter-spacing: 0;
+        line-height: 1.4;
+        margin: 0;
+    }
+
+    .beer-lover-recipe-list .grid-image {
+        position: relative;
+    }
+
+    .beer-lover-recipe-list .grid-tag-fav {
+        position: absolute;
+        top: 6px;
+        left: 5px;
+        width: 100%;
+    }
+
+    .beer-lover-recipe-list .grid-tag {
+        background: #fff;
+        font-family: "Gotham-Bold";
+        padding: 5px 8px;
+        font-size: 11px;
+        border-radius: 5px;
+        text-transform: uppercase;
+        line-height: 18px;
+        color: #000;
+    }
+
+    .beer-lover-recipe-list .recipe-cook {
+        width: 49%;
+        border-right: 1px solid #d6d6d6;
+        box-sizing: border-box;
+        text-align: center;
+        color: #000;
+    }
+
+    .beer-lover-recipe-list .recipe-serves {
+        width: 49%;
+       /* display: inline-block;
+        padding: 20px 0px; */
+        box-sizing: border-box;
+        text-align: center;
+        color: #000;
+    }
+
+    .beer-lover-recipe-list .recipe-cook strong {
+        margin-right: 15px;
+        font-family: "Gotham-Bold";
+        font-size: 14px;
+    }
+
+    .beer-lover-recipe-list .recipe-serves strong {
+        margin-right: 15px;
+        font-family: "Gotham-Bold";
+        font-size: 14px;
+    }
+
+    .beer-lover-recipe-list .grid-see-all {
+        text-align: center;
+    }
+
+    .beer-lover-recipe-list .grid-see-all a {
+        font-family: "Gotham-Bold";
+        color: #000;
+        text-transform: uppercase;
+        font-size: 14px;
+        background: #f4b233;
+        border-radius: 5px;
+        -webkit-border-radius: 5px;
+        padding: 14px 30px;
+        margin-top: 40px;
+        display: inline-block;
+        width: auto;
+    }
+
+    .beer-lover-recipe-list .grid-block-wrap .grid-content .grid-title {
+        margin-bottom: 0px;
+    }
+    /*end beer lover receipe  css*/
+    /*beer lover tips  css*/
+
+    .beer-tip-trick-list {
+        background: #f4f4f4;
+    }
+
+    .beer-tip-trick-list a {
+        color: #000;
+    }
+
+    .beer-tip-trick-list .grid-block-wrap .grid-content {
+        background: #fff;
+    }
+
+    .beer-tip-trick-list .grid-block-title h3 {
+        text-align: center;
+        font-family: "Leviathan-HTF-Black";
+        font-size: 30px;
+        line-height: 24px;
+        margin-top: 60px;
+        margin-bottom: 45px;
+    }
+
+    .beer-tip-trick-list .grid-tag-fav {
+        position: absolute;
+        top: 13px;
+        left: 26px;
+        width: 100%;
+    }
+
+    .beer-tip-trick-list .grid-tag {
+        background: #fff;
+        font-family: "Gotham-Bold";
+        padding: 5px 8px;
+        font-size: 11px;
+        border-radius: 5px;
+        text-transform: uppercase;
+        line-height: 18px;
+    }
+
+    .beer-tip-trick-list #grid-tips-1 p {
+        width: 45%;
+    }
+
+    .beer-tip-trick-list #grid-tips-1 .grid-content {
+        padding: 20px 20px;
+        background: #fff;
+    }
+
+    .beer-tip-trick-list .grid-content {
+        border-top-color: transparent;
+    }
+
+    .beer-tip-trick-list .grid-block-wrap .grid-btn {
+        text-align: left;
+    }
+    .beer-tip-trick-list .grid-see-all,
+    .beer-party-planning-list .grid-see-all{
+        text-align: center;
+    }
+
+    .beer-tip-trick-list .grid-see-all a ,
+    .beer-party-planning-list .grid-see-all a{
+        font-family: "Gotham-Bold";
+        color: #000;
+        text-transform: uppercase;
+        font-size: 14px;
+        background: #f4b233;
+        border-radius: 5px;
+        -webkit-border-radius: 5px;
+        padding: 14px 30px;
+        margin-top: 40px;
+        display: inline-block;
+        width: auto;
+    }
+    /*end beer lover tips  css*/
+    /* beer video section */
+
+    .beer-video-section .beer-video-section-inner {}
+
+    .beer-video-section .beer-video-section-image-inner {
+        position: relative;
+    }
+
+    .beer-video-section .container .beer-video-section-content {
+        border-right: 1px solid #d6d6d6;
+    }
+
+    .beer-video-section .beer-video-section-play {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        text-align: center;
+        margin-top: -37.5px;
+        margin-left: -37.5px;
+    }
+
+    .beer-video-section .beer-video-section-content-inner h3 {
+        font-family: "Leviathan-HTF-Black";
+        font-size: 48px;
+        line-height: 60px;
+        margin-top: 0px;
+        margin-bottom: 40px;
+    }
+
+    .beer-video-section .beer-video-section-content {
+        display: table;
+        padding-left: 110px;
+        border-bottom: 1px solid #d6d6d6;
+        padding-right: 145px;
+    }
+
+    .beer-video-section .beer-video-section-content-inner {
+        display: table-cell;
+        vertical-align: middle;
+    }
+
+    .beer-video-section .site_default_btn {
+        font-family: "Gotham-Bold";
+        color: #000;
+        text-transform: uppercase;
+        font-size: 14px;
+        background: #f4b233;
+        border-radius: 5px;
+        -webkit-border-radius: 5px;
+        padding: 14px 30px;
+        margin-top: 40px;
+        display: inline-block;
+        max-width: auto;
+        width: auto;
+    }
+
+    .beer-video-section .pt-0 {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    .ms_video_pop {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        display: none;
+        z-index: 999;
+    }
+
+    .ms_video_pop .ms_video_pop_overlay {
+        background: rgba(0, 0, 0, 0.5);
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        display: none;
+        z-index: 0;
+    }
+
+    .ms_video_pop .ms_video_pop_tbl {
+        display: table;
+        width: 100%;
+        height: 100%;
+    }
+
+    .ms_video_pop .ms_video_pop_tbl .ms_video_pop_cel {
+        display: table-cell;
+        vertical-align: middle;
+    }
+
+    .ms_video_pop .ms_video_pop_tbl .ms_video_pop_cel .ms_video_pop_inner {
+        max-width: 630px;
+        margin: 0 auto;
+        box-sizing: border-box;
+        position: relative;
+        background: #fff;
+    }
+
+    .ms_video_pop .ms_video_pop_tbl .ms_video_pop_cel .ms_video_pop_inner .ms_video_pop_close {
+        position: absolute;
+        right: -18px;
+        top: -18px;
+    }
+
+    .ms_video_pop .ms_video_pop_tbl .ms_video_pop_cel .ms_video_pop_inner .ms_video_pop_frame {
+        width: 100%;
+        height: 354px;
+        border: none !important;
+        display: block;
+    }
+    /* end beer vide section */
+    /*beer party planning section*/
+
+    .beer-party-planning-list .grid-block-title h3 {
+        text-align: center;
+        font-family: "Leviathan-HTF-Black";
+        font-size: 30px;
+        line-height: 24px;
+        margin-top: 60px;
+        margin-bottom: 45px;
+    }
+
+    .beer-party-planning-list a {
+        color: #000;
+    }
+
+    .beer-party-planning-list .beer-lover-recipe-list .grid-image {
+        position: relative;
+    }
+
+    .beer-party-planning-list .grid-tag-fav {
+        position: absolute;
+        top: 7px;
+        left: 14px;
+        width: calc(100% - 12px);
+    }
+
+    .beer-party-planning-list .grid-tag {
+        background: #fff;
+        font-family: "Gotham-Bold";
+        padding: 5px 8px;
+        font-size: 11px;
+        border-radius: 5px;
+        text-transform: uppercase;
+        line-height: 18px;
+    }
+
+    .beer-party-planning-list .grid-btn {
+        text-align: left;
+    }
+
+    .beer-party-planning-list .grid-block-wrap .grid-content .grid-title {
+        margin-bottom: 15px;
+    }
+
+    .beer-party-planning-list .grid-block-wrap .grid-content .grid-des {
+        margin-bottom: 15px;
+    }
+
+    .beer-party-planning-list .grid-block-wrap .grid-btn {
+        margin-top: 0px;
+    }
+
+    .beer-party-planning-list .grid-block-wrap .grid-content {
+        padding: 20px 20px;
+    }
+
+    .beer-party-planning-list .grid-block-wrap .grid-title h2 {
+        font-size: 18px;
+        color: #000;
+        font-family: "Gotham-Bold";
+        letter-spacing: 0;
+        line-height: 1.4;
+        margin: 0;
+    }
+
+    .beer-party-planning-list .grid-block-wrap {
+        margin-bottom: 15px;
+    }
+
+    .beer-party-planning-list .grid-block-wrap p {
+        margin: 0px;
+        line-height: 1.4;
+        font-size: 14px;
+        color: #4a4f55;
+    }
+    /*end beer party planning section*/
+    /* beer occasions list*/
+
+    .beer-occasions-list {
+        background: #f4f4f4;
+    }
+
+    .beer-occasions-list a {
+        color: #000;
+    }
+
+    .beer-occasions-list .grid-content {
+        border-top-color: transparent;
+        padding: 20px 20px;
+    }
+
+    .beer-occasions-list .grid-title {
+        margin-bottom: 15px!important;
+    }
+
+    .beer-occasions-list .grid-title h2 {
+        font-size: 18px;
+        color: #000;
+        font-family: "Gotham-Bold";
+        letter-spacing: 0;
+        line-height: 1.4;
+        margin: 0;
+    }
+
+    .beer-occasions-list .grid-block-wrap .grid-des p {
+        margin: 0px;
+        line-height: 1.4;
+        font-size: 14px;
+        color: #4a4f55;
+    }
+
+    .beer-occasions-list .grid-block-wrap .grid-des {
+        margin-bottom: 15px;
+    }
+
+    .beer-occasions-list .grid-block-title h3 {
+        text-align: center;
+        font-family: "Leviathan-HTF-Black";
+        font-size: 30px;
+        line-height: 24px;
+        margin-top: 55px;
+        margin-bottom: 40px;
+    }
+
+    .beer-occasions-list .grid-image {
+        position: relative;
+    }
+
+    .beer-occasions-list .grid-tag-fav {
+        position: absolute;
+        top: 8px;
+        left: 6px;
+        width: calc(100% - 12px);
+    }
+
+    .beer-occasions-list .grid-tag {
+        background: #fff;
+        font-family: "Gotham-Bold";
+        padding: 7px 18px;
+        font-size: 11px;
+        border-radius: 5px;
+        text-transform: uppercase;
+        line-height: 18px;
+    }
+
+    .beer-occasions-list .grid-btn {
+        text-align: left;
+        margin-top: 0px;
+    }
+
+    .grid-block-wrap .grid-content {
+        background: #fff;
+    }
+
+    .beer-tip-trick-list .grid-block-wrap .grid-content {
+        padding: 23px 20px;
+    }
+
+    .beer-tip-trick-list .grid-block-wrap .grid-content .grid-title {
+        margin-bottom: 15px;
+    }
+
+    .beer-tip-trick-list .grid-block-wrap .grid-content .grid-des {
+        margin-bottom: 15px;
+    }
+
+    .beer-tip-trick-list .grid-block-wrap .grid-content h2 {
+        font-size: 18px;
+        margin-top: 0px;
+    }
+
+    .beer-tip-trick-list .grid-block-wrap .grid-content p {
+        margin: 0px;
+    }
+    /* .beer-tip-trick-list .grid-block-wrap .grid-content {
+        margin-bottom: 15px;
+    } */
+
+    .beer-tip-trick-list .grid-block-wrap .grid-btn {
+        margin-top: 0px;
+    }
+    .beer-lover-page .beer-lover-page-inner .moreLink{
+        font-size: 11px;
+        font-family: "Gotham-Black";
+        color: #000;
+        text-transform: uppercase;
+        border: 0px;
+        background: transparent;
+        padding-left: 0px;
+    }
+    .beer-lover-page .beer-lover-page-inner .moreLink::after {
+        content: url(../images/arrow-orange.svg);
+        position: relative;
+        right: -9px;
+        top: 2px;
+    }
+    .grid-block-slider .slick-dots {
+        margin-top: 10px;
+    }
+    .slick-initialized .slick-slide > div > div {
+        display: block !important;
+    }
+    /*end beer occasions list*/
+
+    @media screen and (max-width:1460px) and (min-width:1365px) {
+        .beer-lover-slider .slider_box_wrap .slider_text .slider_text_tbl .slider_text_cel .site_default_btn {
+            padding: 16px 40px;
+        }
+        .beer-lover-slider .slider_box_wrap.left-title .slider_text .slider_text_tbl .slider_text_cel {
+            padding: 0px;
+            padding-left: 135px;
+            padding-right: 135px;
+        }
+        .beer-lover-slider .slider_box_wrap.right-title .slider_text {
+            width: 100%;
+        }
+        .beer-lover-slider .slider_box_wrap.right-title .slider_text .slider_text_tbl .slider_text_cel {
+            padding-right: 135px;
+            padding-left: 135px;
+        }
+        .beer-video-section .beer-video-section-content {
+            padding-left: 65px;
+            padding-right: 65px;
+        }
+        .beer-video-section .beer-video-section-content-inner h3 {
+            font-size: 40px;
+            line-height: 48px;
+            margin-bottom: 30px;
+        }
+        .beer-lover-call-slider .slider_box_wrap.right-title .slider_text .slider_text_tbl .slider_text_cel {
+            text-align: right;
+            padding: 13px 30px 13px 0px;
+        }
+        .parallax-slider .slider_box_wrap {
+            background-attachment: fixed;
+            background-position: 50% 150px !important;
+        }
+        .beer-video-section .site_default_btn {
+            font-family: "Gotham-Bold";
+            color: #000;
+            text-transform: uppercase;
+            font-size: 14px;
+            background: #f4b233;
+            border-radius: 5px;
+            -webkit-border-radius: 5px;
+            padding: 14px 30px;
+            margin-top: 40px;
+            display: inline-block;
+        }
+        .beer-lover-recipe-list .recipe-cook img {
+            width: 17px;
+            margin-right: 10px;
+        }
+        .beer-lover-recipe-list .recipe-cook b {
+            margin-right: 12px;
+            font-size: 14px;
+        }
+        .beer-lover-recipe-list .recipe-serves img {
+            width: 24px;
+            display: inline-block;
+            margin-right: 10px;
+        }
+        .beer-lover-recipe-list .recipe-serves b {
+            margin-right: 12px;
+            font-size: 14px;
+        }
+        .beer-tip-trick-list .grid-block-wrap .grid-content {
+            padding: 14px 20px;
+        }
+        .beer-tip-trick-list #grid-tips-1 .grid-content {
+            padding: 20px 20px;
+            background: #fff;
+        }
+        .beer-tip-trick-list #grid-tips-1 p {
+            width: 58%;
+        }
+        .beer-video-section .beer-video-section-play {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            text-align: center;
+            margin-top: -37.5px;
+            margin-left: -37.5px;
+        }
+        
+	.beer-lover-slider .slider_box_wrap .slider_text .slider_text_tbl .slider_text_cel h1,
+	.page-ordering-online .page-online-ordering-banner .online-ordering-faq .container  h1.ordering-online-inner-heading,
+    .beer-lover-slider .slider_box_wrap .slider_text .slider_text_tbl .slider_text_cel h2 {
+            line-height: 50px;
+        }
+        .beer-lover-call-slider .slider_box_wrap.left-title .slider_text .slider_text_tbl .slider_text_cel {
+            padding-left: 135px;
+            padding-right: 135px;
+        }
+        .beer-lover-call-slider .slider_box_wrap.right-title .slider_text {
+            width: 100%;
+        }
+        .beer-lover-call-slider .slider_box_wrap.right-title .slider_text .slider_text_tbl .slider_text_cel {
+            padding-left: 135px;
+            padding-right: 30px;
+        }
+    }
+
+    @media screen and (max-width:1366px) and (min-width:1281px) {
+        .beer-lover-slider .slider_box_wrap.left-title .slider_text .slider_text_tbl .slider_text_cel {
+            padding: 0px;
+            padding-left: 135px;
+            padding-right: 135px;
+        }
+        .beer-lover-slider .slider_box_wrap.right-title .slider_text {
+            width: 100%;
+        }
+        .beer-lover-slider .slider_box_wrap.right-title .slider_text .slider_text_tbl .slider_text_cel {
+            padding-right: 135px;
+            padding-left: 135px;
+        }
+        .beer-tip-trick-list .grid-block-wrap .grid-content {
+            padding: 8px 20px;
+        }
+        .beer-tip-trick-list #grid-tips-1 .grid-content {
+            padding: 10px 25px;
+            background: #fff;
+        }
+        .beer-lover-recipe-list .recipe-cook img {
+            width: 17px;
+            margin-right: 10px;
+        }
+        .beer-lover-recipe-list .recipe-cook b {
+            margin-right: 12px;
+            font-size: 14px;
+        }
+        .beer-lover-recipe-list .recipe-serves img {
+            width: 24px;
+            display: inline-block;
+            margin-right: 10px;
+        }
+        .beer-lover-recipe-list .recipe-serves b {
+            margin-right: 12px;
+            font-size: 14px;
+        }
+        .beer-tip-trick-list #grid-tips-1 p {
+            width: 58%;
+        }
+        .grid-block-wrap .grid-tag,
+        .beer-grid-list .grid-block-wrap .grid-tag,
+        .beer-food-pairing-list .grid-block-wrap .grid-tag {
+            padding: 5px 10px;
+            font-size: 11px;
+        }
+        .beer-lover-call-slider .slider_box_wrap.right-title .slider_text {
+            width: 100%;
+        }
+        .beer-lover-call-slider .slider_box_wrap.left-title .slider_text .slider_text_tbl .slider_text_cel {
+            padding-left: 135px;
+        }
+        .parallax-slider .slider_box_wrap {
+            background-attachment: fixed;
+            background-position: 50% 100% !important;
+        }
+        .beer-lover-call-slider .slider_box_wrap .slider_text .slider_text_tbl .slider_text_cel h2 {
+            font-size: 30px;
+        }
+        .beer-lover-call-slider .sub-title {
+            font-size: 16px;
+            line-height: 26px;
+        }
+
+	.beer-lover-slider .slider_box_wrap .slider_text .slider_text_tbl .slider_text_cel h1,
+	.page-ordering-online .page-online-ordering-banner .online-ordering-faq .container  h1.ordering-online-inner-heading,
+    .beer-lover-call-slider .slider_box_wrap .slider_text .slider_text_tbl .slider_text_cel .site_default_btn {
+            margin-top: 20px;
+        }
+        .beer-lover-slider .slider_box_wrap .slider_text .slider_text_tbl .slider_text_cel h2 {
+            font-size: 40px;
+            line-height: 48px;
+        }
+        .beer-lover-slider .sub-title {
+            padding-top: 30px;
+            padding-bottom: 30px;
+        }
+        .slick-dots li button {
+            margin-top: 30px;
+        }
+        .beer-occasions-list .grid-tag-fav {
+            top: 7px;
+        }
+    }
+
+    @media screen and (max-width:1279px) and (min-width:1200px) {
+        .beer-tip-trick-list .grid-image {
+            height: 100% !important;
+        }
+        .beer-tip-trick-list #grid-tips-1 .grid-content {
+            padding: 64px !important;
+        }
+    }
+
+    @media screen and (max-width:1280px) and (min-width:1025px) {
+        .beer-lover-slider .slider_box_wrap.left-title .slider_text .slider_text_tbl .slider_text_cel {
+            padding: 0px;
+            padding-left: 138px;
+            padding-right: 138px;
+        }
+        .beer-lover-slider .slider_box_wrap.right-title .slider_text {
+            width: 100%;
+        }
+        .beer-lover-slider .slider_box_wrap.right-title .slider_text .slider_text_tbl .slider_text_cel {
+            padding-right: 138px;
+            padding-left: 138px;
+        }
+        .beer-video-section .beer-video-section-content {
+            padding-left: 70px;
+            padding-right: 80px;
+        }
+
+	.beer-lover-slider .slider_box_wrap .slider_text .slider_text_tbl .slider_text_cel h1,
+	.page-ordering-online .page-online-ordering-banner .online-ordering-faq .container  h1.ordering-online-inner-heading,
+    .beer-lover-slider .slider_box_wrap .slider_text .slider_text_tbl .slider_text_cel h2 {
+            font-size: 40px;
+            line-height: 46px;
+        }
+        .beer-lover-slider .sub-title {
+            padding-top: 25px;
+            padding-bottom: 25px;
+            margin: 0px;
+        }
+        .beer-video-section .beer-video-section-content-inner h3 {
+            font-size: 34px;
+            line-height: 42px;
+            margin-bottom: 30px;
+        }
+        .beer-lover-call-slider .slider_box_wrap.left-title .slider_text .slider_text_tbl .slider_text_cel {
+            padding-left: 135px;
+            padding-right: 135px;
+        }
+        .beer-lover-slider .slider_box_wrap .slider_text .slider_text_tbl .slider_text_cel .site_default_btn {
+            margin-bottom: 0px;
+        }
+        .beer-lover-call-slider .slider_box_wrap.right-title .slider_text {
+            width: 100%;
+        }
+        .parallax-slider .slider_box_wrap {
+            background-attachment: fixed;
+            background-position: 50% 100px !important;
+        }
+        .beer-lover-call-slider .slider_box_wrap.right-title .slider_text .slider_text_tbl .slider_text_cel {
+            text-align: right;
+            padding: 13px 30px 13px 0px;
+            padding-right: 30px;
+            padding-left: 135px;
+        }
+        .beer-lover-call-slider .slider_box_wrap.right-title .slider_text .slider_text_tbl .slider_text_cel h2 {
+            font-size: 30px;
+        }
+        .grid-block-wrap .grid-content {
+            padding: 17px;
+        }
+        .beer-tip-trick-list #grid-tips-1 p {
+            width: 68%;
+        }
+        .beer-lover-recipe-list .recipe-cook img {
+            width: 14px;
+            margin-right: 7px;
+        }
+        .beer-lover-recipe-list .recipe-cook b {
+            margin-right: 9px;
+            font-size: 13px;
+        }
+        .beer-lover-recipe-list .recipe-cook,
+        .beer-lover-recipe-list .recipe-serves {
+            font-size: 12px;
+        }
+        .beer-lover-recipe-list .recipe-serves img {
+            width: 20px;
+            display: inline-block;
+            margin-right: 7px;
+        }
+        .beer-lover-recipe-list .recipe-serves b {
+            margin-right: 10px;
+            font-size: 13px;
+        }
+        .beer-lover-recipe-list .grid-block-wrap .grid-content {
+            padding: 0px;
+        }
+        .grid-block-wrap .grid-tag,
+        .beer-grid-list .grid-block-wrap .grid-tag,
+        .beer-food-pairing-list .grid-block-wrap .grid-tag {
+            padding: 5px 8px;
+            font-size: 11px;
+        }
+        .slick-dots li button {
+            margin-top: 30px;
+        }
+        .beer-tip-trick-list .grid-block-wrap .grid-content {
+            padding: 10px 20px;
+        }
+        .beer-tip-trick-list #grid-tips-1 .grid-content {
+            padding: 20px 20px;
+            background: #fff;
+        }
+        .beer-occasions-list .grid-tag-fav {
+            top: 6px;
+        }
+    }
+
+    @media screen and (max-width: 1279px) and (min-width: 1024px) {
+        .beer-video-section .beer-video-section-content {
+            padding-left: 30px;
+            padding-right: 30px;
+        }
+        .beer-lover-call-slider .slider_box_wrap.left-title .slider_text .slider_text_tbl .slider_text_cel {
+            padding: 0px;
+            padding-left: 30px;
+            padding-right: 30px;
+        }
+        .beer-video-section .beer-video-section-content-inner h3 {
+            font-size: 30px;
+            line-height: 34px;
+            margin-top: 0px;
+            margin-bottom: 25px;
+        }
+
+	.beer-lover-slider .slider_box_wrap .slider_text .slider_text_tbl .slider_text_cel h1,
+	.page-ordering-online .page-online-ordering-banner .online-ordering-faq .container  h1.ordering-online-inner-heading,
+    .beer-lover-slider .slider_box_wrap .slider_text .slider_text_tbl .slider_text_cel h2 {
+            font-size: 36px;
+            font-family: "Leviathan-HTF-Black";
+            line-height: 46px;
+        }
+        .beer-lover-call-slider .slider_box_wrap.right-title .slider_text .slider_text_tbl .slider_text_cel {
+            text-align: right;
+            padding: 13px 30px 13px 0px;
+        }
+        .beer-lover-call-slider .slider_box_wrap.right-title .slider_text .slider_text_tbl .slider_text_cel h2 {
+            font-size: 26px;
+        }
+        .beer-lover-call-slider .slider_box_wrap.right-title .slider_text .slider_text_tbl .slider_text_cel .sub-title {
+            font-size: 16px;
+            line-height: 24px;
+            padding: 0px;
+        }
+        .beer-tip-trick-list #grid-tips-1 .grid-content {
+            padding: 22px;
+            background: #fff;
+        }
+        .beer-lover-recipe-list .recipe-cook img {
+            width: 14px;
+            margin-right: 6px;
+        }
+        .beer-lover-recipe-list .recipe-cook b {
+            margin-right: 6px;
+            font-size: 12px;
+        }
+        .beer-lover-recipe-list .recipe-serves img {
+            width: 21px;
+            display: inline-block;
+            margin-right: 8px;
+        }
+        .beer-lover-recipe-list .recipe-cook {
+            width: 54%;
+        }
+        .beer-lover-recipe-list .recipe-serves {
+            width: 44%;
+        }
+        .beer-lover-recipe-list .recipe-serves b {
+            margin-right: 10px;
+            font-size: 12px;
+        }
+        .beer-tip-trick-list .grid-block-wrap .grid-content {
+            padding: 22px;
+        }
+        .beer-tip-trick-list #grid-tips-1 p {
+            width: 100%;
+        }
+        .beer-lover-recipe-list .recipe-cook {
+            font-size: 11px;
+        }
+        .beer-lover-recipe-list .recipe-serves {
+            font-size: 11px;
+        }
+        .grid-block-wrap .grid-image .grid-img {
+            height: 100%;
+            object-fit: cover;
+        }
+        .beer-tip-trick-list .grid-image {
+            height: 300px;
+        }
+        .grid-block-wrap .grid-tag,
+        .beer-grid-list .grid-block-wrap .grid-tag,
+        .beer-food-pairing-list .grid-block-wrap .grid-tag {
+            padding: 5px 10px;
+            font-size: 11px;
+        }
+        .beer-video-section .beer-video-section-play {
+            margin-top: -37.5px;
+            margin-left: -37.5px;
+        }
+        .beer-tip-trick-list .grid-image {
+            height: 300px;
+        }
+        /* .parallax-slider .slider_box_wrap {
+            background-attachment: fixed;
+            background-position: 50% 100% !important;
+        } */
+        .beer-lover-call-slider .slider_box_wrap .slider_text .slider_text_tbl .slider_text_cel .site_default_btn {
+            margin-top: 10px;
+        }
+        .beer-lover-slider .slider_box_wrap .slider_text .slider_text_tbl .slider_text_cel .site_default_btn {
+            padding: 14px 26px;
+        }
+        .beer-grid-list .grid-block-wrap .grid-title h2 {
+            font-size: 18px;
+        }
+        .beer-party-planning-list .grid-block-wrap .grid-title h2 {
+            font-size: 18px;
+        }
+        .beer-occasions-list .grid-tag-fav {
+            top: 6px;
+        }
+    }
+
+    @media (max-width: 991px) and (min-width:768px) {
+        .beer-lover-call-slider .slider_box_wrap.left-title .slider_text .slider_text_tbl .slider_text_cel {
+            padding: 0px;
+            padding-left: 30px;
+            padding-right: 30px;
+        }
+        .beer-lover-slider .slider_box_wrap.left-title .slider_text .slider_text_tbl .slider_text_cel {
+            padding: 0px;
+            padding-left: 30px;
+            padding-right: 30px;
+        }
+        .beer-lover-call-slider .slider_box_wrap.right-title .slider_text .slider_text_tbl .slider_text_cel {
+            text-align: right;
+            padding: 13px 10px 13px 0px;
+        }
+        .beer-lover-call-slider .slider_box_wrap.right-title .slider_text .slider_text_tbl .slider_text_cel h2 {
+            font-size: 20px;
+        }
+        .beer-lover-call-slider .slider_box_wrap.right-title .slider_text .slider_text_tbl .slider_text_cel .sub-title {
+            font-size: 14px;
+            line-height: 20px;
+            padding: 0px;
+        }
+         
+	.beer-lover-slider .slider_box_wrap .slider_text .slider_text_tbl .slider_text_cel h1,
+	.page-ordering-online .page-online-ordering-banner .online-ordering-faq .container  h1.ordering-online-inner-heading,
+    .beer-lover-slider .slider_box_wrap .slider_text .slider_text_tbl .slider_text_cel h2 {
+            font-size: 32px;
+            line-height: 38px;
+        }
+        .beer-lover-slider .sub-title {
+            padding-top: 25px;
+            padding-bottom: 25px;
+            margin: 0px;
+        }
+        .beer-tip-trick-list .grid-image {
+            height: 250px;
+        }
+        .grid-block-wrap .grid-image .grid-img {
+            height: 100% !important;
+            object-fit: cover;
+        }
+        .beer-tip-trick-list #grid-tips-1 .grid-content {
+            padding: 20px 20px;
+        }
+        .beer-tip-trick-list .grid-block-wrap .grid-content {
+            padding: 20px 20px;
+        }
+        .beer-tip-trick-list #grid-tips-1 p {
+            width: 100%;
+        }
+        .beer-lover-recipe-list .recipe-cook {
+            font-size: 11px;
+        }
+        .beer-lover-recipe-list .recipe-serves {
+            font-size: 11px;
+        }
+        .beer-lover-recipe-list .recipe-cook img {
+            width: 14px;
+            margin-right: 6px;
+        }
+        .beer-lover-recipe-list .recipe-cook b {
+            margin-right: 6px;
+            font-size: 12px;
+        }
+        .beer-lover-recipe-list .recipe-serves img {
+            width: 21px;
+            display: inline-block;
+            margin-right: 8px;
+        }
+        .beer-lover-recipe-list .recipe-serves b {
+            margin-right: 10px;
+            font-size: 12px;
+        }
+        .beer-video-section .beer-video-section-content {
+            padding-left: 50px;
+            padding-right: 50px;
+        }
+        .beer-video-section .beer-video-section-content-inner h3 {
+            font-family: "Leviathan-HTF-Black";
+            font-size: 32px;
+            line-height: 30px;
+            margin-top: 0px;
+            margin-bottom: 34px;
+        }
+        .beer-video-section .beer-video-section-play {
+            margin-top: -37.5px;
+            margin-left: -37.5px;
+        }
+        .parallax-slider .slider_box_wrap {
+            background-attachment: scroll !important;
+            background-position: 50% 100% !important;
+        }
+        .beer-lover-call-slider .slider_box_wrap .slider_text .slider_text_tbl .slider_text_cel .site_default_btn {
+            margin-top: 28px;
+        }
+        .beer-lover-call-slider .sub-title {
+            margin-top: 25px;
+            margin-bottom: 0;
+            font-size: 16px;
+            line-height: 20px;
+        }
+        .beer-lover-slider .slider_box_wrap .slider_text .slider_text_tbl .slider_text_cel .site_default_btn {
+            padding: 14px 26px;
+        }
+        .beer-grid-list .grid-block-wrap .grid-tag,
+        .beer-food-pairing-list .grid-block-wrap .grid-tag,
+        .beer-lover-recipe-list .grid-tag,
+        .beer-tip-trick-list .grid-tag,
+        .beer-party-planning-list .grid-tag,
+        .beer-occasions-list .grid-tag {
+            font-size: 11px;
+        }
+        .beer-grid-list .grid-block-wrap .grid-title h2 {
+            font-size: 18px;
+        }
+        .beer-party-planning-list .grid-block-wrap .grid-title h2 {
+            font-size: 18px;
+        }
+        .beer-occasions-list .grid-tag-fav {
+            top: 7px;
+        }
+    }
+
+    @media screen and (max-width:767px) {
+        .beer-lover-slider .slider_box_wrap.right-title .slider_text {
+            width: 100%;
+        }
+        .beer-lover-call-slider .slider_text .slider_text_tbl .slider_text_cel {
+            padding-bottom: 0px;
+        }
+        .beer-lover-call-slider .slider_box_wrap.left-title .slider_text .slider_text_tbl .slider_text_cel {
+            padding: 0px;
+            padding-left: 15px;
+        }
+        .beer-lover-call-slider .slider_box_wrap.right-title .slider_text .slider_text_tbl .slider_text_cel {
+            text-align: right;
+            padding: 0px;
+            padding-right: 5px;
+            width: 100%;
+        }
+        .beer-lover-slider .slider_box_wrap.right-title .slider_text .slider_text_tbl .slider_text_cel {
+            padding: 0px;
+            padding-top: 30px;
+            padding-right: 0px;
+            text-align: right;
+        }
+        .beer-lover-slider .slider_box_wrap.right-title .slider_text .slider_text_tbl .slider_text_cel h2 {
+            font-size: 18px;
+            line-height: 20px;
+        }
+        .beer-lover-slider .slider_box_wrap.right-title .sub-title {
+            padding-top: 12px;
+            padding-bottom: 20px;
+            margin-bottom: 0px;
+            line-height: 16px;
+            font-size: 13px;
+        }
+        .beer-lover-slider .slider_box_wrap.right-title .slider_text .slider_text_tbl .slider_text_cel .site_default_btn {
+            padding: 10px 24px;
+            margin-top: 0px;
+            margin-bottom: 29px;
+            border-radius: 10px;
+            font-size: 11px;
+        }
+        .beer-tip-trick-list .grid-image {
+            height: 250px;
+        }
+        .beer-tip-trick-list .grid-block-wrap .grid-content h2 {
+            font-size: 18px;
+            color: #000;
+            font-family: "Gotham-Bold";
+            letter-spacing: 0;
+            line-height: 1.4;
+            margin: 0;
+        }
+        .grid-block-wrap .grid-image .grid-img {
+            height: 100%;
+            object-fit: cover;
+        }
+        .beer-lover-call-slider .slider_box_wrap .slider_text .slider_text_tbl .slider_text_cel h2 {
+            margin: 0;
+            color: #ffffff;
+            font-family: "Leviathan-HTF-Black";
+            font-size: 20px;
+        }
+        .beer-lover-call-slider .sub-title {
+            font-size: 14px;
+            line-height: 17px;
+            margin-top: 10px;
+            margin-bottom: 10px;
+            padding: 0px 0%;
+        }
+        .beer-lover-call-slider .slider_box_wrap.right-title .slider_text {
+            width: 100%;
+            left: auto;
+            padding-left: 10px;
+            padding-right: 10px;
+        }
+        .beer-lover-call-slider .slider_box_wrap .slider_text .slider_text_tbl .slider_text_cel .site_default_btn {
+            max-width: 161px;
+            width: inherit;
+            margin-top: 10px;
+        }
+        .beer-lover-recipe-list .recipe-cook {
+            font-size: 11px;
+        }
+        .beer-lover-recipe-list .recipe-serves {
+            font-size: 11px;
+        }
+        .beer-lover-recipe-list .recipe-cook img {
+            width: 14px;
+            margin-right: 6px;
+        }
+        .beer-lover-recipe-list .recipe-cook b {
+            margin-right: 6px;
+            font-size: 12px;
+        }
+        .beer-lover-recipe-list .recipe-serves img {
+            width: 21px;
+            display: inline-block;
+            margin-right: 8px;
+        }
+        .beer-lover-recipe-list .recipe-serves b {
+            margin-right: 10px;
+            font-size: 12px;
+        }
+        .beer-lover-slider .slider_box_wrap.left-title .slider_text .slider_text_tbl .slider_text_cel {
+            padding: 0px;
+            padding-top: 0px;
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+	.beer-lover-slider .slider_box_wrap .slider_text .slider_text_tbl .slider_text_cel h1,
+	.page-ordering-online .page-online-ordering-banner .online-ordering-faq .container  h1.ordering-online-inner-heading,
+    .beer-lover-slider .slider_box_wrap .slider_text .slider_text_tbl .slider_text_cel h2 {
+            font-size: 28px;
+            line-height: 32px;
+        }
+        .beer-lover-slider .sub-title {
+            padding-top: 20px;
+            padding-bottom: 20px;
+            margin: 0px;
+            line-height: 16px;
+            font-size: 14px;
+        }
+        .beer-lover-slider .slider_box_wrap .slider_text .slider_text_tbl .slider_text_cel .site_default_btn {
+            margin-top: 0px;
+            margin-bottom: 0px;
+        }
+        .beer-tip-trick-list #grid-tips-1 .grid-content {
+            padding: 20px 20px;
+        }
+        .beer-tip-trick-list .grid-block-wrap .grid-content {
+            padding: 20px 20px;
+        }
+        .beer-tip-trick-list #grid-tips-1 p,
+        .grid-block-wrap .grid-des p {
+            width: 100%;
+            line-height: 1.4;
+            font-size: 14px;
+            color: #4a4f55;
+        }
+        .ms_video_pop .ms_video_pop_tbl .ms_video_pop_cel {
+            padding: 0px 20px;
+        }
+        .ms_video_pop .ms_video_pop_tbl .ms_video_pop_cel .ms_video_pop_inner .ms_video_pop_frame {
+            height: 280px !important;
+        }
+        .beer-video-section .beer-video-section-content {
+            display: table;
+            padding-left: 30px;
+            border-bottom: 1px solid #d6d6d6;
+            padding-right: 30px;
+        }
+        .beer-video-section .beer-video-section-content-inner h3 {
+            font-size: 20px;
+            line-height: 22px;
+            margin-top: 15px;
+            margin-bottom: 20px;
+        }
+        .beer-video-section .site_default_btn {
+            margin-top: 15px;
+            margin-bottom: 30px;
+        }
+        .beer-video-section-play img {
+            width: 40px;
+        }
+        .beer-video-section .beer-video-section-play {
+            margin-top: -20px;
+            margin-left: -20px;
+        }
+        .beer-food-pairing-list .grid-see-all a {
+            margin-top: 0;
+            display: inline-block;
+            margin-bottom: 0;
+        }
+        .grid-block-wrap .grid-tag,
+        .beer-grid-list .grid-block-wrap .grid-tag,
+        .beer-food-pairing-list .grid-block-wrap .grid-tag {
+            padding: 5px 10px;
+            font-size: 12px;
+            border-radius: 5px;
+        }
+        .beer-lover-recipe-list .grid-see-all a {
+            margin-top: 15px;
+            display: inline-block;
+            margin-bottom: 15px;
+        }
+        .beer-food-pairing-list .grid-block-title h3,
+        .beer-tip-trick-list .grid-block-title h3,
+        .beer-party-planning-list .grid-block-title h3,
+        .beer-occasions-list .grid-block-title h3,
+        .beer-grid-list .grid-block-title h3 {
+            font-size: 22px;
+            line-height: 20px;
+            margin-top: 60px;
+            margin-bottom: 45px;
+        }
+        .grid-block-slider {
+            padding: 0px;
+        }
+        .slick-dots li button {
+            margin: 0px;
+            width: 8px;
+            height: 8px;
+        }
+        .beer-tip-trick-list {
+            padding-bottom: 30px;
+        }
+        .beer-lover-recipe-list h3 {
+            font-size: 18px;
+        }
+        .beer-grid-list .grid-block-wrap .grid-title h2,
+        .beer-party-planning-list .grid-block-wrap .grid-title h2 {
+            font-size: 18px;
+        }
+        /* .parallax-slider .slider_box_wrap {
+            background-attachment: scroll !important;
+            background-position: 50% 39% !important;
+        } */
+        .beer-occasions-list .grid-tag-fav {
+            top: 6px;
+        }
+        .beer-tip-trick-list #grid-tips-1 .grid-content{
+            height: auto !important;
+        }
+        .beer-grid-list .grid-block-wrap {
+            margin-bottom: 60px;
+        }
+        .grid-block-slider .slick-dots {
+            margin-top: 30px;
+        }
+        .beer-food-pairing-list .slick-dots {
+            margin-top: 25px;
+            margin-bottom: 30px;
+        }
+        .beer-lover-recipe-list .slick-dots{
+            margin-bottom: 20px;
+        }
+        .beer-tip-trick-list .slick-dots {
+            margin-top: 30px;
+        }
+    }
+    /*Accessibiltiy css*/
+    /* .beer-lover-slider .slider_box_wrap .slider_text .slider_text_tbl .slider_text_cel h2:focus,
+    p#home_slider_1_subtitle:focus,
+    span#home_slider_1_btn:focus,
+    .beer-grid-list .grid-block-title h3:focus,
+    .beer-food-pairing-list .grid-block-title h3:focus,
+    .beer-lover-call-slider .slider_box_wrap .slider_text .slider_text_tbl .slider_text_cel h2:focus,
+    .beer-lover-recipe-list h3:focus,
+    .beer-tip-trick-list .grid-block-title h3:focus,
+    .beer-video-section .beer-video-section-content-inner h3:focus,
+    .beer-video-section .beer-video-section-content-inner p:focus,
+    .beer-party-planning-list .grid-block-title h3:focus,
+    .beer-occasions-list .grid-block-title h3:focus {
+        border: 1px solid #68bdf9;
+    } */
+
+    a:focus {
+        outline: 1px solid #D06F1A;
+    }
+
+/*[ BRFP Ab Testing section css start here ] */
+.brfp-ab-test-v2 .single_beer_insp_sec,
+.brfp-ab-test-v1{
+	background:#f4f4f4;
+	/* margin-top: -60px;
+	padding-top: 120px; */
+}
+.brfp-ab-test-v1 .brfp-ab-test-v1-content .grid-block-inner{ 
+	background:#fff; 
+	border-radius:5px; 
+	overflow:hidden; 
+}
+.brfp-ab-test-v1 .brfp-ab-test-v1-content #grid-block .grid-block-inner .grid-image img{ 
+	max-width:100%; 
+}
+.brfp-ab-test-v1 .brfp-ab-test-v1-content .grid-block-inner .grid-content{
+	padding: 10px 30px 20px;
+}
+.brfp-ab-test-v1 .brfp-ab-test-v1-content .big-slide .grid-block-inner .grid-content{ 
+	padding: 10px 35px 25px;
+	/* min-height: 269px; */
+}
+.brfp-ab-test-v1 .brfp-ab-test-v1-content .grid-block-inner .grid-content h2{
+	font-size: 20px;
+	line-height: 24px;
+	font-family: Gotham-Bold;
+	color: #000;
+}
+.brfp-ab-test-v1 .brfp-ab-test-v1-content .grid-block-inner .grid-content p{
+	color: #000;
+	font-family: Gotham-Book;
+	line-height: 20px;
+}
+.brfp-ab-test-v1 .brfp-ab-test-v1-content{
+	margin: 0px 5px; 
+}
+.brfp-ab-test-v1 .brfp-ab-test-v1-content .col-sm-3{ 
+	padding-left: 10px; 
+	padding-right: 10px;
+	margin: 10px 0px; 
+}
+.brfp-ab-test-v1 .brfp-ab-test-v1-content .big-slide .grid-block-inner .grid-content p{ 
+	margin-bottom:10px;
+} 
+.brfp-ab-test-v1 .brfp-ab-test-v1-content .grid-tag-fav{ 
+    position: absolute;   
+    top:7px;
+    left: 14px;
+    width: calc(100% - 12px);
+}
+.brfp-ab-test-v1 .brfp-ab-test-v1-content .grid-tag-fav span{
+    color:#000;
+    background: #fff;
+    font-family: Gotham-Bold;
+    padding: 5px 8px;
+    font-size: 11px;
+    border-radius: 5px;
+    text-transform: uppercase;
+    line-height: 18px;
+}
+.brfp-ab-test-v1 .brfp-ab-test-v1-content .big-slide .grid-block-inner .grid-image img{
+    width: 100%;
+	max-width: 100%;
+}
+
+.brfp-ab-test-v1, 
+.brfp-ab-test-v2{ display: none; }
+
+/* [ Grey border 18 Nov CSS ] */
+.grey-top-boder{	
+	border: 1px solid #ddd;
+}
+
+.brfp-ab-test-v1 .grid-desc{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    position: relative;
+    border-top: 1px solid #d6d6d6;
+}
+.brfp-ab-test-v1 .grid-desc .recipe-cook {
+    width: 49%;
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 10px 0;
+    text-align: center;
+}
+.brfp-ab-test-v1 .grid-desc .recipe-serves {
+    width: 50%;
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 11px 11px 10px;
+    text-align: center;
+}
+.brfp-ab-test-v1 .grid-desc .recipe-cook span {
+    color: #000
+}
+
+.brfp-ab-test-v1 .grid-desc .recipe-cook strong {
+    font-family: Gotham-Bold;
+    font-size: 16px;
+    color: #000
+}
+
+.brfp-ab-test-v1 .grid-desc .recipe-cook img {
+    display: inline-block;
+    margin-right: 8px;
+    max-width: 20px
+}
+.brfp-ab-test-v1 .grid-desc .recipe-serves span {
+    color: #000
+}
+
+.brfp-ab-test-v1 .grid-desc .recipe-serves strong {
+    margin-right: 15px;
+    font-family: Gotham-Bold;
+    font-size: 16px;
+    color: #000
+}
+.brfp-ab-test-v1 .grid-desc .recipe-serves .icon {
+    margin-right: 10px;
+    display: inline-block;
+    margin-bottom: 3px;
+    width: 30px
+}
+.brfp-ab-test-v1 .grid-desc .recipe-cook:before{
+    content: "";
+    position: absolute;
+    width: 1px;
+    height: 100%;
+    background-color: #ddd;
+    right: 50%;
+	top: 0px;
+}
+.brfp-ab-test-v1 .brfp-ab-test-v1-content #grid-block:not(.big-slide) .grid-image{
+    height:184px !important;
+    overflow:hidden;
+} 
+.brfp-ab-test-v1 .brfp-ab-test-v1-content .grid-block-inner.recipe .grid-desc {
+    margin: 0px -15px; 
+}
+.brfp-ab-test-v1 .brfp-ab-test-v1-content .grid-block-inner .grid-content{ 
+	padding-bottom: 0; 
+}  
+.brfp-ab-test-v1 .brfp-ab-test-v1-content .grid-des.read_more_recipe_article {
+    padding-bottom: 27px;
+    display: block; 
+} 
+#brfp_ab_test_v2 .single_beer_insp_sec{
+	background-size: cover;
+}
+.brfp-ab-test-v1 .brfp-ab-test-v1-content .big-slide .grid-block-inner.recipe .grid-content.recipe-content{ padding-bottom:0px; }
+.spacer-79 {
+    height: 79px;
+    display: none;
+}
+.brfp-ab-test-v1 .grid-desc .recipe-cook span.icon{
+    display: inline-block;
+    width: 30px;
+}
+.brfp-ab-test-v1 .grid-desc .grid-desc-inner {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+@media(min-width:992px){
+	.brfp-ab-test-og .single_beer_insp_sec .pair_box .content_sec .link_dv .link-arrow,
+	.brfp-ab-test-v2 .single_beer_insp_sec .pair_box .content_sec .link_dv .link-arrow{
+		position: relative;
+		bottom: inherit;
+		right: inherit;
+		margin-top: 0px;
+	}
+	.brfp-ab-test-v2 .single_beer_insp_sec .pair_box .img_sec img,
+	.brfp-ab-test-og .single_beer_insp_sec .pair_box .img_sec img{
+		height: 100%;
+		object-fit: cover;
+		width: 100%;
+	}
+}
+@media(min-width:1600px){
+	.brfp-ab-test-v1 .brfp-ab-test-v1-content .grid-block-inner.recipe .grid-desc{ margin: 0px -20px; }
+}
+@media(min-width:1680px){
+	.brfp-ab-test-v1 .brfp-ab-test-v1-content .grid-block-inner.recipe .grid-desc{ 
+        margin: 0px -30px; 
+    }
+    .brfp-ab-test-v1 .brfp-ab-test-v1-content #grid-block:not(.big-slide) .grid-block-inner .grid-content{
+        display: flex;
+        flex-direction:column;
+        justify-content:space-between;
+    }
+}
+
+@media(min-width:1280px){
+	.brfp-ab-test-v1 .brfp-ab-test-v1-content .slick-list .slick-slide{
+		width: 25% !important;
+	}
+	.brfp-ab-test-v1 .brfp-ab-test-v1-content .slick-list .slick-slide:first-child{
+		width: 50% !important;
+	}
+
+    .brfp-ab-test-v1 .brfp-ab-test-v1-content .big-slide .grid-block-inner .grid-image img{ height:100%; object-fit: cover; }
+}
+@media(max-width:1600px){	
+	.brfp-ab-test-v1 .brfp-ab-test-v1-content .big-slide .grid-block-inner .grid-content p{
+		min-height: inherit;
+	}
+	.brfp-ab-test-v1 .brfp-ab-test-v1-content .grid-block-inner .grid-content h2{
+		margin-top: 10px;
+	}
+	.brfp-ab-test-v1 .brfp-ab-test-v1-content .big-slide .grid-block-inner .grid-content,
+	.brfp-ab-test-v1 .brfp-ab-test-v1-content .grid-block-inner .grid-content{
+		padding: 10px 20px 0px;
+	}
+	.brfp-ab-test-v1 .brfp-ab-test-v1-content .big-slide .grid-block-inner .grid-content .btn_bg,
+	.brfp-ab-test-v1 .brfp-ab-test-v1-content .grid-block-inner .grid-content .btn_bg{
+		margin-top: 5px;
+	}
+    .brfp-ab-test-v1 .brfp-ab-test-v1-content .grid-des.read_more_recipe_article {
+        padding-bottom: 0px;
+    }
+}
+@media(max-width:1440px){	
+	.brfp-ab-test-v1 .brfp-ab-test-v1-content .grid-block-inner .grid-content p{
+		font-size: 13px; 
+	}
+	.brfp-ab-test-v1 .brfp-ab-test-v1-content .big-slide .grid-block-inner .grid-content,
+	.brfp-ab-test-v1 .brfp-ab-test-v1-content .grid-block-inner .grid-content{
+		padding: 10px 15px 0px;
+	}
+}
+@media(max-width:1400px){	
+	.brfp-ab-test-v1 .brfp-ab-test-v1-content .grid-block-inner .grid-content p{
+		min-height: 60px;
+	}
+}
+@media(max-width:1280px){
+	.brfp-ab-test-v1 .brfp-ab-test-v1-content .big-slide .grid-block-inner .grid-content,
+	.brfp-ab-test-v1 .brfp-ab-test-v1-content .grid-block-inner .grid-content{
+		padding:10px 20px 0px;
+	}	
+	.brfp-ab-test-v1 .brfp-ab-test-v1-content .big-slide .grid-block-inner .grid-content p{
+		margin-bottom: 10px;
+	}
+
+    .brfp-ab-test-v1 .grid-desc .recipe-serves strong{
+		font-size: 15px;
+	}
+	.brfp-ab-test-v1 .brfp-ab-test-v1-content .grid-block-inner.recipe .grid-desc{
+		margin: 0px -20px;
+	}
+}
+@media(max-width:1279px){
+	.brfp-ab-test-v1 .brfp-ab-test-v1-content .grid-block-inner .grid-image {
+		height: 184px;
+		overflow: hidden;
+	}	
+	.brfp-ab-test-v1 .brfp-ab-test-v1-content .grid-block-inner .grid-content h2{
+		min-height: 72px;
+	}
+	.brfp-ab-test-v1 .brfp-ab-test-v1-content .big-slide .grid-block-inner .grid-content p{
+		min-height: 60px;
+	} 
+	.brfp-ab-test-v1 .brfp-ab-test-v1-content .grid-block-inner.recipe .grid-content {
+		position: relative;
+	} 	
+	.brfp-ab-test-v1 .brfp-ab-test-v1-content .grid-block-inner.recipe .grid-content .grid-desc {
+		position: absolute;
+		width: 100%;
+		bottom: 0px;
+	}
+    .brfp-ab-test-v1 .brfp-ab-test-v1-content .grid-des.read_more_recipe_article {
+        padding-bottom: 18px;
+    }
+}
+@media(max-width:1199px){	
+	.brfp-ab-test-v1 .brfp-ab-test-v1-content .grid-block-inner .grid-content h2{
+		min-height: 72px;
+	}
+}
+@media(min-width: 1024px) and (max-width: 1199px){
+	.brfp-ab-test-v1 .brfp-ab-test-v1-content .grid-des.read_more_recipe_article{ margin-bottom:0px; }   
+}  
+@media(max-width:1024px){
+	.brfp-ab-test-v1 .brfp-ab-test-v1-content .grid-block-inner .grid-content h2{
+		min-height: 72px;
+	}
+	.brfp-ab-test-v1 .brfp-ab-test-v1-content .big-slide .grid-block-inner .grid-content p{
+		margin-bottom: 10px;
+	}
+}
+@media(max-width:767px){
+	.brfp-ab-test-v1 .brfp-ab-test-v1-content .grid-block-inner .grid-content h2{ min-height: 92px; }
+}
+@media(max-width:600px){
+	.brfp-ab-test-v1 .brfp-ab-test-v1-content #grid-block .grid-block-inner .grid-image img{
+		width: 100%;
+	}
+	.brfp-ab-test-v1 .brfp-ab-test-v1-content .big-slide .grid-block-inner .grid-content{
+		min-height: inherit; 
+	}
+} 
+@media(max-width:480px){
+	.brfp-ab-test-v1 .brfp-ab-test-v1-content .grid-block-inner .grid-content h2{
+		min-height: 48px;
+	}
+	.brfp-ab-test-v1 .brfp-ab-test-v1-content .grid-block-inner .grid-content p{
+		min-height: 40px;
+	} 
+	.brfp-ab-test-v1 .brfp-ab-test-v1-content .big-slide .grid-block-inner .grid-content,
+	.brfp-ab-test-v1 .brfp-ab-test-v1-content .grid-block-inner .grid-content{
+		min-height: 200px;
+	}	
+	.brfp-ab-test-v1.common_section .head_sec h2{
+		max-width: 350px;
+		margin: auto;
+	}
+	.brfp-ab-test-v1.common_section .head_sec {
+		margin-bottom: 28px;
+	}
+	body .brfp-ab-test-v1.common_section .btn_bg{
+		font-family: Gotham-Black;
+	}
+	.brfp-ab-test-v1 .grid-desc .recipe-serves .icon{
+		margin-right: 6px;
+	}
+}
+@media(max-width:430px){ 
+	.brfp-ab-test-v1 .brfp-ab-test-v1-content .big-slide .grid-block-inner .grid-content,
+	.brfp-ab-test-v1 .brfp-ab-test-v1-content .grid-block-inner .grid-content{
+		min-height: 235px;
+	}
+	.brfp-ab-test-v1 .brfp-ab-test-v1-content .grid-block-inner .grid-content h2{
+		min-height: 72px;
+	}
+	.brfp-ab-test-v1 .brfp-ab-test-v1-content .grid-block-inner .grid-content p{
+		min-height: 60px;
+	}
+	.brfp-ab-test-v1.common_section .head_sec h2{
+		max-width: 290px;
+	}
+}
+@media(max-width:320px){
+	.brfp-ab-test-v1 .brfp-ab-test-v1-content .grid-block-inner .grid-content h2{
+		font-size:17px;
+	}
+	.brfp-ab-test-v1 .brfp-ab-test-v1-content .col-sm-3{
+		padding-left: 5px;
+		padding-right: 5px;
+	}
+	.brfp-ab-test-v2 .single_beer_insp_sec .pair_box .content_sec {
+		min-height: 230px;
+	}
+}
+/*[ BRFP Ab Testing section css end here ] */

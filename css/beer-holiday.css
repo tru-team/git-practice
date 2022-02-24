@@ -1,0 +1,1299 @@
+.beer-holiday-wrapper {
+    max-width: 1920px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.holiday-slider-ulitmate .slider_text {
+    position: relative;
+}
+
+.holiday-slider-ulitmate .slick-arrow.slick-prev {
+    background: url(../images/prev-dark.svg);
+    background-repeat: no-repeat;
+}
+
+.holiday-slider-ulitmate .slick-arrow.slick-next {
+    background: url(../images/next-dark.svg);
+    background-repeat: no-repeat;
+}
+
+.holiday-party-slider .slick-arrow.slick-prev {
+    background: url(../images/prev-dark.svg);
+    background-repeat: no-repeat;
+}
+
+.holiday-party-slider .slick-arrow.slick-next {
+    background: url(../images/next-dark.svg);
+    background-repeat: no-repeat;
+}
+
+.holiday-recipe-slider .slick-arrow.slick-prev {
+    background: url(../images/prev-dark.svg);
+    background-repeat: no-repeat;
+}
+
+.holiday-recipe-slider .slick-arrow.slick-next {
+    background: url(../images/next-dark.svg);
+    background-repeat: no-repeat;
+}
+
+.holiday-slider-ulitmate .slider_box_wrap {
+    display: table;
+    width: 100%;
+}
+
+.holiday-slider-ulitmate .slider_box_inner {
+    display: table-cell;
+    vertical-align: middle;
+    padding: 80px 0px;
+}
+
+.holiday-slider-ulitmate .slider_img img {
+    float: right;
+}
+
+.holiday-slider .holiday-slider-inner .slider_text .slider_text_tbl .slider_text_cel h2 {
+    font-size: 120px;
+    font-family: 'Gotham-Black';
+    text-transform: uppercase;
+    line-height: 100px;
+    margin-top: 60px;
+    text-shadow: 12px 12px 20px #0000001a;
+    -ms-text-shadow: 12px 12px 20px #0000001a;
+    -moz-text-shadow: 12px 12px 20px #0000001a;
+}
+
+.holiday-slider .holiday-slider-inner .slider_text .slider_text_tbl .slider_text_cel p {
+    font-size: 30px;
+    font-family: 'Gotham-Bold';
+    line-height: 44px;
+    margin-top: 10px;
+    text-shadow: 12px 12px 20px #0000001a;
+    -ms-text-shadow: 12px 12px 20px #0000001a;
+    -moz-text-shadow: 12px 12px 20px #0000001a;
+}
+
+.holiday-slider-ulitmate .slider_box_wrap .slider_text .slider_text_tbl .slider_text_cel {
+    text-align: left;
+    padding-left: 5%;
+}
+
+.holiday-ultimate-gift-inner {
+    display: table;
+    width: 100%;
+}
+
+.container-small {
+    width: 100%;
+    max-width: 1370px;
+    margin: auto;
+    display: table;
+}
+
+.holiday-ultimate-gift-block {
+    display: table;
+    width: 100%;
+}
+
+.ultimate-gift-left {
+    padding: 0 70px;
+    border: 1px solid #d6d6d6;
+    border-radius: 10px 0px 0px 10px;
+    border-right: 0px;
+    background: #fff;
+    height: 100%;
+}
+
+.ultimate-table {
+    display: table;
+    height: 100%;
+}
+
+.ultimate-tablecell {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.beer-holiday-wrapper .holiday-slider-ulitmate {
+    background-repeat: no-repeat;
+}
+.holiday-ultimate-gift-block-title {
+    font-size: 36px;
+    line-height: 48px;
+    margin-bottom: 30px;
+    font-family: "Leviathan-HTF-Black";
+}
+
+.holiday-ultimate-gift-block-button a {
+    background: #f3b233;
+    color: #000;
+    font-size: 18px;
+    font-family: 'Gotham-Bold';
+    text-transform: uppercase;
+    max-width: 200px;
+    display: inline-block;
+    width: 100%;
+    padding: 17px 0px;
+    text-align: center;
+    border-radius: 5px;
+    margin-top: 40px;
+}
+
+.pull-md-left {
+    float: left;
+}
+
+.pull-md-right {
+    float: right;
+}
+
+
+/* holiday card style*/
+
+.holiday-card-section {
+    margin: 50px 0px;
+    width: 100%;
+    display: inline-block;
+}
+
+.card_section_hoilday .card_section_step {
+    display: none;
+}
+
+.card_section_hoilday .card_section_step li {
+    list-style: none;
+}
+
+.card_section_hoilday #progressbar {
+    margin-bottom: 0;
+    overflow: visible;
+    counter-reset: step;
+    background: lightgrey;
+    /* padding: 14px; */
+    font-size: 18px;
+    /* margin-top: 30px; */
+    padding-left: 0;
+    text-align: center;
+}
+
+.card_section_hoilday .progress_bar_line {
+    display: table;
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+}
+
+.card_section_hoilday .progress_bar_line li {
+    width: 25%;
+    position: relative;
+    display: table-cell;
+}
+
+.card_section_hoilday .progress_bar_line .active_line:before {
+    content: '';
+    position: absolute;
+    width: 100%;
+    bottom: -5px;
+    left: 0px;
+    height: 5px;
+    background: #F5A81C;
+    border-radius: 0px;
+}
+
+.card_section_hoilday .progress_bar_line .active_line:after {
+    width: 15px;
+    height: 15px;
+    content: '';
+    position: absolute;
+    bottom: -10px;
+    background: #f1a51c;
+    top: auto;
+    left: auto;
+    right: 0;
+    z-index: 1;
+    border-radius: 50%;
+}
+
+.card_section_hoilday #progressbar .active {
+    border-bottom: 0px;
+    position: relative;
+}
+
+.card_section_hoilday #progressbar li {
+    background: #f4f4f4;
+    height: 90px;
+}
+
+.card_section_hoilday input.back_hide {
+    background-color: #d6d6d6!important;
+    color: #fff!important;
+    opacity: 1;
+}
+
+.card_section_hoilday .disptable {
+    width: 100%;
+    height: 100%;
+    display: table;
+}
+
+.card_section_hoilday .disptablecell {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.card_section_hoilday .action-button {
+    width: 140px;
+    background: #F5A81C;
+    font-weight: bold;
+    color: #060101;
+    border: 0 none;
+    border-radius: 1px;
+    cursor: pointer;
+    padding: 12px 10px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-family: "Gotham-Bold";
+    border-radius: 3px;
+    height: auto;
+}
+
+.card_section_hoilday .action-button:hover,
+.card_section_hoilday .action-button:focus {
+    box-shadow: 0 0 0 2px white, 0 0 0 3px #F5A81C;
+}
+
+.card_step_first .selected img {
+    border: 6px solid #F5A81C;
+}
+
+.card_section_hoilday .selected h3 {
+    color: #f5a81c;
+}
+
+.card_section_hoilday .image_color {
+    display: none;
+}
+
+.card_section_hoilday .google_captcha {
+    display: table;
+}
+
+.card_section_hoilday .holiday-card-intro {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.card_section_hoilday .holiday-card-intro .g-recaptcha {
+    margin-bottom: 0px;
+}
+
+.card_section_hoilday .holiday-card-intro h2 {
+    font-size: 36px;
+    line-height: 48px;
+    margin-top: 0px;
+    margin-bottom: 30px;
+    font-family: "Leviathan-HTF-Black";
+    text-align: left;
+}
+
+.card_section_hoilday .holiday-card-intro p {
+    margin-bottom: 30px;
+    font-size: 16px;
+    color: #000;
+}
+
+.card_section_hoilday .make_card_intro {
+    background: #f4b234;
+    color: #000;
+    text-transform: uppercase;
+    font-family: "Gotham-Bold";
+    font-size: 18px;
+    border-radius: 5px;
+    max-width: 304px;
+    width: 100%;
+    display: inline-block;
+    padding: 17px 0px;
+    margin-top: 30px;
+    text-align: center;
+    cursor: pointer;
+    position: relative;
+}
+
+.card_section_hoilday .make_card_intro span {
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.card_section_hoilday .card_heading_section h2 {
+    font-size: 36px;
+    line-height: 48px;
+    margin-top: 0px;
+    margin-bottom: 50px;
+    font-family: "Leviathan-HTF-Black";
+    text-align: center;
+}
+
+.card_section_hoilday .card_heading_section h4 {
+    font-family: "Gotham-Bold";
+    font-size: 34px;
+    line-height: 20px;
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.card_step_first .card_bckg {
+    text-align: center;
+}
+
+.card_section_hoilday h3 {
+    font-family: "Gotham-Bold";
+    font-size: 30px;
+    text-align: center;
+    margin: 0px;
+    padding: 40px 0px;
+}
+
+.card_step_second .card_text_ct img {
+    width: 100%;
+}
+
+.card_step_third .card_icon {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+}
+
+.card_step_third .card_icon img {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.g-recaptcha>div {
+    box-shadow: 0px 3px 46px 0px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    border: 0px!important;
+}
+
+.rc-anchor-light {
+    border: 0px!important;
+}
+
+.rc-anchor {
+    box-shadow: 0px;
+}
+
+img#final_img {
+    max-width: 100%;
+    height: 300px;
+    width: 300px;
+}
+
+#card_mail img {
+    width: 55px;
+    margin-right: 15px;
+}
+
+#card_twitter img {
+    width: 55px;
+    margin-right: 15px;
+}
+
+#card_facebook img {
+    width: 55px;
+    margin-right: 15px;
+}
+
+#card_download img {
+    width: 55px;
+    margin-right: 15px;
+}
+
+.card_step_final h5 {
+    font-family: "Leviathan-HTF-Black-Italic";
+    font-size: 34px;
+    margin-bottom: 30px;
+    margin-top: 0px;
+}
+
+.card_step_final p {
+    font-family: "Gotham-Book";
+    font-size: 22px;
+    color: #000;
+    margin-bottom: 30px;
+}
+
+.card_section_hoilday .container-card {
+    max-width: 950px;
+}
+
+.card_bckg img {
+    width: 100%;
+}
+
+.holiday-card-share {
+    margin-bottom: 80px;
+}
+
+
+/* end holiday card style*/
+
+.beer-holiday-call {
+    margin-top: 80px;
+}
+
+.beer-holiday-call .holiday-call-inner {
+    background-size: cover;
+    padding: 60px 0px;
+    width: 100%;
+}
+
+.holiday-call-container {
+    text-align: center;
+    max-width: 735px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.beer-holiday-call .holiday-call-inner .holiday-call-title h2 {
+    font-size: 36px;
+    line-height: 48px;
+    margin-top: 0px;
+    margin-bottom: 30px;
+    font-family: "Leviathan-HTF-Black";
+}
+
+.beer-holiday-call .holiday-call-inner .holiday-call-description p {
+    font-family: "Gotham-Book";
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.call-btn {
+    background: #f4b234;
+    color: #000;
+    text-transform: uppercase;
+    font-family: "Gotham-Bold";
+    font-size: 18px;
+    border-radius: 5px;
+    max-width: 310px;
+    width: 100%;
+    display: inline-block;
+    padding: 17px 0px;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.holiday-download-section .holiday-call-inner {
+    padding: 80px 0px;
+    background-size: cover;
+    background-position: -29% center;
+}
+
+.holiday-download-section .holiday-call-inner h2 {
+    font-size: 36px;
+    line-height: 38px;
+    margin-bottom: 35px;
+    font-family: "Leviathan-HTF-Black";
+    color: #000;
+    margin-top: 0px;
+}
+
+.holiday-download-section .holiday-call-description p {
+    color: #000;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.btn-download {
+    background: #f4b234;
+    color: #000;
+    text-transform: uppercase;
+    font-family: "Gotham-Bold";
+    font-size: 18px;
+    border-radius: 5px;
+    max-width: 190px;
+    width: 100%;
+    display: inline-block;
+    padding: 17px 0px;
+    margin-top: 35px;
+}
+
+.grid-block-wrap {
+    margin-bottom: 0px;
+}
+
+
+/*Holiday Party Section*/
+
+.holiday-party {
+    padding: 50px 0px;
+}
+
+.holiday-party h3 {
+    font-size: 36px;
+    line-height: 42px;
+    margin-bottom: 50px;
+    font-family: "Leviathan-HTF-Black";
+    color: #010202;
+    text-align: center;
+    margin-top: 0px;
+}
+
+.holiday-party .holiday-party-title h2 {
+    font-size: 20px;
+    color: #010202;
+    font-family: "Gotham-Bold";
+    margin: 0;
+    padding-bottom: 10px;
+    line-height: 24px;
+}
+
+.holiday-party .holiday-party-des p {
+    font-size: 14px;
+    color: #010202;
+    line-height: 20px;
+    margin-bottom: 30px;
+}
+
+.holiday-party .grid-btn {
+    text-align: left;
+    /* margin-top: 30px; */
+}
+
+.holiday-party .more-btn {
+    font-size: 10px;
+    font-family: "Gotham-Bold";
+    color: #000;
+    text-transform: uppercase;
+    border: 0px;
+    background: transparent;
+    padding-left: 0px;
+}
+
+.holiday-party .more-btn:after {
+    content: url(../images/arrow-orange.svg);
+    position: relative;
+    right: -3px;
+    top: 2px;
+}
+
+.holiday-party-slider {
+    padding: 0px 80px;
+}
+
+.holiday-recipe-slider {
+    padding: 0px 80px;
+}
+.holiday-party-slider .slick-arrow, .holiday-recipe-slider .slick-arrow {
+	top: calc(50% - 70px);
+}
+.grid-block-slider .slick-arrow {
+	top: calc(50% - 60px);
+} 
+
+
+/*Close Holiday Party Section*/
+
+
+/* Holiday Recipe Section*/
+
+.holiday-recipe-section {}
+
+.holiday-recipe-secton-inner {
+    background-size: cover;
+    padding-bottom: 50px;
+}
+
+.holiday-recipe-secton-inner h3 {
+    font-size: 36px;
+    line-height: 42px;
+    margin-bottom: 50px;
+    font-family: "Leviathan-HTF-Black";
+    color: #010202;
+    text-align: center;
+    margin-top: 0px;
+}
+
+.holiday-recipe-secton-inner .grid-btn {
+    text-align: left;
+    margin-top: 30px;
+}
+
+.holiday-recipe-secton-inner .more-btn {
+    font-size: 10px;
+    font-family: "Gotham-Bold";
+    color: #000;
+    text-transform: uppercase;
+    border: 0px;
+    background: transparent;
+    padding-left: 0px;
+}
+
+.holiday-recipe-secton-inner .more-btn:after {
+    content: url(../images/arrow-orange.svg);
+    position: relative;
+    right: -3px;
+    top: 2px;
+}
+
+.holiday-recipe-secton-inner .holiday-recipe-title h2 {
+    font-size: 20px;
+    color: #010202;
+    font-family: "Gotham-Bold";
+    margin: 0;
+    padding-bottom: 10px;
+    line-height: 24px;
+}
+
+.holiday-recipe-secton-inner .holiday-recipe-des p {
+    font-size: 14px;
+    color: #010202;
+    line-height: 20px;
+    margin-bottom: 30px;
+}
+
+
+/*Close Holiday Recipe*/
+
+.beer-holiday-appstore {
+    padding-top: 70px;
+    padding-bottom: 20px;
+}
+
+@media screen and (max-width:1600px) and (min-width:1400px)
+/*Medium Screen css*/
+
+{
+    .holiday-slider .holiday-slider-inner .slider_text .slider_text_tbl .slider_text_cel h2 {
+        font-size: 110px;
+        line-height: 90px;
+        margin-top: 90px;
+    }
+    .beer-holiday-call .holiday-call-inner {
+        background-size: cover;
+        padding: 50px 0px;
+        width: 100%;
+    }
+    .beer-holiday-call .holiday-call-inner .holiday-call-title h2 {
+        font-size: 32px;
+        line-height: 42px;
+    }
+    .holiday-download-section .holiday-call-inner {
+        padding: 60px 0px;
+    }
+}
+
+@media screen and (max-width:1399px) and (min-width:1300px)
+/*Normal Screen*/
+
+{
+    .holiday-slider .holiday-slider-inner .slider_text .slider_text_tbl .slider_text_cel h2 {
+        font-size: 100px;
+        line-height: 85px;
+        margin-top: 90px;
+    }
+    .beer-holiday-call .holiday-call-inner {
+        background-size: cover;
+        padding: 50px 0px;
+        width: 100%;
+    }
+    .beer-holiday-call .holiday-call-inner .holiday-call-title h2 {
+        font-size: 32px;
+        line-height: 42px;
+        margin-bottom: 25px;
+    }
+    .call-btn {
+        margin-top: 25px;
+    }
+    .holiday-download-section .holiday-call-inner {
+        padding: 60px 0px;
+    }
+    .holiday-recipe-secton-inner {
+        padding: 0px;
+        padding-bottom: 80px;
+    }
+    .card_section_hoilday h3 {
+        font-size: 28px;
+        padding: 35px 0px;
+    }
+    .card_step_final p {
+        font-size: 22px;
+    }
+    .holiday-party .holiday-party-title h2,
+    .holiday-recipe-secton-inner .holiday-recipe-title h2 {
+        font-size: 18px;
+        line-height: 20px;
+    }
+}
+
+@media screen and (max-width:1299px) and (min-width:1200px) {
+    /*small screen*/
+    .holiday-slider .holiday-slider-inner .slider_text .slider_text_tbl .slider_text_cel h2 {
+        font-size: 95px;
+        line-height: 75px;
+        margin-top: 90px;
+    }
+    .beer-holiday-call .holiday-call-inner {
+        padding: 45px 0px;
+    }
+    .beer-holiday-call .holiday-call-inner .holiday-call-title h2 {
+        font-size: 32px;
+        line-height: 38px;
+        margin-bottom: 25px;
+    }
+    .call-btn {
+        margin-top: 25px;
+    }
+    .holiday-recipe-secton-inner {
+        padding: 0px;
+        padding-bottom: 80px;
+    }
+    .holiday-download-section .holiday-call-inner {
+        padding: 60px 0px;
+    }
+    .card_step_final p {
+        font-size: 22px;
+    }
+}
+
+@media screen and (max-width:1199px) and (min-width:992px) {
+    .holiday-slider .holiday-slider-inner .slider_text .slider_text_tbl .slider_text_cel h2 {
+        font-size: 70px;
+        font-family: 'Gotham-Black';
+        text-transform: uppercase;
+        line-height: 60px;
+        margin-top: 125px;
+    }
+    .holiday-ultimate-gift-block-title {
+        font-size: 28px;
+        line-height: 30px;
+        margin-bottom: 20px;
+    }
+    .holiday-ultimate-gift-block-button a {
+        margin-top: 24px;
+        padding: 15px 0px;
+    }
+    .beer-holiday-call .holiday-call-inner {
+        padding: 50px 0px;
+    }
+    .holiday-download-section .holiday-call-inner {
+        padding: 50px 0px;
+        background-position: -6% center;
+    }
+    .holiday-party {
+        padding: 50px 0px;
+    }
+    .holiday-party h3 {
+        margin-top: 0px;
+        margin-bottom: 50px;
+        font-size: 32px;
+    }
+    .slick-dots li button {
+        margin-bottom: 0px;
+    }
+    .holiday-recipe-secton-inner {
+        padding-bottom: 50px;
+    }
+    .holiday-recipe-secton-inner h3 {
+        margin-top: 0px;
+        margin-bottom: 50px;
+        font-size: 32px;
+    }
+    .card_section_hoilday .holiday-card-intro h2 {
+        font-size: 32px;
+        line-height: 38px;
+        margin-bottom: 25px;
+    }
+    .card_section_hoilday .holiday-card-intro p {
+        margin-bottom: 25px;
+        font-size: 15px;
+    }
+    .card_section_hoilday .make_card_intro {
+        margin-top: 25px;
+    }
+    .card_step_first .card_bckg img {
+        width: 100%;
+    }
+    .card_section_hoilday .card_heading_section h2 {
+        margin-bottom: 40px;
+    }
+    .card_section_hoilday .card_heading_section h4 {
+        margin-bottom: 70px;
+    }
+    .card_step_first .card_bckg h2 {
+        padding: 40px 0px;
+    }
+    /* .card_step_second .card_text_ct {
+        padding-top: 50px;
+        padding-bottom: 90px;
+    } */
+    .card_section_hoilday h3 {
+        font-size: 28px;
+        padding: 40px 0px;
+    }
+    .card_step_final h5 {
+        font-size: 28px;
+        margin-bottom: 30px;
+    }
+    .card_step_final p {
+        font-size: 22px;
+        margin-bottom: 30px;
+    }
+    .holiday-card-share {
+        margin-bottom: 50px;
+        clear: both;
+        width: 100%;
+        display: inline-block;
+    }
+}
+
+@media screen and (max-width: 1199px) {
+    .holiday-party-slider,
+    .holiday-recipe-slider {
+        padding: 0px 55px;
+    }
+    .holiday-recipe-slider .slick-arrow.slick-prev,
+    .holiday-recipe-slider .slick-arrow.slick-next,
+    .holiday-party-slider .slick-arrow.slick-prev,
+    .holiday-party-slider .slick-arrow.slick-next {
+        background-size: 100% auto;
+    }
+    .holiday-recipe-slider .slick-arrow,
+    .holiday-party-slider .slick-arrow {
+        width: 50px;
+        height: 50px;
+    }
+    .holiday-recipe-slider .slick-arrow.slick-prev,
+    .holiday-party-slider .slick-arrow.slick-prev {
+        left: 0;
+    }
+    .holiday-recipe-slider .slick-arrow.slick-next,
+    .holiday-party-slider .slick-arrow.slick-next {
+        right: 0;
+    }
+}
+@media screen and (max-width: 1024px) {
+    .holiday-party-slider,
+    .holiday-recipe-slider {
+        padding: 0px 50px;
+    }
+    .holiday-recipe-slider .slick-arrow,
+    .holiday-party-slider .slick-arrow {
+        width: 40px;
+        height: 40px;
+    }
+    .holiday-party .holiday-party-title h2 {
+        font-size: 18px;
+        line-height: 20px;
+    }
+}
+
+@media screen and (max-width: 991px) and (min-width: 768px) {
+    .holiday-slider .holiday-slider-inner .slider_text .slider_text_tbl .slider_text_cel h2 {
+        font-size: 58px;
+        line-height: 50px;
+        margin-top: 145px;
+    }
+    .holiday-slider-ulitmate .slider_box_wrap .slider_text .slider_text_tbl .slider_text_cel {
+        padding-left: 0%;
+    }
+    .holiday-slider-ulitmate .slider_box_inner {
+        display: table-cell;
+        vertical-align: middle;
+        padding: 60px 0px;
+        padding-bottom: 0px;
+    }
+    .slick-dots li button {
+        margin-top: 30px;
+    }
+    .ultimate-gift-left {
+        padding: 0px 30px;
+    }
+    .holiday-ultimate-gift-block-title {
+        font-size: 20px;
+        line-height: 24px;
+        margin-bottom: 10px;
+        margin-top: 5px;
+    }
+    .holiday-ultimate-gift-block-button a {
+        margin-top: 10px;
+        font-size: 12px;
+        max-width: 135px;
+        padding: 10px 0px;
+    }
+    .holiday-download-section .holiday-call-inner {
+        padding: 40px 0px;
+        background-position: -6% center;
+    }
+    .beer-holiday-call .holiday-call-inner .holiday-call-title h2 {
+        font-size: 24px;
+        line-height: 30px;
+        margin-bottom: 20px;
+    }
+    .call-btn {
+        font-size: 14px;
+        max-width: 250px;
+        padding: 12px 0px;
+        margin-top: 20px;
+    }
+    .holiday-download-section .holiday-call-inner {
+        padding: 40px 0px;
+    }
+    .holiday-download-section .holiday-call-inner h2 {
+        font-size: 24px;
+        line-height: 30px;
+        margin-bottom: 20px;
+    }
+    .btn-download {
+        font-size: 14px;
+        padding: 12px 0px;
+        margin-top: 20px;
+        max-width: 150px;
+    }
+    .holiday-party {
+        padding: 40px 0px;
+    }
+    .holiday-recipe-secton-inner {
+        padding-bottom: 40px;
+    }
+    .holiday-party h3,
+    .holiday-recipe-secton-inner h3 {
+        font-size: 24px;
+        line-height: 30px;
+        margin-bottom: 40px;
+    }
+    .beer-holiday-appstore {
+        padding-top: 50px;
+        padding-bottom: 0px;
+    }
+    .beer-holiday-call {
+        margin-top: 30px;
+    }
+    .card_section_hoilday .holiday-card-intro h2 {
+        font-size: 20px;
+        line-height: 24px;
+        margin-bottom: 20px;
+    }
+    .card_section_hoilday .holiday-card-intro p {
+        font-size: 14px;
+        margin-bottom: 20px;
+    }
+    .card_section_hoilday .make_card_intro {
+        font-size: 14px;
+        max-width: 225px;
+        padding: 12px 0px;
+        margin-top: 20px;
+    }
+    .card_step_first .card_bckg img {
+        width: 100%;
+    }
+    .card_section_hoilday .card_heading_section h2 {
+        font-size: 30px;
+        line-height: 30px;
+        margin-bottom: 35px;
+    }
+    .card_section_hoilday .card_heading_section h4 {
+        font-size: 28px;
+        line-height: 16px;
+        margin-bottom: 50px;
+    }
+    .holiday-card-section {
+        margin: 40px 0px;
+    }
+    .card_section_hoilday h3 {
+        font-size: 24px;
+        margin: 0px;
+        padding: 30px 0px;
+    }
+    .card_section_hoilday h3 {
+        font-size: 28px;
+        padding: 40px 0px;
+    }
+    .card_step_final h5 {
+        font-size: 28px;
+        margin-bottom: 30px;
+    }
+    .card_step_final p {
+        font-size: 22px;
+        margin-bottom: 30px;
+    }
+    .holiday-card-share {
+        margin-bottom: 50px;
+        clear: both;
+        width: 100%;
+        display: inline-block;
+    }
+    .holiday-recipe-secton-inner .holiday-recipe-title h2 {
+        font-size: 18px;
+        line-height: 22px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    body:before {
+       /* height: 95px;*/
+    }
+    .holiday-ultimate-gift-block-inner {
+        text-align: center;
+    }
+    .slider_box_wrap .slider_img {
+        text-align: center;
+    }
+    .holiday-slider-ulitmate .slider_img img {
+        float: none;
+        display: block;
+        margin: auto;
+    }
+    .holiday-slider .holiday-slider-inner .slider_text .slider_text_tbl .slider_text_cel h2 {
+        font-size: 40px;
+        line-height: 37px;
+        margin-top: 25px;
+    }
+    .holiday-slider-ulitmate .slider_box_inner {
+        padding: 80px 0px 60px;
+    }
+    .holiday-slider-ulitmate .slider_box_wrap .slider_text .slider_text_tbl .slider_text_cel {
+        padding: 0%;
+        text-align: center;
+    }
+    .holiday-slider .holiday-slider-inner .slider_text .slider_text_tbl .slider_text_cel p {
+        font-size: 22px;
+        line-height: 20px;
+        margin-top: 12px;
+    }
+    .holiday-ultimate-gift-block-title {
+        margin-top: 15px;
+        font-size: 20px;
+        line-height: 24px;
+        margin-bottom: 15px;
+        font-family: "Leviathan-HTF-Black";
+    }
+    .holiday-ultimate-gift-block-button {
+        margin-bottom: 15px;
+    }
+    .holiday-ultimate-gift-block-button a {
+        font-size: 14px;
+        max-width: 160px;
+        padding: 14px 0px;
+        margin-top: 15px;
+    }
+    .ultimate-gift-left {
+        padding: 0 30px;
+        margin-bottom: 10px;
+        border-radius: 0px;
+    }
+    .holiday-ultimate-gift-block .pull-md-right {
+        float: none;
+    }
+    .holiday-ultimate-gift-block .holiday-ultimate-gift-image-inner img {
+        width: 100%;
+    }
+    .beer-holiday-call {
+        margin-top: 0px;
+    }
+    .beer-holiday-call .holiday-call-inner .holiday-call-title h2 {
+        font-size: 20px;
+        line-height: 24px;
+        margin-bottom: 15px;
+    }
+    .beer-holiday-call .holiday-call-inner .holiday-call-description p {
+        font-size: 14px;
+        line-height: 18px;
+        padding: 0 30px;
+    }
+    .call-btn {
+        font-size: 14px;
+        max-width: 260px;
+        padding: 14px 0px;
+        margin-top: 15px;
+    }
+    .beer-holiday-call .holiday-call-inner {
+        padding: 40px 0px;
+        background-size: cover!important;
+    }
+    .holiday-download-section .holiday-call-inner {
+        padding: 30px 0px;
+        background-attachment: scroll;
+        background-position: center center;
+    }
+    .holiday-download-section .holiday-call-inner h2 {
+        font-size: 20px;
+        line-height: 24px;
+        margin-bottom: 15px;
+    }
+    .holiday-download-section .holiday-call-description p {
+        line-height: 18px;
+        font-size: 14px;
+        padding: 0px 20px;
+    }
+    .btn-download {
+        font-size: 14px;
+        max-width: 160px;
+        padding: 14px 0px;
+        margin-top: 15px;
+    }
+    .holiday-party h3 {
+        font-size: 22px;
+        line-height: 28px;
+        margin-bottom: 30px;
+    }
+    .holiday-party {
+        padding: 30px 0px;
+    }
+    .holiday-recipe-secton-inner {
+        padding-bottom: 30px;
+    }
+    .holiday-recipe-secton-inner h3 {
+        font-size: 20px;
+        line-height: 24px;
+        margin-bottom: 30px;
+        margin-top: 0px;
+    }
+    .holiday-recipe-secton-inner .holiday-recipe-title h2 {
+        font-size: 18px;
+    }
+    .holiday-party .holiday-party-title h2 {
+        font-size: 18px;
+    }
+    .grid-block-wrap .grid-content .grid-title {
+        margin-bottom: 10px;
+    }
+    .holiday-party .holiday-party-des p {
+        margin-bottom: 15px;
+    }
+    .holiday-party .grid-btn {
+        margin-top: 15px;
+    }
+    .beer-holiday-appstore {
+        padding-top: 40px;
+        padding-bottom: 0px;
+    }
+    .grid-block-wrap .grid-content {
+        margin-bottom: 0px;
+    }
+    .beer-holiday-appstore section.row-sec.page_section_appstore.homepage-app-sec {
+        margin-bottom: 20px;
+    }
+    .card_section_hoilday .holiday-card-intro h2 {
+        font-size: 20px;
+        line-height: 24px;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+    .card_section_hoilday .holiday-card-intro p {
+        font-size: 14px;
+        margin-bottom: 20px;
+    }
+    .card_section_hoilday .make_card_intro {
+        font-size: 14px;
+        max-width: 250px;
+        padding: 16px 0px;
+        margin-top: 10px;
+    }
+    .card_step_first .card_bckg img {
+        width: 100%;
+    }
+    .holiday-card-section {
+        margin: 40px 0px;
+    }
+    .card_section_hoilday .card_heading_section h2 {
+        font-size: 20px;
+        line-height: 28px;
+        margin-bottom: 30px;
+    }
+    .card_section_hoilday .card_heading_section h4 {
+        font-size: 18px;
+        line-height: 18px;
+        margin-bottom: 30px;
+        margin-top: 0px;
+    }
+    .card_section_hoilday h3 {
+        font-size: 22px;
+        padding: 30px 0px;
+    }
+    .card_section_hoilday .action-button {
+        width: 95px;
+        font-size: 10px;
+    }
+    .stepsbysteps .disptablecell {
+        font-size: 10px;
+    }
+    .card_icon_main {
+        margin-bottom: 0px;
+    }
+    .card_step_final h5 {
+        font-size: 20px;
+        margin-bottom: 20px;
+        margin-top: 20px;
+    }
+    .card_step_final p {
+        font-size: 15px;
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+    #card_mail img {
+        width: 40px;
+        margin-right: 15px;
+    }
+    #card_twitter img {
+        width: 40px;
+        margin-right: 15px;
+    }
+    #card_facebook img {
+        width: 40px;
+        margin-right: 15px;
+    }
+    #card_download img {
+        width: 40px;
+        margin-right: 15px;
+    }
+    .holiday-card-share {
+        margin-bottom: 50px;
+    }
+    .holiday-party-slider,
+    .holiday-recipe-slider {
+        padding: 0px 10px;
+    }
+    .holiday-ultimate-gift-image {
+        margin-top: 30px;
+    }
+    .slider_img img {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .holiday-card-intro {
+        text-align: center;
+    }
+    .holiday-recipe-slider .slick-dots {
+        margin-top: 25px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+
+    .holiday-slider-ulitmate .slider_box_inner {
+        padding: 100px 0px 60px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .holiday-slider-ulitmate .slider_box_inner {
+        padding: 100px 0px;
+    }
+    .holiday-ultimate-gift-block-title,
+    .beer-holiday-call .holiday-call-inner .holiday-call-title h2,
+    .card_section_hoilday .holiday-card-intro h2,
+    .holiday-download-section .holiday-call-inner h2,
+    .holiday-party h3,
+    .holiday-recipe-secton-inner h3 {
+        font-size: 18px;
+    }
+    .holiday-party h3 {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+}
