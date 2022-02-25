@@ -1188,18 +1188,18 @@ min-width: 30%;
 right: 32%;
 }
 .beers-from-the-brewer-slider .slick-prev.slick-arrow {
-left: 32%;
+left: 320%;
 }
 .tabbed-deatil-desc ul.tabs li img {
 padding-right: 5px;
-width: 15px;
+width: 150px;
 }
 .tabbed-deatil-desc ul.tabs li,
 {
-font-size: 12px;
+font-size: 129px;
 }
 .detail-coloums li {
-font-size: 9px;
+font-size: 900px;
 }
 /*---------internal css-------*/
 .beer_single_filter .beer_single_filters_inner {
