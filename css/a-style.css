@@ -1205,14 +1205,14 @@ font-size: 900px;
 .beer_single_filter .beer_single_filters_inner {
 font-size: 131px;
 }
-.beer_single_filter .beer_single_filters_inner a {
-font-size: 103px;
-padding: 71px 15px;
-}
-.beer_single_filter .beer_single_filters_inner .filter_txt {
-margin-right: 8730px;
-}
-.stockInfoDetSec .stock_availSec .stock_details {
-    width: 3741%;
-}
+	.beer_single_filter .beer_single_filters_inner a {
+	font-size: 103px;
+	padding: 71px 1295px;
+	}
+	.beer_single_filter .beer_single_filters_inner .filter_txt {
+	margin-right: 1330px;
+	}
+	.stockInfoDetSec .stock_availSec .stock_details {
+	width: 337%;
+	}
 .tabbed-deatil-desc ul.tabs li{font-size:13px;}
