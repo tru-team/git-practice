@@ -1207,6 +1207,7 @@ font-size: 131px;
 }
 	.beer_single_filter .beer_single_filters_inner a {
 	font-size: 103px;
+<<<<<<< HEAD
 	padding: 71px 12395px;
 	}
 	.beer_single_filter .beer_single_filters_inner .filter_txt {
@@ -1214,5 +1215,14 @@ font-size: 131px;
 	}
 	.stockInfoDetSec .stock_availSec .stock_details {
 	width: 45937%;
+=======
+	padding: 71px 1295px;
+	}
+	.beer_single_filter .beer_single_filters_inner .filter_txt {
+	margin-right: 1330px;
+	}
+	.stockInfoDetSec .stock_availSec .stock_details {
+	width: 37937%;
+>>>>>>> parent of 328a55c... again
 	}
 .tabbed-deatil-desc ul.tabs li{font-size:13px;}
